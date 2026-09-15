@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Opgavebanken</title>
+<style>
+  :root { --grøn:#1e7e34; --rød:#b02a37; --blå:#0b5394; --grå:#f4f5f7; }
+  * { box-sizing: border-box; }
+  body { font-family: Arial, Helvetica, sans-serif; margin: 0; background: var(--grå); color: #222; }
+  header { background: var(--blå); color: #fff; padding: 22px 16px; }
+  header h1 { margin: 0 0 4px; font-size: 26px; }
+  header p { margin: 0; opacity: .9; font-size: 14px; }
+  main { max-width: 880px; margin: 24px auto; padding: 0 16px; }
+  .vælgere { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 18px; }
+  .vælgere label { font-size: 13px; font-weight: bold; display: block; margin-bottom: 4px; }
+  select { padding: 8px 10px; font-size: 15px; border: 1px solid #bbb; border-radius: 6px; background: #fff; min-width: 220px; }
+  section.gruppe { background: #fff; border-radius: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.08); margin-bottom: 18px; overflow: hidden; }
+  section.gruppe h2 { margin: 0; padding: 10px 16px; font-size: 16px; color: #fff; }
+  h2.let { background: var(--grøn); } h2.mellem { background: #c77d00; } h2.svaer { background: var(--rød); }
+  h2.laerer { background: #444; }
+  .række { display: flex; align-items: center; gap: 10px; padding: 10px 16px; border-top: 1px solid #eee; flex-wrap: wrap; }
+  .række .info { flex: 1 1 260px; }
+  .række .info b { font-size: 15px; }
+  .række .info span { color: #666; font-size: 13px; display: block; }
+  a.hent { background: var(--blå); color: #fff; text-decoration: none; padding: 8px 14px; border-radius: 6px; font-size: 14px; white-space: nowrap; }
+  a.hent:hover { filter: brightness(1.1); }
+  .kode { display: flex; align-items: center; gap: 6px; }
+  .kode input { width: 120px; padding: 8px; font-size: 15px; border: 1px solid #bbb; border-radius: 6px; letter-spacing: 2px; }
+  .kode button { padding: 8px 12px; font-size: 14px; border: none; border-radius: 6px; background: #555; color: #fff; cursor: pointer; }
+  .kode button:hover { background: #333; }
+  .status { font-size: 20px; width: 26px; text-align: center; }
+  .status.ok { color: var(--grøn); } .status.fejl { color: var(--rød); }
+  .besked { font-size: 12px; color: var(--grøn); width: 100%; }
+  footer { text-align: center; color: #888; font-size: 12px; padding: 24px; }
+  input.ok-ramme { border-color: var(--grøn); outline: 2px solid var(--grøn); }
+  input.fejl-ramme { border-color: var(--rød); outline: 2px solid var(--rød); }
+  .par-linje { width: 100%; font-size: 15px; letter-spacing: 1px; }
+  .par-linje .par { display: inline-block; min-width: 34px; text-align: center; font-weight: bold;
+                    border-radius: 5px; padding: 2px 4px; margin-right: 6px; color: #fff; }
+  .par.ok { background: var(--grøn); } .par.fejl { background: var(--rød); }
+  .par-linje small { color: #666; margin-right: 10px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Opgavebanken</h1>
+  <p>Opgavesæt i erhvervsøkonomi – download sættet, regn opgaven, og tjek din løsningskode her på siden.</p>
+</header>
+<main>
+  <div class="vælgere">
+    <div><label for="type">Opgavetype</label><select id="type"></select></div>
+    <div><label for="version">Version</label><select id="version"></select></div>
+  </div>
+  <div id="indhold"></div>
+</main>
+<footer>Koden består af 8 cifre – 2 fra hvert budget (se opgavens sidste side). Grøn = korrekt: koden åbner også løsningsfilerne i zip'en.</footer>
+<script>
+let DATA = null;
+const $ = id => document.getElementById(id);
+
+async function sha256(tekst) {
+  const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(tekst));
+  return [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2, "0")).join("");
+}
+
+function fyldTyper() {
+  $("type").innerHTML = DATA.typer.map((t, i) => `<option value="${i}">${t.navn}</option>`).join("");
+  fyldVersioner();
+}
+function fyldVersioner() {
+  const t = DATA.typer[$("type").value];
+  $("version").innerHTML = t.versioner.slice().reverse()
+    .map(v => `<option value="${v.version}">${v.navn} (${v.opgaver.length} opgaver, ${v.dato})</option>`).join("");
+  visOpgaver();
+}
+function visOpgaver() {
+  const t = DATA.typer[$("type").value];
+  const v = t.versioner.find(x => x.version == $("version").value);
+  const grupper = { let: [], mellem: [], "svær": [] };
+  v.opgaver.forEach(o => (grupper[o.sværhed] = grupper[o.sværhed] || []).push(o));
+  const navne = { let: "Let", mellem: "Mellem", "svær": "Svær" };
+  const klasser = { let: "let", mellem: "mellem", "svær": "svaer" };
+  const lærer = (v.laererark || []).length ? `
+    <section class="gruppe">
+      <h2 class="laerer">🔑 Til undervisere</h2>
+      <div class="række">
+        <div class="info"><b>Lærerark – alle løsningskoder for ${v.navn.toLowerCase()}</b>
+          <span>Filerne er krypteret med underviser-adgangskoden (kendes kun af undervisere).</span></div>
+        ${v.laererark.map(f => `<a class="hent" href="${f}" download>⬇ ${f.endsWith(".xlsx") ? "Excel" : "Word"}</a>`).join("")}
+      </div>
+    </section>` : "";
+  $("indhold").innerHTML = lærer + Object.keys(grupper).filter(g => grupper[g].length).map(g => `
+    <section class="gruppe">
+      <h2 class="${klasser[g]}">${navne[g]} (${grupper[g].length})</h2>
+      ${grupper[g].map(o => `
+        <div class="række">
+          <div class="info"><b>Opgave ${String(o.nr).padStart(2, "0")} – ${o.virksomhed}</b>
+            <span>${o.branche} (${o.vtype})</span></div>
+          <a class="hent" href="${o.fil}" download>⬇ Hent opgavesæt</a>
+          <div class="kode">
+            <input maxlength="8" inputmode="numeric" placeholder="Kode" id="k_${o.id}"
+                   onkeydown="if(event.key==='Enter')tjek('${t.id}',${v.version},'${o.id}')">
+            <button onclick="tjek('${t.id}',${v.version},'${o.id}')">Tjek</button>
+            <span class="status" id="s_${o.id}"></span>
+          </div>
+          <div class="besked" id="b_${o.id}"></div>
+        </div>`).join("")}
+    </section>`).join("");
+}
+async function tjek(typeId, version, id) {
+  const t = DATA.typer.find(x => x.id === typeId);
+  const v = t.versioner.find(x => x.version === version);
+  const o = v.opgaver.find(x => x.id === id);
+  const felt = $("k_" + id), status = $("s_" + id), besked = $("b_" + id);
+  const kode = felt.value.trim();
+  felt.classList.remove("ok-ramme", "fejl-ramme");
+  besked.innerHTML = "";
+  if (!/^\d{8}$/.test(kode)) { status.textContent = "✗"; status.className = "status fejl"; felt.classList.add("fejl-ramme"); besked.textContent = "Koden skal være 8 cifre."; besked.style.color = "#b02a37"; return; }
+  const hash = await sha256(`${typeId}:${version}:${id}:${kode}`);
+  if (hash === o.kode_hash) {
+    status.textContent = "✓"; status.className = "status ok"; felt.classList.add("ok-ramme");
+    besked.style.color = "#1e7e34";
+    besked.innerHTML = "Korrekt! Koden er også adgangskoden til løsningsfilerne i zip'en.";
+  } else if (o.del_hashes && o.del_hashes.length === 4) {
+    // Delresultat-feedback: farv hvert 2-cifret budgettal grønt/rødt
+    const navne = ["Spm. 1", "Spm. 2", "Spm. 3", "Spm. 4"];
+    let rigtige = 0, dele = "";
+    for (let n = 0; n < 4; n++) {
+      const par = kode.slice(n * 2, n * 2 + 2);
+      const h = await sha256(`${typeId}:${version}:${id}:del${n + 1}:${par}`);
+      const ok = h === o.del_hashes[n];
+      if (ok) rigtige++;
+      dele += `<small>${navne[n]}</small><span class="par ${ok ? "ok" : "fejl"}">${par}</span>`;
+    }
+    status.textContent = "✗"; status.className = "status fejl"; felt.classList.add("fejl-ramme");
+    besked.style.color = "#b02a37";
+    besked.innerHTML = `<span class="par-linje">${dele}</span>` +
+      `${rigtige} af 4 budgetter er korrekte – tjek de røde og prøv igen.`;
+  } else {
+    status.textContent = "✗"; status.className = "status fejl"; felt.classList.add("fejl-ramme");
+    besked.style.color = "#b02a37";
+    besked.innerHTML = "Ikke korrekt – tjek dine budgetter og prøv igen.";
+  }
+}
+$("type").addEventListener("change", fyldVersioner);
+$("version").addEventListener("change", visOpgaver);
+fetch("data/saet.json").then(r => r.json()).then(d => { DATA = d; fyldTyper(); });
+</script>
+</body>
+</html>
