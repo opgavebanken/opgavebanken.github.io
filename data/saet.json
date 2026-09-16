@@ -817,6 +817,824 @@
         }
       ],
       "kode_tekst": "Koden er 8 cifre: de første 2 cifre af kapitalbehovet, lånebehovet, årets resultat og likvide midler ultimo 4. kvartal (se opgavens sidste side)."
+    },
+    {
+      "id": "bidragskalkulation",
+      "navn": "Bidragskalkulation – handelsvirksomhed (import)",
+      "versioner": [
+        {
+          "version": 1,
+          "navn": "Version 1",
+          "dato": "2026-09-16",
+          "opgaver": [
+            {
+              "id": "let_01",
+              "sværhed": "let",
+              "nr": 1,
+              "virksomhed": "Viking Distribution A/S",
+              "branche": "vinterjackets fra Polen (EUR)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_01.zip",
+              "kode_hash": "72c40972bc19d48ca52a65c8215c18b268de911f06a124bfca9e4fb04bafb447",
+              "del_hashes": [
+                "5dc214628224632352da4f6c652c9e66db81547dcda0e7ce659bfa6502b3861f",
+                "f13dc325fc67570c23d8458d8165109a92c46c11861cc91f7283554153f46461",
+                "7b4cab7960869844ca7c2dccf488f64df58dbabb3dd075304ef42db9f3311d66",
+                "de91395505112ca52e98bda35baa98db415c7bb7dc77045606390c28d365f19c"
+              ]
+            },
+            {
+              "id": "let_02",
+              "sværhed": "let",
+              "nr": 2,
+              "virksomhed": "Euro Handel ApS",
+              "branche": "uld-tæpper fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_02.zip",
+              "kode_hash": "af29e490d672a7d8528abf6304a240a3fddd0144bbc469c1e12a705fc620e0c7",
+              "del_hashes": [
+                "87c3499f4e591e1f69f559d3850c36f00c65eed66ae16c74c2586ae8cb684360",
+                "c7febd66897fcda503134ab19bb8ec2b5f0a19ba1a739c7a4a71341908ff3207",
+                "a53f1fa58affb56682cae3ec29f1355f5f7e94f0c20221b5214d12407379a660",
+                "f605cb38fde3b01261483b3f4791b71b0ddef657cd9cb36b967b642388d982d0"
+              ]
+            },
+            {
+              "id": "let_03",
+              "sværhed": "let",
+              "nr": 3,
+              "virksomhed": "Scandi Group ApS",
+              "branche": "uld-trøjer fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_03.zip",
+              "kode_hash": "6c3f0ee971c1f74e7c7206d1af50522270e6ef29e309ddb04747c6ea88441c6f",
+              "del_hashes": [
+                "29386a9c84d39f78c857b2d51c5871274b7cdfa4a28e8c7ef559f4b487c569e8",
+                "94458701cbc1bc37330120fa2275b818c7f8ff57536853aa116f97765c8dee06",
+                "444fed8778401e9c5bf6ca1f621a983003df0f9df9db2c86813c8562027950f4",
+                "0663af99d546b04769f9b583dd7b5005748ff7c43f8060746b8988067705f2df"
+              ]
+            },
+            {
+              "id": "let_04",
+              "sværhed": "let",
+              "nr": 4,
+              "virksomhed": "Køge Trading ApS",
+              "branche": "outdoorudstyr fra Sverige (SEK)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_04.zip",
+              "kode_hash": "dc7fee02722e9ea5cd03f907d3545da55e4c8fc21a4130489cc350ad0f5e4618",
+              "del_hashes": [
+                "0511278f27ad6afa964887eb0392dd89fdf55fd23c9bfb8f105fa0aa6b54098f",
+                "b4720858e470f4858ce61ca0ac4ef789175b09a58180729bba593870e946fb42",
+                "96c26550a4684f74d2dddd5d3d10822ff4da536fb17a24e312f6ba24b2c15a6d",
+                "b49778855753c4c40c944732e6b8d64767c252f065af807f3900831eb491b9e6"
+              ]
+            },
+            {
+              "id": "let_05",
+              "sværhed": "let",
+              "nr": 5,
+              "virksomhed": "Nordic Import A/S",
+              "branche": "fiskegrej sæt fra Norge (NOK)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_05.zip",
+              "kode_hash": "716019abf269a07afc6bd520fcfbd685266bb90e671802db25ea0a24f8e2d1ce",
+              "del_hashes": [
+                "8bbc33aaf01605da1dbded9733c9b65e47f7f7ccacf908c2e7ed6a7d24326a2d",
+                "291ce3ca3804aede48716c7d44671710565b182a952daeb5c1620957a64dd4f9",
+                "e04994b45186d75ed4c7add192e8c21b9b0a133e9fe3ad9fd0efe165780fb06e",
+                "945b7722f5ab81c48b6919d2de59901c1a79f124806161a6b045fc87c15dc9d9"
+              ]
+            },
+            {
+              "id": "let_06",
+              "sværhed": "let",
+              "nr": 6,
+              "virksomhed": "Aarhus Group ApS",
+              "branche": "marmorfigurer fra Grækenland (EUR)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_06.zip",
+              "kode_hash": "13c42cc1f6918f52617da036175c867c535553b4e5870a4d9247a0199086359b",
+              "del_hashes": [
+                "b9914478b43aa3a2902955ab81abbe3b2742351cfbdc3dd0b6a5b1dbb78b4126",
+                "fba5496c3539e37b8946006ad3bfab1b99c0d434f04942a2f7e05217ec7e0479",
+                "fbcb5b223fe476f7c9251ffdefce498b42b420c2c8f1c9977acdfa2e7747d52d",
+                "de632eead8cc70df83c1455d48ee354c71eac7ad69ff92f0f3e7c484a14e012a"
+              ]
+            },
+            {
+              "id": "let_07",
+              "sværhed": "let",
+              "nr": 7,
+              "virksomhed": "Baltic Trading ApS",
+              "branche": "olivenoliesæt fra Grækenland (EUR)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_07.zip",
+              "kode_hash": "69569574bcb3da174ddc79cce8dc55deea20f1abd95e1247faa503ef808afe3e",
+              "del_hashes": [
+                "8ba33b5339a985a23c06ab987399cb5beb62bcca49f3277b0694f956996b38ae",
+                "93df3d48b52fadc43348f92632d850478fc85a39e2888384b9bbb3f553b99e8a",
+                "b2aa46a79d5c5f405ce4252e7de6954ae0db3b229aa970f482f736cda32301b8",
+                "f79f6b35fa2f5d15ac5fbeff551d12ca07872b000a0b3a04406c0232a46871e9"
+              ]
+            },
+            {
+              "id": "let_08",
+              "sværhed": "let",
+              "nr": 8,
+              "virksomhed": "Fjord Distribution A/S",
+              "branche": "porcelænsservice fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_08.zip",
+              "kode_hash": "3df3842af9ef39cce4cf64f20e59ea791234dcc72471e1f60cc8c4f354cab5e7",
+              "del_hashes": [
+                "225559533f3f325b84e76ef84874ce0b442adecfe92483d7b0c82834cc84e723",
+                "4765767001fd4bc4d17871f8febc3b944d703c6bfe3f2d29bb08e82912614cf9",
+                "25446a85e052476393611fbb2270e11138fb82ff9962de6c973957064e0bc52f",
+                "1dd639ad6850167ee3e05fe7e5732f40214f296e2237c11628ddb6cf8a6fb1bf"
+              ]
+            },
+            {
+              "id": "let_09",
+              "sværhed": "let",
+              "nr": 9,
+              "virksomhed": "Køge Distribution A/S",
+              "branche": "fiskegrej sæt fra Norge (NOK)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_09.zip",
+              "kode_hash": "612e56fa4b9e74ee50b48fd3bf430d367bced3e81235384dacda4c425036ad63",
+              "del_hashes": [
+                "88803b4e3702a84bade3f4da6f283cdbcbd1fe4e928499d5c40d3d2aafa444f1",
+                "e5c06d06f27fd33c8b5255bcd6b3bc0e7d9fd34cf17784edd9b0bdd733d0d65f",
+                "90ae4d623b9f49e1b78c41302bdd97428562f27731bdf97097615a878c468c5c",
+                "d9bbb61a29c77b46de43650a322f5961ada0c104dffe98f4efb25a97cf6924f2"
+              ]
+            },
+            {
+              "id": "let_10",
+              "sværhed": "let",
+              "nr": 10,
+              "virksomhed": "Vejle Distribution A/S",
+              "branche": "tweed-jakker fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_10.zip",
+              "kode_hash": "0f7c98b067f7161b6cad29b20b042e4b7fa3795e5108b839a9f9f5ce9753bf2e",
+              "del_hashes": [
+                "e1c034a5234d173905e565fa281314426850a528c0f061794823ec50403572a9",
+                "3607b5f1b1fc366ba3737049ec23b4e569adca8a541df51c873ac1c217daedc5",
+                "3f2332627b156da39c46f3b101ee943c91eadf05e4bcf35c216e1a10eb6cb4cd",
+                "148c4a6dbb2eafe6c0a1caed6851192f3d8bb59897e0ed3021131dfecbf1e152"
+              ]
+            },
+            {
+              "id": "let_11",
+              "sværhed": "let",
+              "nr": 11,
+              "virksomhed": "Dania Distribution A/S",
+              "branche": "solbriller til sport fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_11.zip",
+              "kode_hash": "fef7e7da5b3cccdf29a31e33e0bae08d335eaf77e2233619eb6262f344efcb5e",
+              "del_hashes": [
+                "4c124567c5cc5f49219ee8854fbd88f8035911cb5cc19815f32c6453d496abaa",
+                "06c5aa8678c46bca5cc71c228b04ffca80ac7d533456bba8f6739420d64f97ab",
+                "d949d164cfd6548034d951addbf590d8f0937d7e480bd1101f481bc989879487",
+                "698555d679107213b45c7405dcc65272ba54123a235a6abd8d67df8d59defcde"
+              ]
+            },
+            {
+              "id": "let_12",
+              "sværhed": "let",
+              "nr": 12,
+              "virksomhed": "Odense Distribution A/S",
+              "branche": "design-møbler fra Sverige (SEK)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_12.zip",
+              "kode_hash": "19f99bbb770c86e1a8df0cb58107cf0a184a296d867a65704a417ea68a7ea19b",
+              "del_hashes": [
+                "c2715e5066a9e2ea9ff6b055940d9fccb7d4a07b70f5b50ed556681ed7b6e3ba",
+                "ce0c02b3d18a7623f51dd0c60d9ec74044809617026d076dac9fb0746a702f9c",
+                "0f0725583f03f9f8cafa19c00f7cd9350d06b43635fcb137261669fe65e67d33",
+                "0bc0fa55d51f6cb609ce83d55202e796bc8f59b1c32a58fc0fd72753bc3628b2"
+              ]
+            },
+            {
+              "id": "let_13",
+              "sværhed": "let",
+              "nr": 13,
+              "virksomhed": "Viking Handel ApS",
+              "branche": "vandrestøvler fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_13.zip",
+              "kode_hash": "02f0e1fbe1f7e6f9d446b0e259f423e28efdcbf27abbf451f4f9ed20309b3834",
+              "del_hashes": [
+                "5db6b58f91e39f8ac21fb41b1a2fd11ade8148bbeb93f0799511cc6217f0ed07",
+                "138920dc997db6cad5b28bc3dec92773b9177923cdf1b6fe3e5cb943a9d65173",
+                "247b531db38c11bfd6fa7907a2089c1446d0a92a234cf48fac55e11b2a1ccc4b",
+                "d73e32c74d5591952ae5822f044f42ba1a92962fa11544b80fd78a5fe899a080"
+              ]
+            },
+            {
+              "id": "let_14",
+              "sværhed": "let",
+              "nr": 14,
+              "virksomhed": "Odense Import A/S",
+              "branche": "parfumeflakoner fra Frankrig (EUR)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_14.zip",
+              "kode_hash": "0550d50a272876b36225ce67930fe3acd078a03059621e2b9e1ea30ca97573ae",
+              "del_hashes": [
+                "fe49cd9141f4f64cd24f70f3105697c5394baa501b544f5b7bef7536b6203279",
+                "b60e139c194202a7b49f441b2d87f037f2b1ae61584503b952f559b9c2768f83",
+                "80a6e897bd7ae1c16c8361fb5bd16c0233fedd1e57316bab181a71ddb0ea6a3d",
+                "2474e49296c894cce7d7bf81c0592865af319e1f61a930b2f504356e4d10acbb"
+              ]
+            },
+            {
+              "id": "let_15",
+              "sværhed": "let",
+              "nr": 15,
+              "virksomhed": "Esbjerg Trading ApS",
+              "branche": "uld-trøjer fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_15.zip",
+              "kode_hash": "10e90f616a8297793b0b6c84e4956006f61bb83ff12a56330a96d8796b01da75",
+              "del_hashes": [
+                "8dd840c7912f1eadebd09af5d53c34190963318d656a661d14f95ffd08ac15b2",
+                "f16a82dd68324050017a2cfdb9913e442100e7119a4a4b28df3040bf3e01ef1d",
+                "a7a35c3313449c20392affb0a1604c2efdf57ec57d02dba2a926ea6b6a4235f3",
+                "971e7b049e5b0bc4bd631f4997b8ec6a1936b5bfefea6f21637d8390d378d586"
+              ]
+            },
+            {
+              "id": "let_16",
+              "sværhed": "let",
+              "nr": 16,
+              "virksomhed": "Aarhus Handel ApS",
+              "branche": "whisky-karafler fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_16.zip",
+              "kode_hash": "3e226b5d0782a331910fdb5b46b1d8619df616858da8045ca805caf7d06bf81b",
+              "del_hashes": [
+                "6cb0e86c17e13a6206a1561a59ce6779f893e23ccd3be4b6e28fee56625e55d2",
+                "15d85e6116b6928e39a6df7374f4c5504c82a719b0de44d336f9fae09e2d3b72",
+                "50abb74898e1ed9d9e2ae22612b78e77fc457bafd373736a993cb3222d86250d",
+                "2b2bbbb54cd56dfcf317469568398358ba35f0509f3c8ed3564ece1f0a63d64e"
+              ]
+            },
+            {
+              "id": "let_17",
+              "sværhed": "let",
+              "nr": 17,
+              "virksomhed": "Odense Group ApS",
+              "branche": "outdoorjakker fra Norge (NOK)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_17.zip",
+              "kode_hash": "e399440e98a58de0839545aab0d15bbd9e40ea6fd9a97d0ab36237a8fd5b9394",
+              "del_hashes": [
+                "8725f7bca98ca314c0b8a151425ad87123ba1eb214d9ae4006c467835ded28e1",
+                "078e8c9d8be2a025a58f1f83839ab480c6d56343ffad37f83704434468558368",
+                "cb29e8ca7c61c36ab9e109b02c6dc8099f0adf8fe823ca63b6b2515fab32a556",
+                "6d6329fe6d1aa9ae09ced488730ffa28bc637d8e180765f09e011c816fd497b0"
+              ]
+            },
+            {
+              "id": "let_18",
+              "sværhed": "let",
+              "nr": 18,
+              "virksomhed": "Baltic Distribution A/S",
+              "branche": "fitness-wearables fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_18.zip",
+              "kode_hash": "db74e56fa819a7220f34a089ce4c8b6feca4ef0e7fadbba0581b26a824048b59",
+              "del_hashes": [
+                "3a1938e6fa02b411a55c95f59e4a5bc81b344be8c10dd16e6abf270f02328ffb",
+                "983795b065146dd379aa45256c79925a108542422ee768999a8b9d47cac23253",
+                "c2a25aa8f4a4d7dbf236dc4f57184acb53f93299796448411e8895e0daf8faf4",
+                "fb39ca9af31afeb8874475cad1528bad4b37916e2046df326abde048b8a94714"
+              ]
+            },
+            {
+              "id": "let_19",
+              "sværhed": "let",
+              "nr": 19,
+              "virksomhed": "Viking Trading ApS",
+              "branche": "designlamper fra Sverige (SEK)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_19.zip",
+              "kode_hash": "8e06ce23d0baaf1a70de5e65b6c307307fae43924be29329c586ca0ffe1fab8c",
+              "del_hashes": [
+                "73f5978d2752018907a52fad4740ea21c2d0b1663546cd0c6cebffebd607b72b",
+                "fbe76aa3cc7d3b268752e2e391cf5d7fc030033acd3925c162de3d6a55b1b24d",
+                "856cb2584504d71643946d0303396e0c022a6a2ccf6b2bf3b019b1fef50ba047",
+                "eb1a1605a8204aac20630a6ad5846224ec62effae9b89c1281bfa8c55be188d2"
+              ]
+            },
+            {
+              "id": "let_20",
+              "sværhed": "let",
+              "nr": 20,
+              "virksomhed": "Vejle Commerce A/S",
+              "branche": "campingudstyr fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_20.zip",
+              "kode_hash": "3c81c54d1d087422af4886d4c750f82f3662f9681bc167715efd4097dc578534",
+              "del_hashes": [
+                "e468c0723cf18804469694e540a8cfb6c33f993f00b4f04bf96931a59ca776ba",
+                "fdb338da4e99a267b92590914d2ef9db3bddc2c4504c6719d6fbed61eb6a6add",
+                "c8c9999884f72dfb6f74896ae73d987efb3a13f24212958833ae8f9f41fd2046",
+                "5e0e17027eecd174236c40c2a9fcffc72ca20967925d1a0e1f5203dcf7ecdf27"
+              ]
+            },
+            {
+              "id": "let_21",
+              "sværhed": "let",
+              "nr": 21,
+              "virksomhed": "Baltic Import A/S",
+              "branche": "design-møbler fra Sverige (SEK)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_21.zip",
+              "kode_hash": "fd9cd63ac28183f22369616980f71c279cdc20fe8a21b40bb1f1c2fa63298eff",
+              "del_hashes": [
+                "e474213d1551a7785f8b0f95eeb5563cd2b0d2d1f3c7936708223843f4d554dd",
+                "370d63ccf73200aad3fd3f35cfa72834111450a5226d50e7de0275f1600ac766",
+                "354c6044b1d2a1f78c5df349173e72115606f340c54914a52c2e9ace46ade968",
+                "87c0086ad310c65dc3b1c588c3fca14a02545423169fd8a1bcba489417dca749"
+              ]
+            },
+            {
+              "id": "let_22",
+              "sværhed": "let",
+              "nr": 22,
+              "virksomhed": "Køge Handel ApS",
+              "branche": "træskærebrætter fra Østrig (EUR)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_22.zip",
+              "kode_hash": "a45734a6b97a487544c5cc40425d6c0c35cbcff79375cab0c01fb5d53e223ddb",
+              "del_hashes": [
+                "c6e2984fc90e3c6e974b0e865f24b4eb3d29d39a4e0ac5f36ad77a8695a86612",
+                "c88c18892186a0d0d57a7b3cb3c410b071b6cd41eca69234c5becfc00e4dc4b3",
+                "fe370db11948923ca455f7b2be4e3a204904744c4ef4cb83e90a77b94eb1c409",
+                "1fd080514768e9be6b425f030a2a8e8723466d0533512fa619d1a35fddf5012f"
+              ]
+            },
+            {
+              "id": "let_23",
+              "sværhed": "let",
+              "nr": 23,
+              "virksomhed": "Scandi Commerce A/S",
+              "branche": "porcelænsservice fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_23.zip",
+              "kode_hash": "3249576da1171a1a952816aca7a95f84fe12ecf2235833269d65f5349a4ea1dc",
+              "del_hashes": [
+                "a57e12b21b80c81c6fb0ff2000181ff90d638a3adc56aeec8c43b07eb91457e6",
+                "a6214e7922c77db10605b69fea21e654ae341f7b3b3baa1e5aa722105fa9931c",
+                "95704dc3d47f13d7cf6195065129c26b9e3178792c475c514f2b6e34d2a9e581",
+                "3f8c58b9f0eaee1d73c6d0f4984d1be451cf66c76d552ae668c47ec0c8540f3d"
+              ]
+            },
+            {
+              "id": "let_24",
+              "sværhed": "let",
+              "nr": 24,
+              "virksomhed": "Nordic Group ApS",
+              "branche": "uld-trøjer fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_24.zip",
+              "kode_hash": "3d8057c0da343d91ab63c749e0a6481075401e0d4d973bb41d44522d075ffd67",
+              "del_hashes": [
+                "ebfbb9edff90c45a9a16595ad623f72cff06a5304b68a203030125cf07099a60",
+                "84e5ebca9dd51677563f6f6ce4beec298c3656085d4b0fc5e8d468310628e4d3",
+                "350cedd1dcc896774b3f0be1b9435db6bbcfeb6f1dcba717599c51eaebb5eed9",
+                "5087c54d0322fa51dbccf652f1e7a72cf8f0d581ddbaa8f2df2f572078fda87f"
+              ]
+            },
+            {
+              "id": "let_25",
+              "sværhed": "let",
+              "nr": 25,
+              "virksomhed": "Scandi Handel ApS",
+              "branche": "bluetooth-højttalere fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_25.zip",
+              "kode_hash": "45ea923a63f841a32b13171329670ff032b88a9ad228eca710f69046a1ad684d",
+              "del_hashes": [
+                "e21bb2bed6ffa64634398465bd58ce528d4aefa778e0031074b3a2d6c36be493",
+                "f86c2618aaa6b20ea01606bf78aada13c0b296363d5f8e8479852516d850b23f",
+                "39c955e5c917f64ef42c97333abd12b59264f2339a61082f734d9de84c7808a6",
+                "84145380108279966f123b4ff946f34c09d4033132029dae6988b6df480ebef2"
+              ]
+            },
+            {
+              "id": "let_26",
+              "sværhed": "let",
+              "nr": 26,
+              "virksomhed": "Baltic Handel ApS",
+              "branche": "uld-tæpper fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_26.zip",
+              "kode_hash": "90ce4697360f97149eebabfc05597a61dd727828f5dbee42edf2de4aa22cc810",
+              "del_hashes": [
+                "666f67d7da73acb9551311a7ba8fad9f63aa8d7e579a149377aa39e869c7e4b8",
+                "b11bd7c561b31025fac2ec6b5a3f9fb875862572b14595287ab3c57a09101920",
+                "517882dc6035f352770c7c5c4d3c8cb374352700a39358c755d784082192825c",
+                "eb67951596bfd8be408b4199892f1a3c946df6ba4a226cb56a4a3dcfc081a272"
+              ]
+            },
+            {
+              "id": "let_27",
+              "sværhed": "let",
+              "nr": 27,
+              "virksomhed": "Fjord Handel ApS",
+              "branche": "outdoorudstyr fra Sverige (SEK)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_27.zip",
+              "kode_hash": "32b8cede23bc968076e0dd58414b8e7d35b32b860c8c9cb8619544a7647229cd",
+              "del_hashes": [
+                "3f75ec96c166332fd30379bf639a46e97cabf76dd0484fa8c2a72c9c5e791322",
+                "ea1d253587767833a8c448533a982f10c8d29e00ce32afe13b4b4d61a9c00a53",
+                "205ee4f501db5e5408fd37c2f4b32c1c98a2a2058d06771c0e5309d247a1bb4c",
+                "d239b76910ee7ba3b4faf9f588145145f7e7961e17deee0be49bfd18fc9fabde"
+              ]
+            },
+            {
+              "id": "let_28",
+              "sværhed": "let",
+              "nr": 28,
+              "virksomhed": "Esbjerg Handel ApS",
+              "branche": "solbriller til sport fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_28.zip",
+              "kode_hash": "8d36d4af9cea2e0221d2bc7741ebbb49d9283fca1fa0c927e5feb4bb666f2a6e",
+              "del_hashes": [
+                "febb9337db164e1f728b23996dbbb5844b8564b9c18d47909a445e9f7ef78db7",
+                "f7a036e13ab9973a577ad93f8905abf986e46be42efe55d8ae187046ccc85c33",
+                "a74fbb1b4115e2a71f0fd03335da57bd34ff2397c847a775550672acdfe76fd2",
+                "89c802f8b28d904c1de704432f7fe544624b29a5df1d3b514712b72161943232"
+              ]
+            },
+            {
+              "id": "let_29",
+              "sværhed": "let",
+              "nr": 29,
+              "virksomhed": "Dania Import A/S",
+              "branche": "ure fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_29.zip",
+              "kode_hash": "a659ba0872b22aaed4277260f34344bfc1108437f6d94950bbee48bf966a09ff",
+              "del_hashes": [
+                "9a962a537b20f35e82b0d4d604036cbd67843672272bd2f2b16b10c1f25cb322",
+                "353cdbce00836d0a2e452a9b8e33c6c7199d5e3f034f1a2e8a9e89c51d7ec91f",
+                "70e4c2283472afbe990ebba8477336926c8c8a7c207dae8a787e832693c513e2",
+                "7e898ffbf30fd81bbec60f4888ff458d1ccda62b8aed0de6804d14e8ef7fcb74"
+              ]
+            },
+            {
+              "id": "let_30",
+              "sværhed": "let",
+              "nr": 30,
+              "virksomhed": "Vejle Handel ApS",
+              "branche": "sportsudstyr i høj kvalitet fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_30.zip",
+              "kode_hash": "8315cffc2fb6d6350977d71915bfd4c96d84896a7dc78b4044c48c64586e5ecd",
+              "del_hashes": [
+                "ccc61a40e3c6ccbb2e01f8b05daecbc49ac6d70398da55e1a24ad7b30acaba3d",
+                "56d6affeb1a2de0fc0a1aa84df9b733322b1427441f5ea656d021e7449848296",
+                "85087d7deaa2fc97b7f411536e2abdd807fcc86f39fc9f77562c330a1880e46b",
+                "600d957996f635e9c3712e99af077013e8eb016a4fc44011b019a78ef61fec03"
+              ]
+            },
+            {
+              "id": "let_31",
+              "sværhed": "let",
+              "nr": 31,
+              "virksomhed": "Køge Commerce A/S",
+              "branche": "vinterjackets fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_31.zip",
+              "kode_hash": "3b46a3ed5d6851b799f1c30eff1da6694c51f3d7ebe86c8f43b29edcdc98f8ef",
+              "del_hashes": [
+                "afd2cea3655827c623f0c76297e7787bd4eb63672a9f92d5749007aaebe82872",
+                "7e5ad4646654b40ab9571e1ad3655fb12e5a86e271b7db531bfa36ddb0224108",
+                "77626ac87ba16257a82db0b3df55cdf54d5d9d95ab31b4e4c774cf6d42c06003",
+                "edbbfa003ec52c98c7356ea99f0a7e9cdaf0d89c23a9bdad2aa8e93ea0236bfc"
+              ]
+            },
+            {
+              "id": "let_32",
+              "sværhed": "let",
+              "nr": 32,
+              "virksomhed": "Viking Group ApS",
+              "branche": "rygsække fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_let_32.zip",
+              "kode_hash": "104f6a8023fb4d219e90a2270cd0dcbe4d2eb7142178c2559ed01446b48aef9e",
+              "del_hashes": [
+                "08a0bacc1b2e3693126f72354ca0ee6ca218c3ed2fd1d21dd9ff0d79147d1678",
+                "ca27d5965000c3dfb8775d453b4087e2391ca1fd023dba89931875c2309636ec",
+                "ecc9b7d2f27543474a2b30712393ae649ee02e43f9a575e7bde7b902e4e723fe",
+                "6a4ea3512de7da73cef6d76335a9f6515f1a694b6685cefd7914dc3acd0c571f"
+              ]
+            },
+            {
+              "id": "mellem_33",
+              "sværhed": "mellem",
+              "nr": 33,
+              "virksomhed": "Fjord Group ApS",
+              "branche": "vandresko fra Norge (NOK)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_mellem_33.zip",
+              "kode_hash": "cf820b2e36ed1ad223735d495da8cbae11087714be8c7377980681e5a3f33db0",
+              "del_hashes": [
+                "ca052eb40d57efda7912926a1186f4e4bf3e2eb3fc5de7842335fe8c8acbb42f",
+                "ea375408fe2d16a480d42f4124d0e8c758b8c643f77086abcc7c9ea6e33af8de",
+                "ec9fcebe0c7ae06beec9cf732f2bd999480cd0660779bf748f931b5b955ed110",
+                "162c7606e685072bcaa45eda5ebc59856007f105c6045c5e5a4db5f2f998bd63"
+              ]
+            },
+            {
+              "id": "mellem_34",
+              "sværhed": "mellem",
+              "nr": 34,
+              "virksomhed": "Viking Import A/S",
+              "branche": "solbriller til sport fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_mellem_34.zip",
+              "kode_hash": "ac85a9bcbb9119c3928857cb3fd30ba9330ed4d407a4a934b8cd4501e6814f25",
+              "del_hashes": [
+                "bf42c6114ababde3a4b280e6fd3cce7aac1cd34b8dda64c1d48e510601ef78d0",
+                "2609e75abf59ed3206280ae695eff5e434d48789834bcc92e0929825755f5578",
+                "078ab157646c83345bedb8c1637f8ec013893608bc7c9b49cd1152fdd4b8409c",
+                "da19ecca6f1ba539a18f16d4588f74aca6ebd9d02b7f34b78dff3c5b49f9bf31"
+              ]
+            },
+            {
+              "id": "mellem_35",
+              "sværhed": "mellem",
+              "nr": 35,
+              "virksomhed": "Euro Distribution A/S",
+              "branche": "fitness-wearables fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_mellem_35.zip",
+              "kode_hash": "331963ddc6f78b58f33cc360a33342be717a6529bb1c9c89f1102af4af521493",
+              "del_hashes": [
+                "f9b69e1fbafc77b1ff3c29b5d2445206b2367922636758987b5070552e19f3a4",
+                "1c3da886fd327869ae1ba7d61ce507caea62d3e5af2e94972aec9dac2036cef2",
+                "3e98b125e1d053c267a2f9864b027471944f678c665d89741bb3d08522aaa1d2",
+                "b7323154c4e13bb44a2e8dd3654fd28d7173b040e4cffe44268283d7be46335f"
+              ]
+            },
+            {
+              "id": "mellem_36",
+              "sværhed": "mellem",
+              "nr": 36,
+              "virksomhed": "Esbjerg Group ApS",
+              "branche": "olivenoliesæt fra Grækenland (EUR)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_mellem_36.zip",
+              "kode_hash": "c06792584e0c93393082e516a940024c140b80763edc52ec6829cf0cbc2889d6",
+              "del_hashes": [
+                "acdc094428ad6e9f65ea708adde5f578751a306a4272c7715367c4e1c8c17cb8",
+                "cf4efa10d213fdd77022969fc5a682b0c4b890cd2e22a8c710d56cc130c79b72",
+                "74f546b7abac1c8d042cf263f047a8318ef8105803e76e794c9bb58e85b8f7da",
+                "ee18630680202a5d77d9c3d01eb6a0396be0ab0ef366f51b56b3de1ae0ac3871"
+              ]
+            },
+            {
+              "id": "mellem_37",
+              "sværhed": "mellem",
+              "nr": 37,
+              "virksomhed": "Esbjerg Import A/S",
+              "branche": "vandrestøvler fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_mellem_37.zip",
+              "kode_hash": "439ff60e4303e3372886181ba73bdf038f8c4e1ec4307f15837cfe50a95605fc",
+              "del_hashes": [
+                "a3830ef4236d73e48bcba01a4a6be6fce191eb218107f97f143182290e68f0e1",
+                "75511de16e51ad5dcd1027e31edd9460d81b355851211466c02760b5a28598ec",
+                "6605049c415cb4dad1029923f5097884c296ccafb248f969761db0c49d2266df",
+                "1436b35df2e28fe416d79779fc207d206c3f769d878fb61fae050ab36d76453a"
+              ]
+            },
+            {
+              "id": "mellem_38",
+              "sværhed": "mellem",
+              "nr": 38,
+              "virksomhed": "Dania Handel ApS",
+              "branche": "vinterjackets fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_mellem_38.zip",
+              "kode_hash": "03b23fd8cba19726d96ff3a70f43348c1f9741d64d9e6a5f98769ecd739e4980",
+              "del_hashes": [
+                "62194b900658f9973ca388fe24667ae85d5ffe23848ceb5d6ce923763fb621ef",
+                "53c71d7b9b1aaf9c94e194d0c03f8c7173828edf234eb81259df96d7492349c2",
+                "ed6d5fd534a8d14dd78f01fe808d21fe047954a59a3575962d04e00bbfbe4e42",
+                "be1e6810f30c0832cb274158a6d3619810c7555c06ee4e782d0fb6f967901f89"
+              ]
+            },
+            {
+              "id": "mellem_39",
+              "sværhed": "mellem",
+              "nr": 39,
+              "virksomhed": "Køge Import A/S",
+              "branche": "schweiziske lommeknive fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_mellem_39.zip",
+              "kode_hash": "7a58ec30150b72236f36df87e47f57016a144f704caf9c7fcc4392fc869c9d78",
+              "del_hashes": [
+                "416bfcb858d2474b784338cf62886d0440caab6b006ef3624d3f43739785dfc6",
+                "694628e2f69fa5c8f3c43e40bdf0712d37e8b02510b87eebcbb23268890dc0eb",
+                "d04f2c6c6f5590e27a1489727481b14bb4e6741e4c6b8db4c5f1e53be775a409",
+                "4a10bff3014939321227ea71e324c307d49440e2c1d5c06c30ef29764308a5fb"
+              ]
+            },
+            {
+              "id": "mellem_40",
+              "sværhed": "mellem",
+              "nr": 40,
+              "virksomhed": "Dania Trading ApS",
+              "branche": "sportsudstyr i høj kvalitet fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_mellem_40.zip",
+              "kode_hash": "8fb8e719950c0af7149ec46cb36b6ae47e52cde96d96e6b17d0ece0ba738d0e0",
+              "del_hashes": [
+                "237d22d0b552822ad8c891212339ff917c541ac95f6c0a5093b2872feb9efdeb",
+                "6e0e075ec3c540fccc6514effaf24332f93ec99e24d50877aacdf1b0b4beb4e8",
+                "643970ce11d583ff306a47a63c808967f3e78d4da80a8c8d76cafd29140159c0",
+                "fce9486d96862a769b0fa10b67613ae77165c8af9bdf0c7f85f611c71fbcd586"
+              ]
+            },
+            {
+              "id": "mellem_41",
+              "sværhed": "mellem",
+              "nr": 41,
+              "virksomhed": "Odense Trading ApS",
+              "branche": "basketballsko fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_mellem_41.zip",
+              "kode_hash": "1b3643d0acb0eded78781f1d0a77157e897c07420fe08f19faf64a48cca0b08e",
+              "del_hashes": [
+                "ac544ce3e36755fa2a9d9d71a8f8ff96272edb193482c11ef52b13e525dbb21d",
+                "e020919b81e0741a6ce5a787631fe214cc12ebcc32aaf22a8f96c266ba7a349f",
+                "8497fb89b2bba533b255147c0f22c031024e4b3ce320d78ede0497153806c826",
+                "5c41c1fb3cb109284b0fec2d63b8a6b39899f80e22a35090db29cb60e9a283e7"
+              ]
+            },
+            {
+              "id": "mellem_42",
+              "sværhed": "mellem",
+              "nr": 42,
+              "virksomhed": "Esbjerg Commerce A/S",
+              "branche": "sportsudstyr i høj kvalitet fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_mellem_42.zip",
+              "kode_hash": "3edcc3b9e1e10a2e1240e80d0b2b424f29b2a6fba2088583e86e4124387ed698",
+              "del_hashes": [
+                "960f3d2d35b574a984bc6d4af939379745745e783e86c58ecfc3783b2d778fe2",
+                "a718fadf84822451032078f5abc5866d68b19c33e80a3a6a0912610abd42a9c5",
+                "bff9b58bab161b83ba4b8c44a5f26e266fd122c32e56e73066af6ba3482d9513",
+                "1c43394fa95d0d1512cff61e44915e07a1a081950643c44441d5e10cba82c0bd"
+              ]
+            },
+            {
+              "id": "svaer_43",
+              "sværhed": "svær",
+              "nr": 43,
+              "virksomhed": "Vejle Trading ApS",
+              "branche": "præcisionsure fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_svaer_43.zip",
+              "kode_hash": "2bbaffa9fab52f43c1e91fc0331884a0b3ce670b690d927d93d72a2780664a56",
+              "del_hashes": [
+                "fc4aeb02e5c903410d93dbe08078144940144568fa559ddb5c43d7d1e472941e",
+                "f1ffca9ba6984dee9158e27085d8f30de9a0da72f5a85212ae4fd5f36ddf0ce8",
+                "018fc36bf0510bf9580e2d9ff4a36e2977e438167a76eed897795b76e64f327e",
+                "970445344cae84089f8903933da2a46566a833d39a8350af51d00d6c0cd3bed6"
+              ]
+            },
+            {
+              "id": "svaer_44",
+              "sværhed": "svær",
+              "nr": 44,
+              "virksomhed": "Nordic Trading ApS",
+              "branche": "ure fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_svaer_44.zip",
+              "kode_hash": "640aec5efe6e3a3ba0aef3e9c9fc794e1b55118361053c81ea469119c943d31c",
+              "del_hashes": [
+                "bce107f89c0707193a308186990cf0db879bded1176693261951a46c35124932",
+                "d79116f1c661f99bcb578aaa0e18be90320521ad841550ce0370d3f98ae70e52",
+                "6e0fca9b62e26c40021272dcd7165be1d8abaf67bab0c8365df2dbcbcbb4a3dd",
+                "af847062c44b9e8d050d079dab9b7f9b6d42de5d997a1c70afdc286de01688e1"
+              ]
+            },
+            {
+              "id": "svaer_45",
+              "sværhed": "svær",
+              "nr": 45,
+              "virksomhed": "Euro Import A/S",
+              "branche": "vandresko fra Norge (NOK)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_svaer_45.zip",
+              "kode_hash": "cee286fe7ad3dc244c9fb58bed304c484fc4c249acd8480c708f03cd37f7a042",
+              "del_hashes": [
+                "8eacd9474cc34f1832a0572d5e298d73b39c56454ba51cd0cac6fc61953848b2",
+                "922e87d6b34ab1944bc693a301f4ace7ee7171d7a93df09ff9e82d0264ba81c7",
+                "d63bb6e4c2faefc96db7afd783dc294fc9701c4fca16ff40b8baa074dada38bd",
+                "1bf65d2e84583abb75e3e224ebde3b23c006be4ba7ad6018672d398ad5676dea"
+              ]
+            },
+            {
+              "id": "svaer_46",
+              "sværhed": "svær",
+              "nr": 46,
+              "virksomhed": "Viking Commerce A/S",
+              "branche": "rugbybolde fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_svaer_46.zip",
+              "kode_hash": "28ab3a226f058f4629b3bc73389a2e080c4235dfc74fdbc1966d8e73c6c73b4b",
+              "del_hashes": [
+                "5770539f81dd3c77fc2f34506e69cc600e0e7626a4de06c074aa8918d5d07905",
+                "1c0513adac5354c97027c97ee7d0659c5154884eeda1af29165a85bbc7a25c8a",
+                "2b1f02d817aaa776937acf518618f9416b27e83936ed07955032b172bdc242f2",
+                "657ffc60b95e9c62fc3c548141cd5805063bbee860512fb436097dacca0bd7a0"
+              ]
+            },
+            {
+              "id": "svaer_47",
+              "sværhed": "svær",
+              "nr": 47,
+              "virksomhed": "Nordic Commerce A/S",
+              "branche": "solbriller til sport fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_svaer_47.zip",
+              "kode_hash": "54213bd27bf7a673662f1db455f87486931f7170f3ce10d53c38aff9e017d2b4",
+              "del_hashes": [
+                "85ff7669e329425090507f85b8cb75483853624b8b952d9dff5b4bcc063d9e8d",
+                "6ddb28376d5e371a94584cf4aa670e4c69f95700c2e263d6312f745fb584e9f1",
+                "f395bcdc4d446c667e4572d9e8ddf1adabcf420500fde27cbfb1e02ab2be58e6",
+                "2a43fe2bbd2982c7576f5943ddbf3badf20c898dd138308d0244ebf1e143498b"
+              ]
+            },
+            {
+              "id": "svaer_48",
+              "sværhed": "svær",
+              "nr": 48,
+              "virksomhed": "Vejle Import A/S",
+              "branche": "design-møbler fra Sverige (SEK)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_svaer_48.zip",
+              "kode_hash": "8334741032c6f34e3c6eff5b19635ff09f05f72590007c15cc795dc88c81f0ec",
+              "del_hashes": [
+                "063c513affb121fe8657d5ef3eb17c4b2855d8df242d94b96ada547a76bc83fe",
+                "bc7b85e319e3febb79d84b8ed3a7351744f44295b7be35bf7de2b83df1621211",
+                "46d46290ff8be26102624b8d487f1ddc6e23fed6ec253e6e1732a8cfac2cabf2",
+                "a8bf0a1d301bc9a1c960768cefd0f96c1aa40e876b6782dc856d9e24275aa1e8"
+              ]
+            },
+            {
+              "id": "svaer_49",
+              "sværhed": "svær",
+              "nr": 49,
+              "virksomhed": "Nordic Distribution A/S",
+              "branche": "rygsække fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_svaer_49.zip",
+              "kode_hash": "fc74b3773a7689748c3ba6c505f60d9958ec4e9fa2f881621ee40509eacc90f8",
+              "del_hashes": [
+                "0e0707769ca9332a098bf34d813f4d5b4c7c94ee0110bfb9c3ed9d9929f33d9d",
+                "d6fe22089cdb5fb216a6dbb3b4fe0a8f6753e982f0793f0a7f28efc079bf3937",
+                "0d8eda7867637a918174476a9cbcd9cf545982d7896c0ae394a952bc9e0b93e1",
+                "aaa97ccbac3dcc5daa063dc95fc12726c741342c7063a71a6de5b79850d26f61"
+              ]
+            },
+            {
+              "id": "svaer_50",
+              "sværhed": "svær",
+              "nr": 50,
+              "virksomhed": "Scandi Trading ApS",
+              "branche": "surfboards fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet/bidragskalkulation/v1/opgavesaet_svaer_50.zip",
+              "kode_hash": "1310d025b10dacb5893434baf63174509266b762f08c0e628589815f9bab49b9",
+              "del_hashes": [
+                "4fd6e225b6c2558d82f3730f036057307711fa269a3f46028a1e099c4f2ab4d7",
+                "16f666fa2ab20c8d295dbdc73ab32a25ddc8c6486fe930fce25a5e57ef8624a7",
+                "eba92157e0f04b1f69a4e2daf74338cb1f19cda4a25af0c4ae4ba4b5e04a38d4",
+                "36b5a0882db057787722eff9cf88f95026dc503dc1c6059ec41b98e0e515ba9d"
+              ]
+            }
+          ],
+          "laererark": [
+            "laererark/bidragskalkulation/v1/laererark_bidragskalkulation_v1.docx",
+            "laererark/bidragskalkulation/v1/laererark_bidragskalkulation_v1.xlsx"
+          ]
+        }
+      ],
+      "kode_tekst": "Koden er 8 cifre: de første 2 cifre af kostprisen, de variable enhedsomkostninger, dækningsgraden og reklamens nulpunkt (se kodevejledningen nederst i opgaven)."
     }
   ]
 }
