@@ -1,0 +1,822 @@
+{
+  "typer": [
+    {
+      "id": "likviditetsbudget",
+      "navn": "Etablerings-, finansierings-, resultat- og likviditetsbudget",
+      "versioner": [
+        {
+          "version": 1,
+          "navn": "Version 1",
+          "dato": "2026-09-16",
+          "opgaver": [
+            {
+              "id": "let_01",
+              "sværhed": "let",
+              "nr": 1,
+              "virksomhed": "FitShop.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_01.zip",
+              "kode_hash": "fdfff3e9c01e7aa2d2e827f602db11eb701b4f5421350327a983764f5e1cc5eb",
+              "del_hashes": [
+                "1ae556f41c7e3c2cc89a09748ed784acd71eb8ed2f32592fd5f7fdc771a59b03",
+                "4de719af40cf514065bf0cd03286eaca7f27149cf3b6676d8c223782e382d6ad",
+                "11e8e5d250059329e0a27b31155b6205865fd0b9fa20e26048e91cb67334c7aa",
+                "70c65d98422c1f877d6aaf30a3f00138442531ca65ab93e7ae6aa26198064993"
+              ]
+            },
+            {
+              "id": "let_02",
+              "sværhed": "let",
+              "nr": 2,
+              "virksomhed": "ActiveGear.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_02.zip",
+              "kode_hash": "35fad428abc6743a8e300b1ed99d76d2dc35f3bfd877d743b3ead7f2b191f642",
+              "del_hashes": [
+                "fa36c14fb1bfce03665e75d7349ae5be42b1702d66e5337d4ff327e1e61e83f4",
+                "731ec8ec3d0e9dde43f32dfec6e404778f175637ef2f5d9686298d39b5925625",
+                "d40484129372802100c68cc6d6c2a486c4f8cfb4e4db3aa8a492d74a2c84ab1a",
+                "e55bebbfca18cc536beb9caf38b0e43e1db60b5240827517d41f3053485c5d7a"
+              ]
+            },
+            {
+              "id": "let_03",
+              "sværhed": "let",
+              "nr": 3,
+              "virksomhed": "PureSkin.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_03.zip",
+              "kode_hash": "208dad07669580f80d298ae844a3a08a7a152ffa4b3015233745f2775f97091c",
+              "del_hashes": [
+                "bac0119664a63c0fc8a1108c43aef98da7cea2f72657674901e499cafdc55e28",
+                "1ab680b33b4bb9db17a56019a478e67cfb75c89fb3cb241bfcbe2a97c2ab41d1",
+                "1816cf360a8a1d2a7070ac83d687d359d778cd5fed279ee38ecb3d4fbc574582",
+                "4f9a736258f55afff7d0341b0ef958f97d4df31e697d64994b41de33b9239ff0"
+              ]
+            },
+            {
+              "id": "let_04",
+              "sværhed": "let",
+              "nr": 4,
+              "virksomhed": "NordicSport.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_04.zip",
+              "kode_hash": "1a4d04beac2aabbb52fc7e701d8fcd3188b6b5f258c2b128a0ae773298f0a85d",
+              "del_hashes": [
+                "7f7abca6681bb16e588d8c7ce76f68890a7ae4353385bb68876fe2b2142ee7e0",
+                "cc77f14043bc9e4ff299f281da81687eed886010ed2eaa1abcc5eca61f006cab",
+                "0012429050202bd3c02e413e0a786cfefd451088d98fc3bf7561b12672119240",
+                "a74d3fc76db281ce96673a1b9e941efeb2e094cee35653a0c6e4bc173796b8ec"
+              ]
+            },
+            {
+              "id": "let_05",
+              "sværhed": "let",
+              "nr": 5,
+              "virksomhed": "HomeDecor.dk",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_05.zip",
+              "kode_hash": "e2906a67a6296ecc7a0cbac96e384a288a123350b394d5536fb828deefe688d7",
+              "del_hashes": [
+                "a752daea6977706a6948290fd666ddf06b937ca254694d3c3dfa46e6af9e17cc",
+                "ad5307abbee4565e446d270d961e33f42c8e066d25167b495d57e3664944c6bd",
+                "72de6040c792e02116410f59356a385bdac67862a9345fe6f78e39cc1bcbd17c",
+                "49326ea481f53818d9bdba24c2f55835fdae6db0407bfa536b6733c312819721"
+              ]
+            },
+            {
+              "id": "let_06",
+              "sværhed": "let",
+              "nr": 6,
+              "virksomhed": "GlowShop.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_06.zip",
+              "kode_hash": "9a5320b8d6b814c17b6e8335cd6fe6270b0f8b6f72b0632875496ae0f4c1a0d4",
+              "del_hashes": [
+                "5dd12f8c4095c0acad6a9700196702e04d9d3d71a8014c8ac91d23db8108d63b",
+                "f9f1fe1266053f1abacd33a291e5f837fa41f3933de6e9f9630b49442fb53e32",
+                "6a0aa04dc5a17607d0f7eebd1565a88e7f87caa84e6596bd7db04435db828995",
+                "ca9124d0138e1ac7272678a69f1aa2b671a6d323facc7c62b1b4eb5d3b1e1bfb"
+              ]
+            },
+            {
+              "id": "let_07",
+              "sværhed": "let",
+              "nr": 7,
+              "virksomhed": "BeautySkin",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_07.zip",
+              "kode_hash": "8347a8b1bd23f51cc44c9c709377cfcfd498f4a1fa2f78d8a08571219e507847",
+              "del_hashes": [
+                "b1b72327353eddf2457f4ce9e2b20ed450e104d6d1d26cbd66ea9f1f67068611",
+                "2fed2170c467e88b085128bc53345d6ef4ac5b5be6bdd57b16fb7e6e6db984f6",
+                "ba19792e7ce15dc37785f863c8fdb17a81db44045d3d31d42befcf33d591262e",
+                "ac7aa7a981e5fbd21579ec60fd1aa37be64d2ec0af67610c22e8b9a4622cb05e"
+              ]
+            },
+            {
+              "id": "let_08",
+              "sværhed": "let",
+              "nr": 8,
+              "virksomhed": "StyleDK",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_08.zip",
+              "kode_hash": "f73978fdb8a4c61f18ae70283a9ec9ba6f729fdf61007c515d5d5b3a7c51de41",
+              "del_hashes": [
+                "1b101c161592863ce9ba891355ac4059666530062c804d92a5498e2dd4e16bff",
+                "f4a8ac71efe1c0a4f80971e66a5beafa25f706be369bbace97f8975dc99bea9a",
+                "1ac5fe01cb33b9f4c87d7301e231bd7f33c0df6a2dc2aca248f3e36af83fa7c3",
+                "c00f7439cadc3d1f47da29b1aacb89eafb91126e7b7376f6b959b6f1dfc49c4f"
+              ]
+            },
+            {
+              "id": "let_09",
+              "sværhed": "let",
+              "nr": 9,
+              "virksomhed": "FashionNow",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_09.zip",
+              "kode_hash": "a93df935c85c761c4b6dc0310a30c37cbe3d1218653c092006e6f3e7c70ce6eb",
+              "del_hashes": [
+                "06f2634a8b85b8872dde2295447e6913241f1611731529879b90a2e7ea33b2c3",
+                "7b372feb53afe22c9a5934350c25f2b490c62de9e9a008f73b81ec2ec595c604",
+                "392e224026bdbf4b3b0bfee058b40c6df30f29cc35810547dbc9c7e9f84a3ffe",
+                "50d57dd452e272eb067fb382fc34abd54472768a970dc2c06dbbdaba495d762d"
+              ]
+            },
+            {
+              "id": "let_10",
+              "sværhed": "let",
+              "nr": 10,
+              "virksomhed": "NordicHome",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_10.zip",
+              "kode_hash": "5a9e2bfdfe937bda8626e50c4650a38da45721feb7ca84699ab1816443116329",
+              "del_hashes": [
+                "fc2ba97d37878c97e3b46d9df1b9008f32ba5bee22723dd29bca62438b9cbeb6",
+                "faacbb8972e729725e31e5f3f083e6a1407304670ba37a8584c1f141218b8a81",
+                "7809c88b6ddea0870b7c42dadb6f0f1fec0f1cf3553c1c3e3e25dedd603f1793",
+                "d5ac02d979e5608dc299478375add3432655a0aa267cb2d395ab45ac6dc0b0f6"
+              ]
+            },
+            {
+              "id": "let_11",
+              "sværhed": "let",
+              "nr": 11,
+              "virksomhed": "SportsDK.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_11.zip",
+              "kode_hash": "1e67bd737b9edcfb3bd6a4c059b37182cccb757b7c0c1e4cbf5b22758f085153",
+              "del_hashes": [
+                "4bfd43f4af85656fb6784be436971d7b186f476b35b34edb790a4ecd799aa4e6",
+                "134b5417d44daf21833386126141afc8400055228b4045385d99c3e457097cdc",
+                "a959f672fdb5322d9578447762320bc797038a76c407c1f4596b0e1be70f2968",
+                "804bda2183a8285a82f63f22179c714d24b05de252070d743eec0c1a68ab2a7f"
+              ]
+            },
+            {
+              "id": "let_12",
+              "sværhed": "let",
+              "nr": 12,
+              "virksomhed": "BoligDrøm",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_12.zip",
+              "kode_hash": "54cc41443a089a62de104365e3d3a182059bb82a4fcf4715801455f81190a3cb",
+              "del_hashes": [
+                "6c70dea8ad6099a0a1be1efc54f6ec16e6440bf10aa13537084b6b145e99d002",
+                "9cfff3af9d0817aaa7073123b011a75dfe0a74742735fe8f673aa7ccb5e73218",
+                "3346f7085468f47652c2d517a5b532c061e17137188b54952a35bf8c0bacd4f0",
+                "691d5d806999a8a2711794bf9f17ea797b94ced760947cd4a84ef6864041f2ff"
+              ]
+            },
+            {
+              "id": "let_13",
+              "sværhed": "let",
+              "nr": 13,
+              "virksomhed": "TrendShop",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_13.zip",
+              "kode_hash": "6d92114cbdabc4d8e8fc6c94150b5b7096e65f853a59eff7faa65834138076f2",
+              "del_hashes": [
+                "97e6961d909996c64e6152849067c19cc1b17dfdcf7ab21deb23544f591e4f41",
+                "edf73332e5e841b047f63390bf67ae7e2a0f415b3f655af6d2e00418b5f0edc6",
+                "e6f3734ec175f10ba3f3825b957f38586cdf3559154eabf94bd3c1ecfa6b662d",
+                "a7be41b943ecd9e2e44d3098a37e1714742fa675a01041e59708b79356fcdb61"
+              ]
+            },
+            {
+              "id": "let_14",
+              "sværhed": "let",
+              "nr": 14,
+              "virksomhed": "Nordic Wear",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_14.zip",
+              "kode_hash": "dc9c9a96f8e01d1c493403f84f60da2116754f9e6641c05d8fedfe26ae2b6d7d",
+              "del_hashes": [
+                "de6f31038cc7baf375df1e9661e11c7753c5cc9c34b07e7217f6c9943adc2f5d",
+                "b7f02fe960315c7457934c70e0049174070664b693ed297ab6bed722b37d8c94",
+                "ff6a348ae87702f4583f9f22e69c84db43bda6f73a38edbf96f5b3bdf7396193",
+                "a2ba49777462b997f93de80c0752586049fe8e15268a04008a3307904c81e444"
+              ]
+            },
+            {
+              "id": "let_15",
+              "sværhed": "let",
+              "nr": 15,
+              "virksomhed": "NordicBeauty.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_15.zip",
+              "kode_hash": "e5559239a0aa064b9bf57f0d785455d2c077c71e49e9023b055d2c3b23e8dd58",
+              "del_hashes": [
+                "cb927f2348e0b4acedd651f7227abf0742ed1b4eeb54da48457c8d9611f5d7c3",
+                "dc1d86a05c5554627f1b6aed03f7f6fe14278637a65bc5fcbf287f9123f47880",
+                "1025c8ec700b2fe5b175342f6617ae57b399a4aea5e1fb2bd0a8277a26ffabef",
+                "fa1d3d1a10baf8a88dd51f0be6af07c3f1038fbf2be48bbafdb95d3b98cd3305"
+              ]
+            },
+            {
+              "id": "let_16",
+              "sværhed": "let",
+              "nr": 16,
+              "virksomhed": "InteriorDK",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_16.zip",
+              "kode_hash": "8846f58deaafe61fcf137024f258cafe8877f8be35752e69e23c26bc9a6061f9",
+              "del_hashes": [
+                "446b924def88b588f1fe4e2e007b10a1d629f2d0af4862b4f12b86fc426ad29b",
+                "8aeb471a61564639822a6dbd8b1e21bba7c067a5abfa830292a72d2c588a1e13",
+                "1f5e5a764bc224c2abfade2761401925611251eece23fbc5f35d45589634df46",
+                "c90f146d8a1d3c4289f5d68e28e02e5320c97eacad6390d8ccb85ba56c369726"
+              ]
+            },
+            {
+              "id": "let_17",
+              "sværhed": "let",
+              "nr": 17,
+              "virksomhed": "InteriorDK",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_17.zip",
+              "kode_hash": "3432558f10852d0bb367930830193de1f787cd9d87487a7de2cbf7fe3163b9f1",
+              "del_hashes": [
+                "413ded4b8274c95ca7fd9684077b3ada9c4cf37b6323d1c70c4c6e93ec28d5a1",
+                "1b5e7ae00d79ffb1f7365fae0aecf54af0318531d2c127bb44fafd5e22595c67",
+                "3890c07782f3cda6bba94faf7620f93126182c769b066cc36300e2ed74946653",
+                "55fd74fe8b5d5c6c2610976c8385b43d7592299b3f7d5fc9a3bbb126a8b21fd3"
+              ]
+            },
+            {
+              "id": "let_18",
+              "sværhed": "let",
+              "nr": 18,
+              "virksomhed": "SportsDK.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_18.zip",
+              "kode_hash": "3fbb6edc5d2dffc55e26d691966d2f019b698603436d870016b295dea01efb81",
+              "del_hashes": [
+                "73193b71b69a92560182cd781c9e5dc176f154d943cf1adb17682971ca9778cf",
+                "cc849fa0391ff3442f46bf8e8afff8d60ebe13b636ce3e7d7c558b20e8d5ba84",
+                "ff962e1ab0bf2fc4ad6bf0a399430225ed9ec970c7c502517d99438626c43cee",
+                "21d3a6238816039eafe47caefcafcaefada297f893a5f1ddc36fcdccb62b0104"
+              ]
+            },
+            {
+              "id": "let_19",
+              "sværhed": "let",
+              "nr": 19,
+              "virksomhed": "SportsDK.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_19.zip",
+              "kode_hash": "97ea1456d2ff1786edb759340d4b653eae0d01e0bb633fd2ce7ba1bad6281b6c",
+              "del_hashes": [
+                "7e09030d73c007f6a9f1b56343dc074d39be1eadbf5a0d612085fd01c4a81220",
+                "26afced4a5be68edc49166b3fa7b73ebd0243c13c3e373a3608df6cacee37483",
+                "33a5836943e62549921f1317fd271e6d11e1262cded8d239bf944e7e8749c570",
+                "e43009ca69947cf9b7c9975e03ecae6aa2d7e12946da918b0078339521305a2d"
+              ]
+            },
+            {
+              "id": "let_20",
+              "sværhed": "let",
+              "nr": 20,
+              "virksomhed": "SportsDK.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_20.zip",
+              "kode_hash": "84c5dc662fbc60b01f066b45050991249479be5020f50dc5755accf8cf495016",
+              "del_hashes": [
+                "6be06cb0cafc1079d94efe8861c1e0da17b7c4b289b08ea159c612d18393f77b",
+                "3791d056648d11f5827cad670047682afb1deddb8cec3979a00286b362970621",
+                "f348fce09360e6ffb5bc4a36b373a8815e80190dd9e81ca619bc1c897ff2d9f9",
+                "0f04a53b9ed4886569f9fa352d5a09eb48a8aa093446d67b5104a2ce77b9b9f0"
+              ]
+            },
+            {
+              "id": "let_21",
+              "sværhed": "let",
+              "nr": 21,
+              "virksomhed": "GlowShop.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_21.zip",
+              "kode_hash": "ac64d3cf25d843b762a9b685dd3d7db1cadbe3c43c232e65695fdd3fccdc4e7d",
+              "del_hashes": [
+                "8f39b1855756e5af49c0aa53cf693a2b91dcb18b40d223ce04f82c37f5a79a3f",
+                "c773856b7543173b08e0176e4262050693160174f4e7f1304ef97cf12106f17f",
+                "170d8d7f8e0cdf6230a0c503f4cf5d4de27837bf95fa211ae714cc8317b7c2c8",
+                "688a6728ec442268124e0ba9b173f06a25ba91e877628277de305c33613deded"
+              ]
+            },
+            {
+              "id": "let_22",
+              "sværhed": "let",
+              "nr": 22,
+              "virksomhed": "PureSkin.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_22.zip",
+              "kode_hash": "fbbdb03ccf9a8089011343b555bd7ee4403db350c07911c7fbd46f4894ff904a",
+              "del_hashes": [
+                "abed49013fb3061e981cb88951602bc1cb3e767ac5e858a7bca2e4727cc8ffea",
+                "18b47e26936aa070061fdbb542da2d3b663530c4c20d5f636b4fd208b1f62b4e",
+                "6bce4dfa9fc1fa74e9ece1825c0f41311303f37256fc2a7d4a509679aefa0377",
+                "d2c6a9b1e5564ea2551f0fccff9b71dc955754d22b91fb304e77e5c7e32e9ba0"
+              ]
+            },
+            {
+              "id": "let_23",
+              "sværhed": "let",
+              "nr": 23,
+              "virksomhed": "NordicHome",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_23.zip",
+              "kode_hash": "02e97a678870df04ef09cb2b86cdc585f63dc489ab5ae0dffb228b1a86fd3453",
+              "del_hashes": [
+                "9301a37877f1797ee32f23a51ffeb4a8c133e0f5b84dbb0180db113b824df419",
+                "983d6ee624d2a42e141254d1cfa03c5fdf6dbb554550914670b6c48387067b59",
+                "d5452b39252178347f36fa1cb3866b09c72bdf0c4d8dddac4b9761a0f549a9b0",
+                "297e6baec4ec088be1f7902c2b0d9e5d1d60ffd4ae59e78204a199d00040118f"
+              ]
+            },
+            {
+              "id": "let_24",
+              "sværhed": "let",
+              "nr": 24,
+              "virksomhed": "InteriorDK",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_24.zip",
+              "kode_hash": "323741114f7ae523aab7a4d375cee07ccd228a06ea2d05a8d44c786ff179cf1d",
+              "del_hashes": [
+                "07e8ba97cc44caad5b624e4bc8f4967a6c889bc13b395a7aa88705862a6b2702",
+                "43f3830887e4ebabc2a1d2f87c647f882c8392eec04d810765f7fe4fab2043cd",
+                "42e6afcf515ab02836d3bf85fc1d68b4be12c921e73532e5a2c74414f20ec2b8",
+                "600eb07f1fd28edd12715c48638b135f4d3e05f9a910fea69a596959ba55290a"
+              ]
+            },
+            {
+              "id": "let_25",
+              "sværhed": "let",
+              "nr": 25,
+              "virksomhed": "NordicHome",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_25.zip",
+              "kode_hash": "8eecf4d29957345433d1b7db8b1c944f7058cd59c449bad556e977b766f1bf91",
+              "del_hashes": [
+                "f1a1f57502e2a6ddcd0cd3b96ea53db23d13be4d999c4ef5da0432bc3af362b4",
+                "b86de25c63d86833577af0c1f8781d649ceb6eca2c46569db4014f1af0c5991d",
+                "50082be9367a14cd141b05e6168ea1263011ca95dcc3b952424cea46f7f793af",
+                "82e917c31fb0ed43da3567b6108c4f4971cadf343c2dd4a3d949fdd0129d1c8c"
+              ]
+            },
+            {
+              "id": "let_26",
+              "sværhed": "let",
+              "nr": 26,
+              "virksomhed": "ActiveGear.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_26.zip",
+              "kode_hash": "6b68e2a7615aaaa6feb7da26efc1d0e1179d4b045ac657ece046f6ca25b4ac14",
+              "del_hashes": [
+                "68a888c07f16a0f0e7934955c3471c69cd10796718b9fc5133ae7013fa28270a",
+                "001b78657d2df22d028bc77f3c548d453df45106bc24c15557a0407a1408dc11",
+                "4e6afbf09e1a459f921aa491a5d7300300718bba5ca5481b33fde18a4c72df03",
+                "c6d99c4c7506485fa27ae84885f1017d23c43760176e9dac8018f5ed300e3781"
+              ]
+            },
+            {
+              "id": "let_27",
+              "sværhed": "let",
+              "nr": 27,
+              "virksomhed": "GlowShop.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_27.zip",
+              "kode_hash": "11c46e97b54c90bfc9b23ef42816532a60782cda5a4e77a39f6b251d4b9cc4c4",
+              "del_hashes": [
+                "51d2ef0b2ee142fe125a542d8ecfa77862cc0212b66a128ea210473a05d9cb9e",
+                "899dc7e38e6205fb8c6b41c635b8947e6dd2e115cca5d368a96a5379ed093710",
+                "870c756ba2f90bb1e5e738d1c1d7111afde2c28859657bfe1b9644bd6708a204",
+                "be9e124e2e9b3b73a32d66f4429bc8049a37d0506d1b2e6d39bc2cd77915fcb5"
+              ]
+            },
+            {
+              "id": "let_28",
+              "sværhed": "let",
+              "nr": 28,
+              "virksomhed": "NordicHome",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_28.zip",
+              "kode_hash": "4bafdb516e86cde2d37ae61a0eb4104ecb41ee28ff5fb264e595c477366869fb",
+              "del_hashes": [
+                "8639a3e4ff88b526dac3ee223543cc654b4df3a9ae76c509dc17e013625d6956",
+                "a09f9d90a02250ddadab821e10e175f33b7ce975d51f6fd4124acb1094d766a5",
+                "72d050feffe2b0710f3326ca7f29f60b18e0f0b66109829e93503928a6f44559",
+                "b5dc9ff94d632747dd869cf2841ded1b5c2cac62e170a4edad3e22781d7b6dad"
+              ]
+            },
+            {
+              "id": "let_29",
+              "sværhed": "let",
+              "nr": 29,
+              "virksomhed": "NordicBeauty.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_29.zip",
+              "kode_hash": "cced4861ef74e4f03d82d805c488275ff53c820211fde9b9afbe6a6992c5aea7",
+              "del_hashes": [
+                "e02258e550f3f8837bee8665dc8a9ee52b85e6370449a7d445bdedcf5392faac",
+                "1b8b83739daa4a5f4d182fc20b03768e6bb4c1d88fcc8bd73dcc15c1af40fc77",
+                "ed47b7020f8c7f3727de2c86851948504842e0d7d2205fad28c014c5516cbc74",
+                "24c4886287603ff9574fef443ab31fb27047b1d0dd8b274db73ac8b3ed9b5997"
+              ]
+            },
+            {
+              "id": "let_30",
+              "sværhed": "let",
+              "nr": 30,
+              "virksomhed": "Nordic Wear",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_30.zip",
+              "kode_hash": "de7e0763fa8c4ab30bd6f4b37f6cfe35e9b98ee5878d1900cdaeb83b76765acb",
+              "del_hashes": [
+                "968ce1103160df2d003443054a63616d46fdad2b931fd0b65b85ebc62cf550f7",
+                "ee76e1a8aea9464a4c4b197c7d62a4b6017fe023f7e54d4ae305ba72828496cc",
+                "8bf1cc9acb7042085f9acf19c5b9acb05bd40b761b1a4a0c0f443dfaa0e01c87",
+                "50e3066635af9f3545b9b2f5145211b2cafa87438c95fd78e11cc8811f95443b"
+              ]
+            },
+            {
+              "id": "let_31",
+              "sværhed": "let",
+              "nr": 31,
+              "virksomhed": "SportsDK.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_31.zip",
+              "kode_hash": "63e963be344b3dd0966ccd4e69bda3dfd1caac3c0aaf0714c41424d4fd22dbd5",
+              "del_hashes": [
+                "013b24577082d7958fa9aff67cc50fab714a15fd51377d28fbaeeefd55228e24",
+                "5db0a95da50bfd17eaaae54da75485118cc66c4c0d80589a81eeb65986019032",
+                "ca09fc5b9de50791dbcccc46ae8c1ac82e38285e7560d6b2e2bd1ed03b54b97c",
+                "0809c50168cb40f5a2bba2f2e1c72335451344e20e6a790b8e435ae17b93b217"
+              ]
+            },
+            {
+              "id": "let_32",
+              "sværhed": "let",
+              "nr": 32,
+              "virksomhed": "StyleDK",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_let_32.zip",
+              "kode_hash": "82a81d4f948d02b4e8fda70ee2bbb61ded1249b3eef05b5fabeb1d4f8389577f",
+              "del_hashes": [
+                "3d566e9e08667bb9c5bab761d35bdd366ed216968c3ed989714ef2ffdd1b0b1a",
+                "cd3165961c7e1c51021e2e4d713eb7183d1bbda181b3d24e827e59ab484c55a7",
+                "ab9a587a37a679da2aeb4e5f6482b2f0459b467739c9fb29c287a38c085ad3e1",
+                "14949324e1ffe28445d0a723fc71a516afa723943faa144fadbc25b1e6e6d1e5"
+              ]
+            },
+            {
+              "id": "mellem_33",
+              "sværhed": "mellem",
+              "nr": 33,
+              "virksomhed": "FitShop.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_mellem_33.zip",
+              "kode_hash": "e61791b7fad1f7f56fa599ef6c2f65dbadde3ce5c2c5da9b5de1b29cc53b1bba",
+              "del_hashes": [
+                "87766e42398f2a38c94e6acef29ee5082cb0e5a9237dc849a0683e2b30d5bba1",
+                "a3bb2237280cc40e8c279eba84d56503c1de3058b344d421c8618ba811990bb9",
+                "90d655173653b2c21ded9b891464b9b0da42c336b6080f22b110e801b8e22801",
+                "d959aefcf3f9d46658d7f4928f2724a0668dfa8d2dbaa455587c8bfe45986a69"
+              ]
+            },
+            {
+              "id": "mellem_34",
+              "sværhed": "mellem",
+              "nr": 34,
+              "virksomhed": "SportsDK.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_mellem_34.zip",
+              "kode_hash": "b930ec88152fd24799930920f1b8d2e48014ae9c8b2f23bffca5aa2ed4053a22",
+              "del_hashes": [
+                "c4be4dba49bdb7e148c0cf69c799442caec1ec47e977e7c6d4ec52e47950c70d",
+                "6796180ff0e9a1af542cb938aacea0ac5c89a3feeba2a28efd3ec9bcc9d9928f",
+                "71698302b024629a4b07fd1734e330b84b4ef165ffff4083d5966a432afa8f0c",
+                "417379b52fa211da8049c7c25a73c5d8297ebdebdb12f0dd6d6f5e2478c7f84e"
+              ]
+            },
+            {
+              "id": "mellem_35",
+              "sværhed": "mellem",
+              "nr": 35,
+              "virksomhed": "NordicBeauty.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_mellem_35.zip",
+              "kode_hash": "b555cf436aa414f1743c0228db983d07551388613f13adc4ef80bbe40695fbd4",
+              "del_hashes": [
+                "7ece897361bc0257f414f776bf14f6b7198485fdba73eeaac575f6ca44ba5b6b",
+                "27836ba4b4cd1b07bf7411eb7e97783dde46e1de32e3032c353ee6af6676ee1e",
+                "fb7e70a9219b004008cffc4531f34ed31309ed784ac8f3650c4498e9530a0b21",
+                "6d80074302205c27411b6194d57dea0049d38b491d688c001ddbbbf9e6ca0b83"
+              ]
+            },
+            {
+              "id": "mellem_36",
+              "sværhed": "mellem",
+              "nr": 36,
+              "virksomhed": "StyleDK",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_mellem_36.zip",
+              "kode_hash": "807dd1ed1ddc02f375a78f9c4878943bbadbd6d81786fa8172762bdcdee99cad",
+              "del_hashes": [
+                "c9d50e16ded8f44029626c5b51c2091e315615fc233ef41310844eecf990a59e",
+                "2fdf243400c14fa2b12ecf636f74b51864724913939e1bfb7a88ffb49d2d1f18",
+                "ffdfbd6af3ddd0ab35c1c00eed8b86df547895d02bf71795421dd63b5bc7fd11",
+                "d5c69a0a1be0af010527b3bd5f66d2b29e457e27fad63babf605abc36754c4d3"
+              ]
+            },
+            {
+              "id": "mellem_37",
+              "sværhed": "mellem",
+              "nr": 37,
+              "virksomhed": "Nordic Wear",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_mellem_37.zip",
+              "kode_hash": "9168e0e9e40e3339de093c37672f21a1cce8215336ead7c222fc23969e1bc0e4",
+              "del_hashes": [
+                "52645e7c358c80222587eee7f41a13ab135b6efc0b8359e327b564a8cd3fa192",
+                "9c16da72ecad81e77bda7c845f4c87b5bcb7a3573ea22353dc2905c5ae19715c",
+                "2f3d2a7c0e59be908c905795b1eafff20c1025e9d46eafde9b478c451321be5e",
+                "38e7bcfdcc322b6e28dc1280e686b431011091e258876a834c4449b69b75f618"
+              ]
+            },
+            {
+              "id": "mellem_38",
+              "sværhed": "mellem",
+              "nr": 38,
+              "virksomhed": "FitShop.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_mellem_38.zip",
+              "kode_hash": "5b5b560e11205157d34a18e420b66419e06c13582fe5c17c43bcfd3821896658",
+              "del_hashes": [
+                "18176a420b56798866a5711520a278fb9ee10aa8bbe8feb0ed8e98a44e8bdd2a",
+                "8105d50f2dcce98e139096aa5445b9cd42bd76e89715cf1a2c0df74272aca618",
+                "f7f14c596e1c5edd2c2c8804d844c056dc39fb395552bf0082fd07eaac8f432c",
+                "0843a840e3bfac86149baaf503a3993e55037a95e09a8d8478015194d7733945"
+              ]
+            },
+            {
+              "id": "mellem_39",
+              "sværhed": "mellem",
+              "nr": 39,
+              "virksomhed": "TrendShop",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_mellem_39.zip",
+              "kode_hash": "0ccceb6b720a5fef026f4bf26cddd411a8b9e3e1deae7e7b00ae8c353b0dbdc4",
+              "del_hashes": [
+                "9eb5005087f22d08ecc51a78aeb9dd32f9006e15161b69199ad805d8c718b792",
+                "e713db9207cc30b613a93e3d585016a5a12d2a49d1e8f26d8befb98ddf45382f",
+                "fd58dd45a36fd58fda75ff1af1e41a35a873a6954a211bc79d7d282decebd792",
+                "858d6499d314bfbbe1e40a2dd094cb9dd8a49d0364b28ce374aa847a7099e315"
+              ]
+            },
+            {
+              "id": "mellem_40",
+              "sværhed": "mellem",
+              "nr": 40,
+              "virksomhed": "FashionNow",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_mellem_40.zip",
+              "kode_hash": "21c65bf048e1f0ff2ee8d54a55c67bc51e810e2e527d258cb6ef298336418922",
+              "del_hashes": [
+                "2a464abf2d8b3340c04c6075fd0d21f30b8eab253fba79e26712cfc3de686ec2",
+                "6adae5c9806a3d0daf968e973f9c149d4827672a38bf346287610af47be8693b",
+                "6af9a1c670619fd2bc20372eaab61b806132cf3ac1d07cf6f10d32ce7cc5a457",
+                "ac987e52174be93c981654d9202684a38c67a7d2f82a2b9269665be02aba6e79"
+              ]
+            },
+            {
+              "id": "mellem_41",
+              "sværhed": "mellem",
+              "nr": 41,
+              "virksomhed": "SportsDK.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_mellem_41.zip",
+              "kode_hash": "96f82ab33dd0216f4834c9613c6d5f6e04d9bb752336a08fa37db9a2d9af4ef2",
+              "del_hashes": [
+                "e941fa638479a296c5475751b5136748aed74404dbe351bb23138b9476ea6fdd",
+                "a9a9f084a7c072d54a39d097a97f1cec3431b890227776d7512a25d5d76bee9d",
+                "2e69b6c2ddba56249ba05fa105a1f630101d4e2e22d869c13dd2726c6ccb8176",
+                "71b54cfc0d5800152ca3474d27a6cb205b6c1b7a08e75da9c7777f8eb5488eaa"
+              ]
+            },
+            {
+              "id": "mellem_42",
+              "sværhed": "mellem",
+              "nr": 42,
+              "virksomhed": "GlowShop.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_mellem_42.zip",
+              "kode_hash": "1636f6fe14c7697cc8bc0a106748e534bf1787db3eeadd548a63c459d323bb16",
+              "del_hashes": [
+                "1cc2c4f3dff379eb7d24fb5bccf6f13a67503041ad6454eaae374fd710dfb45b",
+                "e9a970a6b10c419094e67f06f241a29281483cdecf3e80773c065b9fdeb78817",
+                "38c91b1cd18a78c754f518986cde62b79dcc4f5fb4fec6245c8d58e9090d6d83",
+                "50fe1e2cc635deb85592442f4f95f39c899677e71285c9ba163b55858f52dc32"
+              ]
+            },
+            {
+              "id": "svaer_43",
+              "sværhed": "svær",
+              "nr": 43,
+              "virksomhed": "StyleDK",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_svaer_43.zip",
+              "kode_hash": "af7b0609a2956885d584b0b3b851b217f8b40a46a40d1984ca0f33f4ff73aea6",
+              "del_hashes": [
+                "087b6b9d4682833d9e896ac1ea09d0f56f056d8fb83f27d5c5b4664eb35ba02b",
+                "872f472434bc26017b125eb76f06ef71fec0f92c7b10e420eb4ab1f41ca99daf",
+                "6fb0cdcc00458efdce814b23bd3e91199c7585d359325939269cf5b1c7053a6e",
+                "722d199033a9d6c7a76f5851ea6c7552b107b1fab5859218c256e7e0c19cb753"
+              ]
+            },
+            {
+              "id": "svaer_44",
+              "sværhed": "svær",
+              "nr": 44,
+              "virksomhed": "GlowShop.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_svaer_44.zip",
+              "kode_hash": "9f79c871d5b76ef23f33df3816ed2b52c2249e4c158f8cfe87e27307c71f349e",
+              "del_hashes": [
+                "7106365b7a10afbfbe6f4d4d8a18f7bee69a80e275642e6583b3495f54d002e3",
+                "a3f6cc7d0759896b63d418b250e2276b42907070b363dd519011945ac2cdd55c",
+                "61da1f3d3535aed7d710158bb5ea19b199b96c77209fbb6d5a0c12c3e4dcee1d",
+                "141131937f35c21f959aed6b26b48de7698b982148d2a8a56cc8330b7246c705"
+              ]
+            },
+            {
+              "id": "svaer_45",
+              "sværhed": "svær",
+              "nr": 45,
+              "virksomhed": "NordicSport.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_svaer_45.zip",
+              "kode_hash": "9854f33f0b79439eac99d0b1ae48eb9466ca4b243df8bc402a4607460e5a32b4",
+              "del_hashes": [
+                "fede9fa8ef9ef8ff5ec9a847f98e937e5b5706348a43ad2917652937d5c644f0",
+                "b5e5f519fbd5cbda0ee69861d8bb25311ec2e3bcda4ff43f892866efc23b2468",
+                "d77e141d6a78923a2a4ca8f6b304b63b3cb7c7f963b49739124413a008df0cb1",
+                "eb4c43334c4149433cb5242a71a996e7bce92ffc18b133a64613924c3d20ce28"
+              ]
+            },
+            {
+              "id": "svaer_46",
+              "sværhed": "svær",
+              "nr": 46,
+              "virksomhed": "NordicHome",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_svaer_46.zip",
+              "kode_hash": "7d498a1c78d75fa91fb093e8ef7358709c801bc4e896bb43a97d71a5e1502845",
+              "del_hashes": [
+                "1518f697589a6b8ab505dcff24f91156cb30236b706e82b4cf4b2bd9b3177d5b",
+                "6c45408b6a597ece2f1aa04d044142b4abfeeebf0b6d5958eb26256ca3aba233",
+                "7bccc3c9d611bbbd0e0162956cfedf56d8ba3df3327b2e4645daf8d12350e246",
+                "08a2c202943058c17dd26a0cecea4f1521183b9e579984078a39abdeb5a44200"
+              ]
+            },
+            {
+              "id": "svaer_47",
+              "sværhed": "svær",
+              "nr": 47,
+              "virksomhed": "BeautySkin",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_svaer_47.zip",
+              "kode_hash": "53e2605475786f2f591f21b16d6f8f195f1ec1be45d20e06e768f1c06077d967",
+              "del_hashes": [
+                "a7fd90048ae7d868ad2b4d5a66ef090c46b2718d3f5efacefedf4cb15b26d061",
+                "12cd156f45e6596b0a6208c43b2c7e411b75d37382fc79fc51993d4265b50eec",
+                "aedeca4dcbba3b19e06e22a627faa89e3abb14a002ba7eb3b0350d2f9aada270",
+                "d1851e028b8420eec7d933484545f8d64c7070d1d16cfb56ffb98ac54c293601"
+              ]
+            },
+            {
+              "id": "svaer_48",
+              "sværhed": "svær",
+              "nr": 48,
+              "virksomhed": "Nordic Wear",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_svaer_48.zip",
+              "kode_hash": "dbf4ff5cc25653571e56f28aaaa43965ca0563dea0adbf93806583c4d039a90c",
+              "del_hashes": [
+                "3d0b72dacacf385198bac19a7c326a53e9e0f6a7764886e8c7b218a0e98484d6",
+                "16947a180b9901f961832d5b0629eea8d54d8fe5f1ba4266b32f7eaf20237739",
+                "cfecb2d11074885948c86de558253a21f2cfd5934c9ff98ddbe85678b9e80386",
+                "c7becdc5cc047a5819df94723238d200728c9225a7e1205a9e6af617e9c379de"
+              ]
+            },
+            {
+              "id": "svaer_49",
+              "sværhed": "svær",
+              "nr": 49,
+              "virksomhed": "GlowShop.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_svaer_49.zip",
+              "kode_hash": "1df1782f431874a31caa6197c996fc5b8fca7975d3acf898f9df547fd6114e20",
+              "del_hashes": [
+                "61a20cb9a50a6d57a0913a019dd97d1ab73160a2da461e7075f2b9351cb78e23",
+                "052755d7849ae2c689572116f13ff10659fd69659f09aa294cfcb66597308564",
+                "c85921a4b05dbfffddf89b687003516c4f5fdcbb375a06444834827b25ce992e",
+                "5f04c6b645d6952d0a5c047a865dcd08b34fc3596bd39397bfed2d1af5d923fe"
+              ]
+            },
+            {
+              "id": "svaer_50",
+              "sværhed": "svær",
+              "nr": 50,
+              "virksomhed": "PureSkin.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet/likviditetsbudget/v1/opgavesaet_svaer_50.zip",
+              "kode_hash": "3f5cea16717083b77b81a31e9ed2005fd3af41ffdeddaa636ad672594af6c12c",
+              "del_hashes": [
+                "ecf51155d3e12e94702518162f7bec07403d9f43131960f49829f10d533cd080",
+                "f07e2c5acfd8c9953d88c424e7cfeee0da173c5fc4b12b04b0b43c465e72cc4a",
+                "088148c50beb4520d1744d78404653507864b33773a4231dcd33bfc072f61007",
+                "3429e9f0200f310e29f72e5b9b44b0a66d9fe9a3133b0ae0fd638831558c98f3"
+              ]
+            }
+          ],
+          "laererark": [
+            "laererark/likviditetsbudget/v1/laererark_likviditetsbudget_v1.docx",
+            "laererark/likviditetsbudget/v1/laererark_likviditetsbudget_v1.xlsx"
+          ]
+        }
+      ],
+      "kode_tekst": "Koden er 8 cifre: de første 2 cifre af kapitalbehovet, lånebehovet, årets resultat og likvide midler ultimo 4. kvartal (se opgavens sidste side)."
+    }
+  ]
+}
