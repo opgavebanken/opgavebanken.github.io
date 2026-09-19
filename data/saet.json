@@ -1,0 +1,3462 @@
+{
+  "typer": [
+    {
+      "id": "likviditetsbudget",
+      "navn": "Etablerings-, finansierings-, resultat- og likviditetsbudget",
+      "versioner": [
+        {
+          "version": 1,
+          "navn": "Version 1",
+          "dato": "2026-09-19",
+          "opgaver": [
+            {
+              "id": "let_01",
+              "sværhed": "let",
+              "nr": 1,
+              "virksomhed": "BoligDrøm",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_01.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "9a1f27048375711e33a1b004022aa046bf53a5fda02454045e0d634d60cc18a0",
+              "del_hashes": [
+                "6c4c513437327969245fec422fdf451f07cea3c6b5b180119681caa46b2cf9ee",
+                "e8fbdc37dadf4fa8f741380609094f32b30c3db1cadc5c9eff8b2e708d13ab86",
+                "8ff158386844e529dbcdec1774225999ad495bb1e2c009f36da0d253c686eda0",
+                "ebf1bfe53e5708c16b7c3f40f959d1f37698861ee862e03309278199fda41eb5"
+              ]
+            },
+            {
+              "id": "let_02",
+              "sværhed": "let",
+              "nr": 2,
+              "virksomhed": "ActiveGear.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_02.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "af80d88908badbd80423dc621494190ae51af356b66a26ac60f703d0ebb861e5",
+              "del_hashes": [
+                "59eb8f7a887e951cf732983dd66106460fbc82611776e7213858b903672fcdc3",
+                "7abdc8588bc3873c9512561d4781cc471c26c9080e840d9e4cef98c3fddcb082",
+                "2993eb2151b0ab59efc073e3ae07074921fc04ebc76de71fb82453919d90f5f0",
+                "b02302573cde9df2ad081dbd677d61d67d99e9d319e5cbc93279e880f48fb68c"
+              ]
+            },
+            {
+              "id": "let_03",
+              "sværhed": "let",
+              "nr": 3,
+              "virksomhed": "Hjemmets Hjørne",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_03.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "cc0bc1553d0e2a179dc6b8f6f3911f4c48ac70247939fbb175013335f688b4c4",
+              "del_hashes": [
+                "73a06cd705b50b668daed41af95f4cba5a187c1647dca75729370cf4e14a2df0",
+                "cb479ad68ce65096d32fd9a8acd0c6ba63c928216787f1b32a603d1f273d9192",
+                "f142a0521333d757feca9de5cf6080a6a0feb9699093d105fa4829711cccbf19",
+                "57dcb617e67dd1452efd69d664666027b909fcc4ab917edfa8c8b02d302070be"
+              ]
+            },
+            {
+              "id": "let_04",
+              "sværhed": "let",
+              "nr": 4,
+              "virksomhed": "Hudpleje.nu",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_04.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "666ce9f47eb7fa7cf26501f13375562f895c0181b457f1c468fb21ed2c1a93b6",
+              "del_hashes": [
+                "86cc9d65e1a49416bfc8a038b99ce9a4fe229b12f401fa9a6a34bd38dace0245",
+                "1379c15813f6e549d4b4eb1115afd6c8a9b8bba0a8c077c3cdce9fea172c3209",
+                "53bf02ffb78c300c6d728b7f1605a352ed0cb6f0b3c2538409577021ad5aa066",
+                "a17033b9c0b9a700330945e45d6bfa39c5a57aefd051a9a4baac865cdf1c674c"
+              ]
+            },
+            {
+              "id": "let_05",
+              "sværhed": "let",
+              "nr": 5,
+              "virksomhed": "Sportsnørden.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_05.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "b0796d224f72691c2278d8756e44db340e3bcf5502c873324535fc8f63a998ab",
+              "del_hashes": [
+                "862708d86c973ea847e5d90884b98399b3fa3ae4c4a1fc52a17756b1f30ae715",
+                "0b5ae6e3b19fb92f6ea8a7654a3db1802bfde256bfb68eb38d943a85f0d580e8",
+                "40661edfb0852bb87772a820c04ee87ffcda7ec2ffa08296c18e81934a783bea",
+                "f01dda25b88b4f2330e851f90824b38b7a954d635b419598ef647fbe6cf499e0"
+              ]
+            },
+            {
+              "id": "let_06",
+              "sværhed": "let",
+              "nr": 6,
+              "virksomhed": "MoveOn.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_06.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "60f4fd03e56918d66c6981de9db2917efd0645d1afcec0f0015ba6ad89659e3f",
+              "del_hashes": [
+                "4935de97d6f97ef06925149cec023e4092004eb1100def68cedd5cf0211146ef",
+                "798a131630f6fd6e67868d44e5e49bd7fade0bdeadc8a2471669cb14e2a5d86c",
+                "f1ec93a4487809b9882370862120f914c58d0f257f83a6f6d60a92beeaabd9cf",
+                "a03855a5f72273d3cf216b487a86656d6535d3dd9446ff41f16b1812418a92ba"
+              ]
+            },
+            {
+              "id": "let_07",
+              "sværhed": "let",
+              "nr": 7,
+              "virksomhed": "InteriorDK",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_07.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "2dc5b5493379387b68a41878e26158583ed49e32c561d4902008e1c20bfe0189",
+              "del_hashes": [
+                "53ec3e14922c94fa9b0d9afd2d63a8f767beb4930d5efcbaf02453e5065dcf5f",
+                "b1f046ef04dcdb5bd4d01bf687d1dd686ec73cad750e6d5192e62493fe76290e",
+                "0352e343073bafb408c14531f683a03018ca6e5212035021d9a2c925e974682e",
+                "f74df1ffe1ff87dbac29930316600df335b6ad4b32934b759265e25ad6a138e6"
+              ]
+            },
+            {
+              "id": "let_08",
+              "sværhed": "let",
+              "nr": 8,
+              "virksomhed": "NordicBeauty.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_08.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "253348813414e0613d3be35500d348c2a68ab54a1c1fbee6957060bb1af9b1b1",
+              "del_hashes": [
+                "3428a61b57f4833be295b416e67d09bb2de614e93d8ba25855f2182081bfe4f4",
+                "3830b83af49b2b43f2e87ec41c59d55eb7eb8be10597ae740dcebc97e80e6a44",
+                "a7f354798b7a00310c3d397985c51358eacb0f22a4af1da9a49eb4c7e274a9d9",
+                "77fb484887ab7f955f8f53d109d3223f59af772baf443ee0764d4cdee11f2045"
+              ]
+            },
+            {
+              "id": "let_09",
+              "sværhed": "let",
+              "nr": 9,
+              "virksomhed": "FitShop.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_09.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "f54c8d81f32b1e066b98a9e020229a4cde7020c54d5d318b14ac44fca570098b",
+              "del_hashes": [
+                "f2fb96b0757a0776025a794b196c7aacf1667c214f7286f2101d1f361e6ef15f",
+                "b67b36f6945ba340bb0294d0bf420d9d2bdb1415bc3af51b07a3ca424e917ad6",
+                "f3a804e402f84c082024023a2c6eb9f4201ef5ca6309e2c78899e394a7b990d8",
+                "4bdb5198a152c8216c29307b32addf91c02c3b044304bb4ed33baf2ba55dd9a9"
+              ]
+            },
+            {
+              "id": "let_10",
+              "sværhed": "let",
+              "nr": 10,
+              "virksomhed": "PureSkin.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_10.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "49f978521e2edbc2320886286b192383daaf271e6e700e07e180213e6471b9f6",
+              "del_hashes": [
+                "035329ad3ef76ff070efff7bd340def4cad60eed3b9920536f4bfca40c39fd51",
+                "92affa3c88d1dd2864d1852d094fbf148d9cfc01cf228c7c7b4fdf44f87eda43",
+                "c40cf5dd1660825f36b3c2f76194c00134a400f2cb64d28b37786ed37c512eb6",
+                "6fe6d5c69061c6847688fb76fdd38bfb3506ff35059098d06f0d953e81b96cb1"
+              ]
+            },
+            {
+              "id": "let_11",
+              "sværhed": "let",
+              "nr": 11,
+              "virksomhed": "MiraSkin",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_11.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "581776d523e7fa09e7fea77f5b2d00ee887f7f8413ea80f0c197699cb0567860",
+              "del_hashes": [
+                "b90139d4e0b2f4ea6071a792b80752d4294461127b8ac3ddacaf49ca671eb6f1",
+                "06d98c3a17adf2cebf73e6e9477f09d0cd7b4379629f26d3836a9f7e91e49f64",
+                "12d84da2edf46aff50fc86113f9b259a1df86b47a3862dfaf9d8df69d51475c7",
+                "cb4c7b4d4d61454cb8ffc66c3a7064e04d49a91e2deec59361d40f1bc4bf1026"
+              ]
+            },
+            {
+              "id": "let_12",
+              "sværhed": "let",
+              "nr": 12,
+              "virksomhed": "Stuen.dk",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_12.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "81c4379148f2dc4d219ce650995e089c9c44f6df0238a7ee53132ac266673a0f",
+              "del_hashes": [
+                "0b05cadf59447f659ade8d18ef6ed9cb474298e6711a730703804314ef7ec922",
+                "1af8d96cfd4514931a4600d057f62588b2263d97708050a28283445142f2bb4d",
+                "86fde830df84099e8e8f1f573d41c4fd04cc3fd757e4951ae261db54e82e54ce",
+                "d757135149597b5f7e5903a654447c2d9c1e75ed41facfb524686b5c470623b5"
+              ]
+            },
+            {
+              "id": "let_13",
+              "sværhed": "let",
+              "nr": 13,
+              "virksomhed": "GearUp.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_13.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "431b7dc1ec04d09af94aa07e8a5eb5cbe1827e825c334006deeac29e38603a1e",
+              "del_hashes": [
+                "ea74546aed502ac51e5c6be243bb7abe122fc66b257f2ecc1a8cc72884541c88",
+                "39b3fcfdb56dd58867b468027323f7f1b4a99734f3b34df02f5171e1bfc890c5",
+                "cefe10be0195fe203fc7dd006dcd33c4c206ee371b9b8a6627e7fe649e46a671",
+                "0907dd17127b6e4659cd7ad23c00f1efe75628f3cd92566abf91eabf5d2135fb"
+              ]
+            },
+            {
+              "id": "let_14",
+              "sværhed": "let",
+              "nr": 14,
+              "virksomhed": "Modehuset",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_14.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "a88fcda5ef83fd55c2880738b54319c84451d8adb6a885196addbb48fc3a1828",
+              "del_hashes": [
+                "58058e7d4a407ce257937292304389f0bd88a48ccb13297df591f92ab87a8a4f",
+                "af8c35541d2c4aff5f192950d0fa22ea67608c5e5ec2ab69c350bff7763bd177",
+                "bedce2d1540766881e87e88c22e6f94243f40ace620fccab4ad5ff3517cb2a78",
+                "3c74e025a5af2f6359de9a33cbae7e15f6835c2d5f0a594b3f9893b4201d0028"
+              ]
+            },
+            {
+              "id": "let_15",
+              "sværhed": "let",
+              "nr": 15,
+              "virksomhed": "StyleDK",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_15.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "f388dbc7becc546d6f998d90044f5903b37acb7778210361453a3a81fa204283",
+              "del_hashes": [
+                "a03f8455ac037e9d66719152bd8df5f40fb5c23f3848bf42ec8d77d5d288a0ea",
+                "e1da65cbbed4bd87f40abc595ae4cfe6dd3807c7578f7020cea3f91a1d1d07c7",
+                "77f3ad5a7553b5394d1f8be08e96e3b4a08526f9a7fc505baa57b8ba650d1683",
+                "d0ef1719916ce38308ff8af084122bc0e388fea17115601a4a7825999424d856"
+              ]
+            },
+            {
+              "id": "let_16",
+              "sværhed": "let",
+              "nr": 16,
+              "virksomhed": "Nordisk Stil",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_16.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "b8915c2d69458e008959bd4aee83f0760f506cd192dd7d2387fb7683056e72c1",
+              "del_hashes": [
+                "87418ad90019e8b7e49a026e444905fa11ec63f2b9a707da0061a65aa830b352",
+                "73c1207043babd03b469ecb385a8dd063a9c2be3f30b5f1f42776328f6eb2f59",
+                "b642cf738be6debd529f52e4231d699fdde3144d6f82e86d083b771559021d02",
+                "91cf0b1b9bed792e7e403ed6ebe0fd21a6625a911b5a7d8f1814052130c70528"
+              ]
+            },
+            {
+              "id": "let_17",
+              "sværhed": "let",
+              "nr": 17,
+              "virksomhed": "Boligboden",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_17.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "ce4d3fd0c370d1552038eb8f10ab0f71eaf58e4c064b8255a9373b90d80cb2ea",
+              "del_hashes": [
+                "8ce3352d63424eaf72209b0b112de97fb4b4812cc6c10e58fa1bcdd5aa34b8a8",
+                "1b5e7ae00d79ffb1f7365fae0aecf54af0318531d2c127bb44fafd5e22595c67",
+                "3e566d0ffee376066975cd1da825de02602ebca6873501a24d0062d9f0710609",
+                "ae0082c8ab9293f4b8ce5960f9ee25a19935ed02bbee202b0488c8d591b84957"
+              ]
+            },
+            {
+              "id": "let_18",
+              "sværhed": "let",
+              "nr": 18,
+              "virksomhed": "Glansen.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_18.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "416e2b2800f42b52486bd1984b42009f18f8456f57607419d39926785f581ebb",
+              "del_hashes": [
+                "d487a3973ad7b4ff0438416d013ac3bd59c82f56fd7f5ea4d26b78887803a865",
+                "5408043951be7979c21eac02f6c6c8f60849d027fe13e351e08e8dbbb9c7b7c5",
+                "0c670740dc22f57ca73ed0b00bc2f6572904ab5ab2f35255e3140168430a133a",
+                "7317a001e02c2693a51f0b5c322c15bf194378fd8ed78299267c99aa8fd2548a"
+              ]
+            },
+            {
+              "id": "let_19",
+              "sværhed": "let",
+              "nr": 19,
+              "virksomhed": "BeautySkin",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_19.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "34ca2bc9ecfb567bc2a73ac076d200e759a0ffdec5ad8467ce9888d9e01f0882",
+              "del_hashes": [
+                "67b90e013c261424b7ed76295464c4df87b6d5dd1fa4f6b245cac4aa8f3531ed",
+                "e83214267364ee0d3e6c380cb223e0411597cc692089c624c33ac06cfb38d97d",
+                "520709f6bbce5002aae47cff28109f9b193c01e946fe3c1a3150e37aac343b5e",
+                "72b34acbe9eb35a63a3bf39dc7eb0d3d24746b56f8badb8456919a795eaaa52c"
+              ]
+            },
+            {
+              "id": "let_20",
+              "sværhed": "let",
+              "nr": 20,
+              "virksomhed": "BeautyBox.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_20.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "d112cd7f28feaf01a28f5bf4bfc113257ebf870758e6939888fcadccf4cb941d",
+              "del_hashes": [
+                "937492ebab65210b7b478a00965678caec5a0887bc01c362b5190d23f5a8e27e",
+                "43e0554c593e8077bdb88df5d8b733c1e540dd19e88986522212babdd979e33a",
+                "212ec8434746f8d71023e1439ac539b4a33f80d2da5f96cd1ca0eb607db93550",
+                "c5f9c237533d4aca29133c8da955002370f322a9a9d11a46140a8460ac303001"
+              ]
+            },
+            {
+              "id": "let_21",
+              "sværhed": "let",
+              "nr": 21,
+              "virksomhed": "TrendyTøj",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_21.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "6ba3ebfec748790f3205d6906d766f3a57bcf008d3a32845ca3ba2bef7525a15",
+              "del_hashes": [
+                "c3c2e2101e2955ad6ae5b1849b23fe9f53e9ff0d366ea616244967f079ace4ec",
+                "924c04248ab3c5b0d55110191d8e2e9d9a9b5bbc1bee61f084658ff04ebef00e",
+                "6a8ad17a4b0cf10fefd76195b4ae86c74927902cd54d6fafdd9bfd8b41146409",
+                "ec123ca7aa4c049a27063651eb859eac2684c5952ea42feafb4eb72a363f4dcb"
+              ]
+            },
+            {
+              "id": "let_22",
+              "sværhed": "let",
+              "nr": 22,
+              "virksomhed": "DesignReden",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_22.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "dd1a07cc7b93575dc48a1f4b55aa08c501aee3185a0498087d420c84a7949c61",
+              "del_hashes": [
+                "d694d775fc73de8b946a09a2c2a2fa4e6b18142c79ee552787ac51af0c9f007d",
+                "d6a0f232d69fd82cbe6a7258d3c63028c746a9a620adce6e5689a829340e1b6b",
+                "587192fd5119f104b1f4d2f1cb8cc9a42df8b7425645015df000cd167c76e7fa",
+                "8bd55a9346f9d9f3a4901f7e74dc43f675bdc645907cd780b1d10e9e0503549b"
+              ]
+            },
+            {
+              "id": "let_23",
+              "sværhed": "let",
+              "nr": 23,
+              "virksomhed": "NordicHome",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_23.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "f5e1e7d32b3e21f289245df2617ad7e6f19ab695a51304885f07b6effcbd0c4b",
+              "del_hashes": [
+                "955b90567c1069137114912b2f89628ef8ea25043238cb50a33ab7f290fd7d26",
+                "9473d569297dbc1b2ab215aa6c0162f6965c8a08d5b202e8b4f67d72c0ee5bb1",
+                "54b03654dae2a161051b1892b52c120225f7e0756cc7f039dac8dbc354d8aed9",
+                "8e89fdb2697af9c5a5b28585426de33dd2fca75ecf755d388936446a9a5db6af"
+              ]
+            },
+            {
+              "id": "let_24",
+              "sværhed": "let",
+              "nr": 24,
+              "virksomhed": "OutdoorDK.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_24.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "fee102283b6ed5927dd29e9a5ca36b301a8d90f6ac38d97cdca4addb4b00502d",
+              "del_hashes": [
+                "abdeee708593ade5420f425d6025a347798b5f1627ffc3ad0f757a1e723847a4",
+                "06d96e0b587ffae5504edd57ca8b67066893d6337b69aa6996f28b32bfc268ce",
+                "41fe69ce94db3a1185f078c153121ce6200cb638ac645960232f68ebb39ebda8",
+                "8ecb5f3a468cb9064b1782c81d881bd387cf1f72c93d38e413f39b0147044931"
+              ]
+            },
+            {
+              "id": "let_25",
+              "sværhed": "let",
+              "nr": 25,
+              "virksomhed": "Løbeshoppen.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_25.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "5a601d466b41da75d020c7cad58a57358cace77b417c85959c86060a2580b817",
+              "del_hashes": [
+                "587a29e1ff48f0f33b86b6471a27cfebfca07aa72242db813108088f0de942dd",
+                "88b0b3857c7c7e215af2c95de5050326271becd9302093b672c3c657af1c0b56",
+                "d611cd303569e37283a46cb7dfc6eeaaa7ddc89658cb4b098d36d5c0e4b0a0ef",
+                "82e917c31fb0ed43da3567b6108c4f4971cadf343c2dd4a3d949fdd0129d1c8c"
+              ]
+            },
+            {
+              "id": "let_26",
+              "sværhed": "let",
+              "nr": 26,
+              "virksomhed": "TrendShop",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_26.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "6629c16c45870204e02c747f25de379a8e455a14d88d2c50a939fb5ca2a2c80a",
+              "del_hashes": [
+                "a945f8aba96278d426ac4b15ebed86e170f9c53f69328ad3ca814b89935e10d2",
+                "0140cccd52f5a74dd4067b7babda4f33812ac8d596add5f2e70982fd2cb4ca37",
+                "a5d9b274959a0b5a531a4b92890eb1e1ce0da621f596d8aefc7e52b1a4fa6d74",
+                "1c169ef6affd10ec2bd7fe1761a3b902249c31d1d1d2e622695ebb87673ea531"
+              ]
+            },
+            {
+              "id": "let_27",
+              "sværhed": "let",
+              "nr": 27,
+              "virksomhed": "SkinLove.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_27.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "34c825b97a60ac2b1bbb0d5400ed6a18e9dea036e70d96962cc63db0387b0a5b",
+              "del_hashes": [
+                "b493c951a4a7c857a7ddd595ec7977673f55c4f2fada2b009d8cc75ba42b892e",
+                "c054877601d5b654270152a44336b8ee906cf7c7afdb5ed59b59e1eb04878252",
+                "92d54554f4b4c6e75bb3b7171c841463cb9b57cafa579b4297e8484cd9e5574b",
+                "3d1d509e7f2b69d40e0426b947e7e76a0fc770a3f1a98fb6693a6f1addabdc22"
+              ]
+            },
+            {
+              "id": "let_28",
+              "sværhed": "let",
+              "nr": 28,
+              "virksomhed": "Urban Wear",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_28.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "65e286ca89c61c876311995e170fca7f7b7a0ed098dee7d8a42fdd9bedfd19d4",
+              "del_hashes": [
+                "ad78e1da32d888bb8dc4b2326e1b50232e082ee649cb8b4acb40bd95e765fa10",
+                "ee56bee0a5b5ebddb3d34e64bfbcfb95a23fc2ddcb1fd82edf02b1ab19befc19",
+                "e789c5f9aaf22c40c7038781792ab00c0be1bd9bc1186c6d1dcb45910fb89152",
+                "2fbec97bffdcf516fa56b939049590fe16443deafc7cc125ff69968c6b3a8d2a"
+              ]
+            },
+            {
+              "id": "let_29",
+              "sværhed": "let",
+              "nr": 29,
+              "virksomhed": "IndretDK",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_29.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "5226ed8541c0770c79ecfe316abc83a3ee8ab690f05d6e5ac604d22ee31a79bf",
+              "del_hashes": [
+                "475864069c664de83997a848dd4405710a98b3b8a04bfd570640ce35b98e672c",
+                "70d368fed97868b7ae323840677d7fdae3ddaf740c2fe061712873fe6f4d265c",
+                "3e1005177b7c01f1f6e120d98e266b5090b81ad98925da005b2acd3aef1300cb",
+                "4c16f0270b7619788602a77d02f72388a18bc460de8eef81ff258320538023f9"
+              ]
+            },
+            {
+              "id": "let_30",
+              "sværhed": "let",
+              "nr": 30,
+              "virksomhed": "Bykjolen",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_30.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "6cd774901c866136735d18d041719f68b57838149a975b938cf3f83543a85e63",
+              "del_hashes": [
+                "968ce1103160df2d003443054a63616d46fdad2b931fd0b65b85ebc62cf550f7",
+                "842b7beaf2b6395f2d48fe3bfaebfef74189846683872686e2268a71ba350441",
+                "1898a214601c8c75876c070c7b75a415d65ec50b8333f4663f6d4175da1375fb",
+                "07c121b3dba6850bcf21d3de0d757d5997793f9af2e28692f322560da06ffe62"
+              ]
+            },
+            {
+              "id": "let_31",
+              "sværhed": "let",
+              "nr": 31,
+              "virksomhed": "GlowShop.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_31.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "679e2947edf1dd911c48b395ba391c237c43fc1091d93736eb165c29de9e49a6",
+              "del_hashes": [
+                "8fc3430a5dd17584d552f621eeb082271c559c73390ee4c5aa0f3fdfde534d83",
+                "7c10e44a9fbadaf6b00eb2556167f459115079654929b0a8589f184f4131cae8",
+                "56590f089f1eac3cd169536f620c5fc2401f1db678f3fdc22f11fc3dce0f80da",
+                "ff1cf891698b42e9daf2383e772c8542c594d36887a2c2d8c02d010885ad4489"
+              ]
+            },
+            {
+              "id": "let_32",
+              "sværhed": "let",
+              "nr": 32,
+              "virksomhed": "SportsDK.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_32.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "46ef406f4421f11ecf6da55a7fa06a490a7070ff9df0e3f13942eabf546443ca",
+              "del_hashes": [
+                "b4be71e14bef441353a64ca2ee6f7abff7af32c1e4fc8ae7725b81ddaf638b50",
+                "75e397e6471d0d74845b4e082c88e0217684ae6fe6a5440eca28a8dcd63bc08e",
+                "a63560a95ecf9a1ba097fb0886b9110a9d7efb7caaa079e7588f5afc4f75ed86",
+                "e64247baaac167d442f05b47e04efa286da591150d7142eb1304f27c1947319e"
+              ]
+            },
+            {
+              "id": "mellem_33",
+              "sværhed": "mellem",
+              "nr": 33,
+              "virksomhed": "HomeDecor.dk",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_33.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "03639f9b08c21711a3692b32f90a114e45f2afb1accfc339a62fae736c2151eb",
+              "del_hashes": [
+                "bf13b0d4c610867014b40fceba20e2488ea88994f2efcd6de0e66942774958ed",
+                "8ac9e721e3dfa303f879919f547d120b7d1009a4119d9511b9e7cfa57820c2c9",
+                "f45cd0d3b9c92b3a80ed785f38d0b9103d4269709e87f78215c72587ae38ddac",
+                "71cd1bb32dff0932037b823da4f6882282182fbe406ac59efe2d2fb4b5f8b63b"
+              ]
+            },
+            {
+              "id": "mellem_34",
+              "sværhed": "mellem",
+              "nr": 34,
+              "virksomhed": "LuxeGlow.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_34.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "53bfe8c6fb2447d08083c195cb00c349397f06a925aa127091dbf43638698f47",
+              "del_hashes": [
+                "8733a74a21b19d96538436b01e3d6d6acf4a656fb9e829face3873deb63087c5",
+                "6796180ff0e9a1af542cb938aacea0ac5c89a3feeba2a28efd3ec9bcc9d9928f",
+                "e17d300045a440bb4339cb3f439a907ddab9294a661c5dcb4c03983e89c85988",
+                "5633b54b6aea6dd8fff1c5f660ca55e35eb8344faa9aeb08dc520951510decc7"
+              ]
+            },
+            {
+              "id": "mellem_35",
+              "sværhed": "mellem",
+              "nr": 35,
+              "virksomhed": "FashionNow",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_35.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "56d895a5578adb498a0e5cfcb1dfac618725e4b4c30cb86ac197ef5314f97cd2",
+              "del_hashes": [
+                "1a15b607fb57b1fc5f595682029a68e9fdb8e0ebab96397eca66096608e298d3",
+                "f365d56e71408cd8dde89a86e05c9f18dcfafbe389daf55bf9faa11a9dbee5d7",
+                "5b282c809e5dd05c4b138f7965cb9864045e12e5dd3b5cd42164b824082b7d9c",
+                "246829a08a69bf68e1b55abb9fe722c920cad8c1654e92a4d720d50bc0fdbe6d"
+              ]
+            },
+            {
+              "id": "mellem_36",
+              "sværhed": "mellem",
+              "nr": 36,
+              "virksomhed": "Garderoben",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_36.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "2efab21fa658f49bb7abb38e9f329b2354a6e927af506714fa1fbcbb84f4a924",
+              "del_hashes": [
+                "46b1fca83e75a8ac5d9c825ca77f4a69b7c6cdf0a5819e3ef4db0ff6b59948cc",
+                "9647593fe93344a0d59932f4b0365c5e891a9f4946c2dc6b8a672318cdc1e802",
+                "05e684297b9d07b685ad08f00090f9ed52c5eecc546b57679317155d9c22b1f4",
+                "bd2cf25032c14d0fbed9c84c818dc3caf1d089426ea6e064d5cd97d6e33662d2"
+              ]
+            },
+            {
+              "id": "mellem_37",
+              "sværhed": "mellem",
+              "nr": 37,
+              "virksomhed": "Lysthuset",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_37.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "92e60840fbfa2e799ac3c6ad998533901150d07d00b599d73524ce6806f540b7",
+              "del_hashes": [
+                "1b331a045af98cbfa914c80e402a17e4f86d36ed53e8d109711717e2324a7144",
+                "96d50fdcf5da66caf85a78f3667b2f010926c35a633b62133980366bffd59bcf",
+                "2a5ab292de42ae87488613eddfe4741e88bf7225a03c20a864e9a907e264387b",
+                "8f0c09efece2307ad03c2062cf32308c71399cc22e4153f9cc3562fe26a421e7"
+              ]
+            },
+            {
+              "id": "mellem_38",
+              "sværhed": "mellem",
+              "nr": 38,
+              "virksomhed": "NordicSport.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_38.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "59b6e9b92598c9151645fe27e844065fd3d16f8c0855e344f224a749d15e87e0",
+              "del_hashes": [
+                "7063ffccae7323390b5c1198d65e6d3cb1e09297d84e2c7b8c1f99491ed6c5c2",
+                "9055617bc97aaf26518c988bc948a21b68ae2c45851de4bb578c603e0e1d0a00",
+                "ee02ac29e5eab50ae6aee1d5575cdcc9dedf5861b5c4cf44e9ff672826a30542",
+                "92de3c1f8e23437ade9168c6f91900fb06804d4dfb0e26f600d5e03cacbea40f"
+              ]
+            },
+            {
+              "id": "mellem_39",
+              "sværhed": "mellem",
+              "nr": 39,
+              "virksomhed": "Nordic Wear",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_39.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "8dee9a8b6b3417fc026a2c1924482d6c91aed1ac32cf5aa10d6d4c43cab60630",
+              "del_hashes": [
+                "859312ae22055c6a2bd5a27d487e5c6c7109ef0e0a5e384f9fdf653e61c685ae",
+                "e713db9207cc30b613a93e3d585016a5a12d2a49d1e8f26d8befb98ddf45382f",
+                "b066e34d46c14f5c723c43cdf19e0e2e3483dee0f722a025d4b702c7b6a985ca",
+                "9a17baa245907aab56b80e3ec682dcdd88d8721261df10d60d4a774dbb50d247"
+              ]
+            },
+            {
+              "id": "mellem_40",
+              "sværhed": "mellem",
+              "nr": 40,
+              "virksomhed": "PulsShop.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_40.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "180289ebbd0f76a289a478546479c9c846cc883ae85ace2e51c9c2f303bc9ce9",
+              "del_hashes": [
+                "a4022ce8aa06c359d4e09863dddccc7de849c526fbe03b27194e5aa421fa415c",
+                "72be2834ff533f5c244a0bbb649c1dd600f55a0325c1b13c976cd525a42c58e9",
+                "8d309bf5cef791b1b9ddabbfc832be437b1200823aea4b7c7c69d38a123e631b",
+                "e5b8ee1f12344a915005d22fd04c074cb79323e10d03311c5741ec272f8956da"
+              ]
+            },
+            {
+              "id": "mellem_41",
+              "sværhed": "mellem",
+              "nr": 41,
+              "virksomhed": "LuxeGlow.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_41.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "e84fc39b10d709b654bff3a18aba50718c84f565416236727a1bfdca4a48dd2d",
+              "del_hashes": [
+                "a0a1a19bfdf09dfde7fd64061e49f25ac1aea1d0658c466a1b10484057a166a2",
+                "920cc3114945211875c505d64c6a57dfbc82ba5b70888489bb4e9178c085dc0a",
+                "2cca4bd795a236348a3fad83c08e6e54185955035d38bfbcc04907a89fc93486",
+                "5763e4ea9a44f5e58aa04d8f463aa567895184a5f798afe704c8cf267df3e965"
+              ]
+            },
+            {
+              "id": "mellem_42",
+              "sværhed": "mellem",
+              "nr": 42,
+              "virksomhed": "SportsDK.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_42.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "046255f61e4551da03e1b9f421ac14de641c56c8deae443f6028b47b127d9d2b",
+              "del_hashes": [
+                "744cb08fb07c76fe191ec0bb9bb9f6c3e04579e96795078085ec8900f0f0fc56",
+                "1877e1258759e0a8d57bda5ad1685d9a415de37d1dd55d927843e905060dddc6",
+                "4efc0a7e6ff443271c88746d03f29feef3a76954cda33647a8f9335faf7a7db3",
+                "e25c02513ebc6f55ec77fd346376438b93688a1c9022b6c9672f35aca34cb6b7"
+              ]
+            },
+            {
+              "id": "svaer_43",
+              "sværhed": "svær",
+              "nr": 43,
+              "virksomhed": "Hudpleje.nu",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_43.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "4221b435c839ddf25418795278a2b0a84c795995dd905cbf9e6fc8e14f11bff2",
+              "del_hashes": [
+                "2aa307b23b4cf978b983ca2f776a9d547159fc243fd7e1e87434b7f646a29810",
+                "ce02a9bb12e9f1c18aa9f19633046a848348e2426b556b94b3f28fabb8755d40",
+                "ed0db6c8ce373409b9274dfdc7a913b9bfa10853890ea798b9551c83cf0f8c41",
+                "b695f98e78957a1e8f89da764c70a090a7c8b2aac2933040d395ea9ee3897e5d"
+              ]
+            },
+            {
+              "id": "svaer_44",
+              "sværhed": "svær",
+              "nr": 44,
+              "virksomhed": "FashionNow",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_44.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "79ef3a8b6a9f839dcbad099f51c468fb87f32f9023a10f7f752c92bc0e1d9b45",
+              "del_hashes": [
+                "ae81aa83a09591157b52042fd90df1e0a12a446d1e11ecbf27ba09601bf17f6d",
+                "0f2439de550615b95158f008eef7a0abb7a83c5e147ad752518e9283b1e04214",
+                "7e9e2cb36e89e1e89e76c87846c54957980d52fba480d742237835601e647b9f",
+                "cf926520ae93eb3e8e9262ea5ae3b6d6704e6f0ca5f2045c9692ce4baa75fe02"
+              ]
+            },
+            {
+              "id": "svaer_45",
+              "sværhed": "svær",
+              "nr": 45,
+              "virksomhed": "TrendyTøj",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_45.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "93d1f01128708183e67afc38c84c353c5bdd190e166f1503e6545c1877e8982e",
+              "del_hashes": [
+                "118f9eeafaab09fe43c426655e1c27ecb0dcc81a7b498fa528c3f0396ea3173b",
+                "b721bce9f68e61f13b5f6cad4be73d888b91b1ef3e8816000dd760dde450765d",
+                "0d973569e628067f71d55710cd61317ae93f8848a481d356d25b91c57e3a9db8",
+                "eb3c253d3697b50ca1bab040d971973105d1b18002d0628baae3b3e4827039b1"
+              ]
+            },
+            {
+              "id": "svaer_46",
+              "sværhed": "svær",
+              "nr": 46,
+              "virksomhed": "GearUp.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_46.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "cc81a01d79dfec67c0a7317683f926ddaf663abb776438875e195c3e8cca9feb",
+              "del_hashes": [
+                "c987ffcf244c70ae9052999c4cfbfb9fda6006a04463be7770f265585c175bed",
+                "ad3b83333ab585c514353a80e52ff0a9492e99829c6cf3604d7d591a770a0aec",
+                "719c753bc619bca5694bb5ca143b5468ef0cf75d4b9d7d8bf1c9c752af5edd94",
+                "b77ab684fa5baf4948e07ec2491d91d5cdb9f9c42b0d5626d2a25a9a593be94a"
+              ]
+            },
+            {
+              "id": "svaer_47",
+              "sværhed": "svær",
+              "nr": 47,
+              "virksomhed": "Urban Wear",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_47.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "5427fdddbcefff44bf7d01302309442363639d760d4dd92c78d14687dff08089",
+              "del_hashes": [
+                "a2e53009242cb8d88c6bd69d53a3b7cfb2e1c23da9479534e6db2a409c26d9dc",
+                "e5ba556e6d05905f408517856de86c4bcfa5298368236597e0f2d6dc4688888a",
+                "18e84213ee503a684ced9ab41e54de4c4d45f9e5dbd30e129663fe353bab9261",
+                "87019130847be843ee2101293e3c734db91551b6cdc8a81505b703b25a624d24"
+              ]
+            },
+            {
+              "id": "svaer_48",
+              "sværhed": "svær",
+              "nr": 48,
+              "virksomhed": "FitShop.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_48.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "4473ce5f3316c284a21606df920c35be536e269a6066936955eb0d9869ae5ffa",
+              "del_hashes": [
+                "78ed56239178eda0f1134721c3b10480f15df73570326f7b891a32bdb6239d64",
+                "16947a180b9901f961832d5b0629eea8d54d8fe5f1ba4266b32f7eaf20237739",
+                "b8ef00d9e0fd993ee8393e0b9add7147fc30612e0e16c321572cf06da163411f",
+                "a289c5ba46a6aba62133f416cfca263edbf390f1d6933d988a84a162b370527b"
+              ]
+            },
+            {
+              "id": "svaer_49",
+              "sværhed": "svær",
+              "nr": 49,
+              "virksomhed": "InteriorDK",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_49.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "bc85c1bddbaad9791eccdd0f6f7d42e3e44010d8cff6e2c75371fbfc72eca8d4",
+              "del_hashes": [
+                "9e2015ab4cef89c0e1e6db53b9c6b79a5cf8055ebb3b8162c65320d1d979ea54",
+                "1faca8c9afcea4bcc05b31a95e61803de6e0aa34348bd326f24c060879e75f00",
+                "648129bd2106f2f8a3a02cfa102d1b8d116a27ba952dbabe52c9e83f8ed64df8",
+                "d02dcd8ed89d078d05a2719ba6c921f481b4e0d8c738cabc85a81beb4f57d840"
+              ]
+            },
+            {
+              "id": "svaer_50",
+              "sværhed": "svær",
+              "nr": 50,
+              "virksomhed": "PulsShop.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_50.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v1/opgavesaet_likviditetsbudget_v1.zip",
+              "kode_hash": "3db0f4e88ff35e726fc25c897cee7a87ac0bd5a713f9ae799c314ae7f2459c10",
+              "del_hashes": [
+                "9d227461274a3ed2e75f20731b0ac2d2590edf9ad74657d154c3470b181a548a",
+                "7e7d4c69dbed19e7df8ad0beb7cea5fd555ef4bfe256191f0134e8e6a9d40e01",
+                "574413723d5faeb870ae5e37177e93ccd3221a690adfa3fd4ff28108fbeee5ec",
+                "7b5e3e9357497df1c15bf531156d96635a1716ec954b9266196f8e8ecfead979"
+              ]
+            }
+          ],
+          "laererark": [
+            "laererark/likviditetsbudget/v1/laererark_likviditetsbudget_v1.docx",
+            "laererark/likviditetsbudget/v1/laererark_likviditetsbudget_v1.xlsx"
+          ]
+        },
+        {
+          "version": 2,
+          "navn": "Version 2",
+          "dato": "2026-09-19",
+          "opgaver": [
+            {
+              "id": "let_01",
+              "sværhed": "let",
+              "nr": 1,
+              "virksomhed": "BeautySkin",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_01.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "810747f4fd97cff6094ddb4ea3cdad2c9d5f1a26abee1d7ee23286d189cbb6e4",
+              "del_hashes": [
+                "e447006185622ede4d8bf3c5f152785de115311ee6bdd7f4759cdba35a9e693f",
+                "af244c39a725e06cb0999b8e6c48f7635ffaa764c86601dfb17c23d3e1ac336e",
+                "24eb5b7d827663466ffacbb0fc43c0dd39add27e641445ca1d05ec49a5a410de",
+                "0be31d1a5a39ee4aac02c142e7b6223c8b17c9f5858e524bc697a1247eb163e5"
+              ]
+            },
+            {
+              "id": "let_02",
+              "sværhed": "let",
+              "nr": 2,
+              "virksomhed": "SkinLove.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_02.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "b179640e65ae1c4c80796044bb0af374981a2fb71e2420789e0d828c2299d7d3",
+              "del_hashes": [
+                "a4e12ba11dae44dcbaf891a46bca6f66dd314e407090e893dd7885e5d248e7ed",
+                "c46c70d2e964406608b4a230fba2ea9d22a60fc5f7835e8a6e360cc72f8c8245",
+                "d848dd1e96ef1ed53f9662367cd400cdfa314e5489864423836e400c70ecb314",
+                "c120f087b173da9db69a92d3cad7f5a3d63b2256c85d71ed45b55637a4239140"
+              ]
+            },
+            {
+              "id": "let_03",
+              "sværhed": "let",
+              "nr": 3,
+              "virksomhed": "BeautyBox.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_03.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "faf560ecdac1863f0acf60b13c8543aa863fe6c26b1f910baaaf1d6cde9a3fd1",
+              "del_hashes": [
+                "91f4bff9893804ab2e8c25266d9d5a36acf3b52013f7ad57772cbce7cdcd1ec7",
+                "e7fa1229a30dd57d8d4c0b8c880cc5f7e98878e183a4364b34cd24d996c87c31",
+                "0b08b14c598c33776b43a3532bce88893e49530743d4bc2a50b6370bea6a8b18",
+                "d275bbb8c371062c1e3e500baf09e50413f57b032e545b29f66c1cf1a0d0a740"
+              ]
+            },
+            {
+              "id": "let_04",
+              "sværhed": "let",
+              "nr": 4,
+              "virksomhed": "GearUp.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_04.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "8579403e45d088c1933231a0578f2c8306bfa600c4f4cd28134ff94cac134e53",
+              "del_hashes": [
+                "23782e9d65fd1c7fd0465251159bb9c5098b990144094cfc6c91aebc83be28c1",
+                "e364776a591b12ccc42e8acc5dfe33079c9765f2cd308bb1fb0d9fa90d2614dc",
+                "35b07c5d422c1cdb8638ca7a0f5b92d366e9893de803176f141e37b0a076f0b8",
+                "ee113dbc1d736457a2cc296bd2d241bba2e5dfd942335e563acc3cc8bcd241a1"
+              ]
+            },
+            {
+              "id": "let_05",
+              "sværhed": "let",
+              "nr": 5,
+              "virksomhed": "NordicBeauty.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_05.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "9e2f89c30f172155abfbb3cf334df5a8608d82ccda95a77d4be6641ac1aefd80",
+              "del_hashes": [
+                "5cff4244e345da206b443f9785c2f33a39056b70580a19c9fc1fff3070b4408d",
+                "9c9df694306fdff4e76c8c9c3fa29db50551a01ae41abc8e295e2fec83ad5163",
+                "5bda4b4fb6878bd7e3e3921c07778d0520fe5d15e24bc9f0227cd107957644ee",
+                "35b57f0afe55ef8809b187dd5a09d95725301c64d80274337e3de68df4e23923"
+              ]
+            },
+            {
+              "id": "let_06",
+              "sværhed": "let",
+              "nr": 6,
+              "virksomhed": "StyleDK",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_06.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "609b7335cbd41e19727c89c15a7b02105ced25c19ecc6c99b30684e5be256f50",
+              "del_hashes": [
+                "b63f87e47105b0f3402d6043faa61e297ebce069d1924e149264565c145757a7",
+                "587f2444098b9f9e942351ed278be29a4590d2b167f9e41329182b8a0271f772",
+                "e4c206fd219d6d8e9bb2b5ec7b71071dd6001ff6ec14f151b858dcb8e23dfeec",
+                "aa20f3fc8fcd1c7132fde370f20f2e2b72c5ebd5cca7a5111651e4c8a549ed26"
+              ]
+            },
+            {
+              "id": "let_07",
+              "sværhed": "let",
+              "nr": 7,
+              "virksomhed": "MiraSkin",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_07.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "4e54e417e752c74406ac515caab2f56f9e35d8adfebbdae8806f04a74d930843",
+              "del_hashes": [
+                "5e1cce19028192b26a28ef8407640f75f510d4c7c6560fa5295bbb85278f7224",
+                "bb06182d7c3918d3d0c3c35e862a8376d9e0bc78d42a2e1d9414667289b3f918",
+                "e9dca80245f05281ac7e4c42d631d883f8568cf66c8d375d9fc2e9bacea5a3fb",
+                "156ef6aaf1eaf191ff7df576e6eae9e593747fe39eab0be409a6064122faa5e9"
+              ]
+            },
+            {
+              "id": "let_08",
+              "sværhed": "let",
+              "nr": 8,
+              "virksomhed": "Sportsnørden.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_08.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "f84c0ba426ab741b7b159f13fcb135c1ef99f3829f1a6c1bc4f14c07e8fc2c0f",
+              "del_hashes": [
+                "9ea2389b632a3a404675c48779bb1b1287ef657e4997f79af6c0e719925e2251",
+                "5dfbfe37756f17bf0088bb548e539fd2b9c4900770b8e93c8096ae634ea9f9cc",
+                "5b69a1ecb61b4198799eade2d41f0453e2a5d5bd1a9ac4244dda114de8992ebb",
+                "9dfc7e37173b46ac3257755fe6507a071b7df6bf19a1c87f56e3b2a387ff603c"
+              ]
+            },
+            {
+              "id": "let_09",
+              "sværhed": "let",
+              "nr": 9,
+              "virksomhed": "LuxeGlow.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_09.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "e4cf2255e997f948572c8fd0cdf714fb021f1cc925cb0da527d032d5071a9baf",
+              "del_hashes": [
+                "22191d56a6906a0f0662ea1867b77359f5c68a1fc9800ea86d1115fca12fa6a1",
+                "627ce804b0982cf8c307551aa375585a64aba4a9594ef8ba0b7aee7dce3199b6",
+                "e0e79f47dcc457d3b91ef68c1fdd4dcbe0ac35ab471ec0037f69e2163d04c1cd",
+                "56f296dda852d749c5cc10e30c2eb5e21b31e188ae11748a68e1f23c1666d347"
+              ]
+            },
+            {
+              "id": "let_10",
+              "sværhed": "let",
+              "nr": 10,
+              "virksomhed": "Hudpleje.nu",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_10.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "c07195b92681edc8120e84a445e6c025b76f393877f0702228a585a7109dcf0c",
+              "del_hashes": [
+                "f1f2b5eed22d2c9f91ac79d5d65572008567c3bdd12a57c0e93e6a8ed8587f90",
+                "004dac0c04e0646a5d0994acf373ffa1795dc75fa3f60338a3e399ac5b4a1e5c",
+                "2b210ad016bd57271e0f3908390842122af4522ae3f79bddea7221fa50806e34",
+                "cf71c1254f516101985b76248dbeb138a1d4f59a6eb39bddb230f18237c885b7"
+              ]
+            },
+            {
+              "id": "mellem_11",
+              "sværhed": "mellem",
+              "nr": 11,
+              "virksomhed": "GlowShop.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_11.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "e74fa34a07db8070ba011d0cbde0e736a0076bf96714963d542a2800c49f610f",
+              "del_hashes": [
+                "6a7cae87481cecc79eb2dea236478ea07da3e7e0bc0506116c7e6c0b3738a6ad",
+                "1080954518a96be332eb906e09084e82e0dfbd041809077bf4b29da67c71053c",
+                "d95e4b5ca1fd69c1e07814d7595aea49876380e16ddf5973989e0070e1eeff80",
+                "9113625e3182e4472c38c7e7b9adb558f2b9137689a3785496b79a7881cc8aa7"
+              ]
+            },
+            {
+              "id": "mellem_12",
+              "sværhed": "mellem",
+              "nr": 12,
+              "virksomhed": "MoveOn.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_12.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "559572be1f910f7e2f55b07d052bcc4538383cba40d316365fb415009d65653e",
+              "del_hashes": [
+                "ecd39a16051cf2addc19e3aa876b7089bae22e23b372d91e25ece5d8c836f6b1",
+                "1150b5756e739e4bd7b3822b4d4ecf51e839fb400d1a301fb65e88d1b31d3b7d",
+                "94189f2e8aa8f7ded3c75feaf9492e26f2c4061df964c564ff897ec624b28a53",
+                "7bd67e4bb2a3237b2050bf1da5225b5113cbf7d777a10e4a5b105fbf10f70303"
+              ]
+            },
+            {
+              "id": "mellem_13",
+              "sværhed": "mellem",
+              "nr": 13,
+              "virksomhed": "Nordic Wear",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_13.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "3bb7fd79750480b7dfcc5d1ccfb39625ee91074b5398a9cdedfc1bef7948a040",
+              "del_hashes": [
+                "f13d64480bb66138c6ca13e8d88f37881596aaa6a52cca0c1dd01312eb482117",
+                "d67b92620bf6ce37e5fc6adc841a850a76010af0e40867d187c4d3142c14123d",
+                "76ee6882a094c39d9369560cf8f4966a563556947c1308273b1b8453982fe163",
+                "7df57670a004432309e3ffdbfdc63bb131927745f64121a3fa5a5400b31b7bbd"
+              ]
+            },
+            {
+              "id": "mellem_14",
+              "sværhed": "mellem",
+              "nr": 14,
+              "virksomhed": "Nordisk Stil",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_14.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "9df60c3ed11d3f7248d7d7cec4d54596f03d7cefaea9240cf875b3ec3a7c9620",
+              "del_hashes": [
+                "da858b1b50bf73136a35fe6f6ba10aa55b4c948dd2d7d901d4ec41f4db273817",
+                "6e22bec7f241fa7a10da7d66f645abdece43df7f113a2b2bdb2cc2e8dda19bde",
+                "372e42375bae5e19728838e3fb819f84a021192557416e6a772e0f5438b213d3",
+                "2859d14912f23d06952216d796ceece3d85b243623597312f26800fb9682ecb7"
+              ]
+            },
+            {
+              "id": "mellem_15",
+              "sværhed": "mellem",
+              "nr": 15,
+              "virksomhed": "Garderoben",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_15.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "d1eaaa7e8971f73f8eb8d03bb4b1f0fcd5d7e65d89941e2d32d05993474eb00d",
+              "del_hashes": [
+                "564bbcf76f8a56aa3a2b66c34387407fddcd77fbd7da713d0525a1b3ea1c12ea",
+                "0aafe07a623a20cbffbcea256f0c88c579e185ba5809a9e66e4ecb51ee886c36",
+                "4973d6a6d5ac807b97ae56fd00d4a1271deef243216f0bb0a7b851445b058073",
+                "ec2a5024223a6e36d0182adf3e0eba7ef99208db91c833a111885f491a63c063"
+              ]
+            },
+            {
+              "id": "mellem_16",
+              "sværhed": "mellem",
+              "nr": 16,
+              "virksomhed": "BoligDrøm",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_16.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "39ba4e047566f6cd57aa839507e1e43e3659f10cc14deb700ca770ab5bde16e5",
+              "del_hashes": [
+                "bf5292e0025eb2cc3bd1f6f48b73ed00e0d630d580e4375cbb41445e34cd9d4b",
+                "a366d13ff44fbb30f0546ed26a517c6975beebd5e75468ea91ee7b49884e9ceb",
+                "1018d0b676c2778c9cf39aaac073cf4093297e17f63f4e0272d3444c48c1138b",
+                "d15d578ca895253567e249de6d8f538ca43087ed545e492c42acbca7cf08fcd7"
+              ]
+            },
+            {
+              "id": "mellem_17",
+              "sværhed": "mellem",
+              "nr": 17,
+              "virksomhed": "Boligboden",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_17.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "fabce82009eaac589685b1bd587c166d24ec7962af5de769d45a7b4ba1261335",
+              "del_hashes": [
+                "aa4b184afc4c40cd09d8dcc2591bf7c2e16716a9dd0afe0b4caa1d5e4528db77",
+                "6aebd716f1e19ca1a35e2d0722a65ff33091ec3dee6b85ce496df5807f8b5885",
+                "20a78c37011f25ecae5631f1221a549f9f4aeec8d04687252567b7ab109f4d87",
+                "0ffc69ea0120fe1922b45a844e6f55267ea573aec1b6ac5108f6a3dd2472e658"
+              ]
+            },
+            {
+              "id": "mellem_18",
+              "sværhed": "mellem",
+              "nr": 18,
+              "virksomhed": "Lysthuset",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_18.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "7ebd837caf239a400ba4376374efad7263c879853089678e524534c72f430885",
+              "del_hashes": [
+                "731ed4fdf1afc098ae3e6c246cf2bad4e9a42bd1adf96227a47d2c8f51f23dee",
+                "1a502395cc35c3123087c33ba63ad40aadb7a650333795fdf15b3220a368814a",
+                "a18d6f4aee084319744a3c848ffa34aeab94e552f8493d221b726100203e8f89",
+                "32e6425b4135f61385e77cf6afb9ad3ca0b268aca91c7d05e501dfd7a842abe4"
+              ]
+            },
+            {
+              "id": "mellem_19",
+              "sværhed": "mellem",
+              "nr": 19,
+              "virksomhed": "FashionNow",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_19.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "751a83f43062d9349f3fbe9f19c8559d2865a21a569174b5d19b3f1ed926cf40",
+              "del_hashes": [
+                "79ca341e7d9ce22219aacdf88c2e410a6daaeb447f8cdf2bf683a3a47cfe858c",
+                "617d35421c5fc99655adf5dff18578858b0d2ee17609c1850f0fb50cf7f8c9ee",
+                "549e95964add23aa7ceeb429176720007e5e8dee793689e3a07d3178d6178103",
+                "8dccc3a58a6d9c79d97d1b56f6ac75be0cbbaa089084d264842a6eddc145e374"
+              ]
+            },
+            {
+              "id": "mellem_20",
+              "sværhed": "mellem",
+              "nr": 20,
+              "virksomhed": "NordicHome",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_20.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "80703d7629b82ceea3d2645956c8b6d86befeeb28ce6ca4f51c171e93ff8658b",
+              "del_hashes": [
+                "e184e79ea896d513098937f6061a118073a329567f4c87eb73a7cedd3d6a3145",
+                "e4e92f43694b3875ec399a4c2cff2c0c763653e3de270b9ba551687ced5cd499",
+                "d8b0f3e965723a3276cdd78ca31386ee9d33500d770ed0a2614b8e1d8de4f38e",
+                "7f9f5e9ac8eaff45801005f888f94d43abdcb92ae5d14dba986fa1839c166cff"
+              ]
+            },
+            {
+              "id": "mellem_21",
+              "sværhed": "mellem",
+              "nr": 21,
+              "virksomhed": "PureSkin.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_21.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "e00f4e749cae53ac2a4f456d08147993d9aa01f19968c7f3f913a219419ecfe9",
+              "del_hashes": [
+                "2c981c9b17c7b22771e79027685d4da1c3f858777eaf0141b02c45e6a46f63f2",
+                "5820e862a5b4085c5be75a12c007672fb043e8479d7cd5251c84d98ef3da3ce3",
+                "4f4604d91075b7c8dd985b8706b218e19efa5d5d1e0d4d58f17858612830feec",
+                "650727337847418e327ae1cf433794d8163cafd395fb231a170156f497a4df6c"
+              ]
+            },
+            {
+              "id": "mellem_22",
+              "sværhed": "mellem",
+              "nr": 22,
+              "virksomhed": "Løbeshoppen.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_22.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "12b796fc47bc4aa89e9ed8aec05fe269b24c73050fca9da20f5d5b6a22696ee2",
+              "del_hashes": [
+                "8ed9b6a911cc71ced1d70fce6f79105c94412e95ff931d9e3de3696db3343b0a",
+                "205a4f907515435a6a0def012f0b97721f8d7f60703a015495e3e3fbe7f8bffb",
+                "ec90a737c49b8172177a8fca404aa537ca00b277bcc7c6cb756832862822fa57",
+                "aac84dcf518fa3a9ae5401b55d8adf972898c897484b87fdd6830f534ac5a9a1"
+              ]
+            },
+            {
+              "id": "mellem_23",
+              "sværhed": "mellem",
+              "nr": 23,
+              "virksomhed": "NordicSport.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_23.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "4b0ac5b12042481a997c5b00eeac0ca90ee98980260e3a5c7a4c14362bd30fc1",
+              "del_hashes": [
+                "c684a1422904bce29c459347c1fd0d8262a4e7094147f3685c1a96f5b1d32981",
+                "22f2a4aca9008d8932c0fb92024def24a1d975dffa81dbd5cd0a00175979b41d",
+                "37ae7ce9a0b64002536951e7f7b3c30b8ceeeab6f721e1c26fea5f8e9004e8ea",
+                "06bd707f71337a057864d454a1c680c983de4776b47f85bdffcf9534d5b992fa"
+              ]
+            },
+            {
+              "id": "mellem_24",
+              "sværhed": "mellem",
+              "nr": 24,
+              "virksomhed": "DesignReden",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_24.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "34ade64f74cd04fea95c9a625eaa3b5adaebfc66a70b86d8c133d6abe664c125",
+              "del_hashes": [
+                "4ac6d2f7df87a56488bdeb00655ecc1bb3554394b0a38cb352713cc1533e0d3f",
+                "76a1b129bc9d973f72b949c7fdea004f252349263c016b23ee0d98b8a0f78306",
+                "2da8b7c8eea1e82d91456cfda50cba32d01375c0ec75cee28f338a71eda66eff",
+                "d526de039ca2d882907557975e731f0ec17b033748c572e15b889c9c82689aea"
+              ]
+            },
+            {
+              "id": "mellem_25",
+              "sværhed": "mellem",
+              "nr": 25,
+              "virksomhed": "PulsShop.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_25.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "6e914817e0c51bd25cc39a286c9119c64359545c4dc4fcd2bc4e3b5236839aac",
+              "del_hashes": [
+                "c5aad71964cfc828f7103398f311a862181798fe26a437e633fddad8fffc24c5",
+                "0694d49d4ceb7b2803f324dacc2539339998d8842ecd512b21162bccb3a49c8d",
+                "1fc1e9b115392781caadac768989fe61698138c9c82d73d2442490f9185c64c6",
+                "b0f940b2429b1ee1283794764d5865bd863aaa96b99ded8382233efe3556e561"
+              ]
+            },
+            {
+              "id": "mellem_26",
+              "sværhed": "mellem",
+              "nr": 26,
+              "virksomhed": "TrendShop",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_26.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "96977e78f451a6ff5800e7f6278c5ba3c5efc05a4794b9f7e38bddde54a206aa",
+              "del_hashes": [
+                "06ee0c4a5dcabed2a7ce1f6b753e57fcaa7ddb632700ea40cbe12b4c68b56a22",
+                "5893086ae71053678378ce48d63403a1e1967eefce56e6b6c8fe6de55b11b40b",
+                "c64729a866a456c70bef816325627549897330656862b25a82af9f15ad257369",
+                "b6786a99cc07b5c3d24a16cdfb14a58f0aac8ae873996edf860616e1fd706614"
+              ]
+            },
+            {
+              "id": "mellem_27",
+              "sværhed": "mellem",
+              "nr": 27,
+              "virksomhed": "SportsDK.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_27.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "6cc9d99b6614f61b41236fbe1d32bec6c900494e0526900d45d0fc67c7eb0a1b",
+              "del_hashes": [
+                "3ade5b91d69302b68dd67bedf1a1bf53895f3ad43ac923417801c93d3a52a258",
+                "3b4ebdeb7640fc24d35ca13a99e3dd6341b7cb0582e07de4449d827283806078",
+                "ab90637af2a43500a9cd7289d81a07e567ab30550e93c70e8c600d158eedad6b",
+                "614dcefbfe10854aabfcd247f200f240804bfea9be1588a99022c98ebd8779b1"
+              ]
+            },
+            {
+              "id": "mellem_28",
+              "sværhed": "mellem",
+              "nr": 28,
+              "virksomhed": "InteriorDK",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_28.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "67802f94a605c860afba683851c450a5fa3ce32797cbc3ef5deb0c0ace9debfb",
+              "del_hashes": [
+                "e1951987faec0bf55f40b755c6377ac45244fd14a0784eb397e2c0739dba92e1",
+                "c459c666ed16748b7a0dc1ce6232bdd5ba838593ac30f77987fd153bda12a0e0",
+                "f68f8ad5c83b83bda708d8683613c6a9d3e7f1aaa8b0502687b818e32df82b91",
+                "74ab099f82bc59c92e69e90ae8f9e0004a0e89cc20f89c2add2cfc5250af0444"
+              ]
+            },
+            {
+              "id": "mellem_29",
+              "sværhed": "mellem",
+              "nr": 29,
+              "virksomhed": "Urban Wear",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_29.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "6dfea1c4984be81851a4344b61b39f4cdfe4e92dd9ef31795d7522de2b7c8486",
+              "del_hashes": [
+                "aeb8fed8bacc18f032c6becb33220481e1749152c02f4a98ab3e6b141518de14",
+                "93c53b74b6c0c2aa33312ff39ddc52a378c208962a4f7bd6d4a000d4e6ee4a09",
+                "909d2d166147663890e8c1bb41325f927ffdb3712bc841281c98f443f72d8ac7",
+                "28fb9096422d69ae83b57df066a097dce552795fe3dc7a621f2f4896ac8e054f"
+              ]
+            },
+            {
+              "id": "mellem_30",
+              "sværhed": "mellem",
+              "nr": 30,
+              "virksomhed": "HomeDecor.dk",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_30.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "2b72c05e485eff74ad4a7d74ff75648bec80532ac55049a885312cb200cd95dd",
+              "del_hashes": [
+                "2e918af7e6c70f4eb000ebf4e8cde85e48c437b37522b1da90594308289ba582",
+                "2f8b134269b8afd4e879b0887b72862545b031a90c17fd177ecb801cf555f49c",
+                "a74c7080b2051fa002bbfc4b64f7d72c518a6683008310c5eb68d8745209dd51",
+                "afa3398f07369310334641160b75e7241cc22fb52d0b26a7c98a895ba5db7f85"
+              ]
+            },
+            {
+              "id": "mellem_31",
+              "sværhed": "mellem",
+              "nr": 31,
+              "virksomhed": "TrendyTøj",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_31.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "5532e8872bd902983ba31d4a7e934647daa2d5d83e9bc8bbe594683025d6339a",
+              "del_hashes": [
+                "28706c9cac4c9a8a5db3c7b9493cf29cf10a408d499ba6d632d897b3c5a967b8",
+                "3e4d8b605ece7e7290c5cd8e81ab9345bd8499275e25be2eeb2c9c8aee2b8c05",
+                "ed3d82e90bea532e8860a3fdd751963c253340acb8a5e4a4cd82e9a0df35600e",
+                "323ad5ae6328f0d0812c52243945bb5a934210ffb30b17eeb889b1100e16255a"
+              ]
+            },
+            {
+              "id": "mellem_32",
+              "sværhed": "mellem",
+              "nr": 32,
+              "virksomhed": "Modehuset",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_32.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "99331622cda1ddb4fb72b10729bf00d0f6625c817deb886ca472a6c27331988e",
+              "del_hashes": [
+                "fee71fb714ba6681ec9b78f4dd65df3503640a346968a5fd304a3eb74894494f",
+                "203162ae1a38507e9d5978357a13b463591a2d4fe55f7e95560cb491b048e8ff",
+                "5e10509f8476f90e9d51c9c4431716513087fcd15221060096e00f49c499261b",
+                "8b54fc69b5678a06630b9059b3f4dd331841240221d39e279001900649da3586"
+              ]
+            },
+            {
+              "id": "mellem_33",
+              "sværhed": "mellem",
+              "nr": 33,
+              "virksomhed": "IndretDK",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_33.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "d8c2fa2186cb8748719f7d3f12924804751fca4dabcc2983031dae02796c5c70",
+              "del_hashes": [
+                "4095a788fbe7ea26318822e662665d817607a49836003b870b6fa6fe3b3820ab",
+                "d08d03d996835839b3b58c564ee7f76389dcee2d0fc6a31d7f3294dd12bd9e40",
+                "d94112c9864a3d8429bd7326af971c2424522fb1d5d04cd2d7d4de89827270a7",
+                "4d68a1e712b79bc7c4500960bdf44b7147e30ca20d20655c26445280fffc8b45"
+              ]
+            },
+            {
+              "id": "mellem_34",
+              "sværhed": "mellem",
+              "nr": 34,
+              "virksomhed": "ActiveGear.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_34.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "789a3e64d04e36ca32383b81d650bc7c9da4a81d9adce449fb1208b248f50de5",
+              "del_hashes": [
+                "d42e4b53d366646ae461edc32cd67bd2b7fe8a686c3e4a26c08b1633d34b2d98",
+                "4d68fe2d002468a730b2d8b74169aa29561855f60b12141033986d4d899861e4",
+                "684414d65d59af229f37f28a261c721c4f682c1060be7434683d03d4a8320b52",
+                "abb969455902c7304db670a5b3f82eefb3684492e4f2b677f31a0ca8ffc4e3bd"
+              ]
+            },
+            {
+              "id": "mellem_35",
+              "sværhed": "mellem",
+              "nr": 35,
+              "virksomhed": "Stuen.dk",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_35.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "acfa64c78387e4a1a47cc4b6f6fcfdfc8e5e3fc163f324b988a74da8e685d655",
+              "del_hashes": [
+                "310ec51097e2e94a0b3612514ef1ca622cfe95caacbb14891b77343b356039b8",
+                "1a4a3f69f64c2fd766c74cf66ad6e9a599aa8611c5d787ee7ce851cbd3c56e74",
+                "4a531964a15627b5cae4476f6174edfcb9b88c145e6d09ea8d0d52cdac0b625c",
+                "78caffcdfce948e8a6df52240863d8d90cc3a206ce8d8e1130925efea73e673d"
+              ]
+            },
+            {
+              "id": "mellem_36",
+              "sværhed": "mellem",
+              "nr": 36,
+              "virksomhed": "Løbeshoppen.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_36.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "9f7ff66b961efb28ddfd9edf49251dcdda2248c8d7cb0c498aefd34165986cad",
+              "del_hashes": [
+                "fb01f0023b31549457a26c15f51d342c30bb544808d120f277e2cedbfe19567a",
+                "922405c10915f2d8830c1673b07e05975fd68b593d2caefd81f8939eaa18b022",
+                "f4b4938c9014a397fe44ffb453aa4dac3a996d89a77e6dca6a63db2e8d6b220e",
+                "ed2747317c2af603224c95f6520b60a263f0258df6dd3c6f09a94e6775d1b15c"
+              ]
+            },
+            {
+              "id": "mellem_37",
+              "sværhed": "mellem",
+              "nr": 37,
+              "virksomhed": "OutdoorDK.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_37.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "a61cc96721bb3bf350f564c57267a506426850a4d8e742ec9ad502fe8ca83f1e",
+              "del_hashes": [
+                "dadecb5162f154791cea06f81eefefffef44a51897cbd647949f18aa3746451a",
+                "03739b5bddcecd1f3b4540ed4908a2c3bb6d5b57462d1cdf82e56f5e05bffaa7",
+                "fb15eabe75870e64eb6ad8cf9472a1dc393085df87a939d86391e1cdd84e51ce",
+                "d3f26a113b764118ab2cce7c3c7abd0be14e2802e09f45ff72f398b097446f1a"
+              ]
+            },
+            {
+              "id": "mellem_38",
+              "sværhed": "mellem",
+              "nr": 38,
+              "virksomhed": "Hjemmets Hjørne",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_38.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "37f6bc21084b0141a96ef24e2a10e7f8fce1772bc97b66aa1bffcde2da7d2cd6",
+              "del_hashes": [
+                "f05f56c40f393cb96f01973d1cddc43cc3c800857a54ec484c87b9ee29072070",
+                "f3e41e75e0af06b8ff36e40e942f0be0cfb56d6d14542ac5eac442ff6148a150",
+                "ef6bb2c03b5c0e1f55d2a52a8b2448033672d646033d4c8a0a20ae9475524505",
+                "f0abfd9790dce5c31ab2751601c95e240354a363b7ae1dd297fd9918442d0e79"
+              ]
+            },
+            {
+              "id": "mellem_39",
+              "sværhed": "mellem",
+              "nr": 39,
+              "virksomhed": "Glansen.dk",
+              "branche": "webshop (skønhedsprodukter)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_39.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "59599f4e7d8b780f2dfc9ffa368c1c745a6b3a42706847ce7a7802770ff2c04c",
+              "del_hashes": [
+                "6fa52e54d69028b0afc5bff81e231b95b50670afbd61a44d71edd30c6bf9e26d",
+                "37d2d53197730d910ab7fb2833ff155d6ddb8d6405d69af9628e4f71c9f4732b",
+                "e48e71746f39076d0f60b9ad7b8fee3c0dc28d01c13463e7071b4e7a734869d0",
+                "a9b54feeae3379113d1e9784917f8062ffd314178d15dbdd69fba42d91731329"
+              ]
+            },
+            {
+              "id": "mellem_40",
+              "sværhed": "mellem",
+              "nr": 40,
+              "virksomhed": "Bykjolen",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_40.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "fa4be380f571f55095ead1a343a4521f6f7b011ae1e09cd0ac3cafe06b76af11",
+              "del_hashes": [
+                "be420afc09316f105f50e03623c10ed674450f205de78e6107e67793620a102d",
+                "cf974f6d42743bd32fe035d04393636abde1e9a3f2d568b15b143662b3017784",
+                "9c55bb0549897d3fe8e7d135c2c082084cde25f85c1f50c8e0b969a3517d859e",
+                "dd1d6880bafa33d441b64696182ba0b9465591a04e05d9342aa25559c0134e44"
+              ]
+            },
+            {
+              "id": "mellem_41",
+              "sværhed": "mellem",
+              "nr": 41,
+              "virksomhed": "FitShop.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_41.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "8164a63690b03698727752679c20a679f87c766c2741166dbf077f0d07b0529e",
+              "del_hashes": [
+                "ee17660acebb53120c19cfee6e0ccbb145d05a8d4fdc7c8ba89204daf397c35f",
+                "9b69f5e215a169fbffb16fbb39916d84f0e84bd7bf038239a3c5bdf69d167281",
+                "0c988ddc2da6a000a4448d14474be9e2f55041ce77baf0d0c0fc8d1b48943e1c",
+                "3abc2c2a29333025a1a61ebf1d9eef79db3996df0390678e7a69752175db66fe"
+              ]
+            },
+            {
+              "id": "mellem_42",
+              "sværhed": "mellem",
+              "nr": 42,
+              "virksomhed": "StyleDK",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_42.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "ca8a6a814574c51a563b370a3840ff20c58532970d228619e0356e9259d00270",
+              "del_hashes": [
+                "8742767b84f216b46931a36f3ef41f9f555e076ab6c2ab8c54347470a6c45a9f",
+                "5206e6ba19d338cd4a3db274366405ba60f82ab02176b81ce086f2bf141e9258",
+                "92684706407a3daf4f90d8b3ed381937533abef789a8239a7deaa0b8f03d23ac",
+                "09a18739e04fb700c454c45a78c9783499a40635af92272369d3f15d49def878"
+              ]
+            },
+            {
+              "id": "svaer_43",
+              "sværhed": "svær",
+              "nr": 43,
+              "virksomhed": "Nordisk Stil",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_43.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "1b54ab302bfc04521702a839908ee9857317d0914ae564ff076d00f9542ae4c3",
+              "del_hashes": [
+                "d97b3dc9a5946cea85aca699d35c2945f45c2eae93e1018edeac9ff4c573546f",
+                "3f51abdc1ec6d4f8ce3b7a4d6a19c1cd89db0b497a6a7c7af9839d5b8bfcc484",
+                "a306a62e903a5f336c6b8dc6082566d53fc7f33e26a1fc0b8dae8408f0080df0",
+                "84d52a44b46c66c252f410c439e594d4c4e4d43325f4c6d383750e2c6a0fb81e"
+              ]
+            },
+            {
+              "id": "svaer_44",
+              "sværhed": "svær",
+              "nr": 44,
+              "virksomhed": "PulsShop.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_44.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "162f41668c6ad0ad4ae68628188d4263c07aa73ccb4c0ee23f2e3441c45e0e7a",
+              "del_hashes": [
+                "55ef5e54a56a0d69adaf5ecd52e41f47ad1506e52753562c4184a3954858a793",
+                "df6550d1a0ebf709a10ef2b2af0e8ae2d53a72818b8c9142b08214127637e788",
+                "a8ac67d6c306d665627ba0bff483989824d8a713c7796cde1c9a940a3694cdd8",
+                "c4afe9308c7674e5e12077a07e85f95e5bb843d39ec0698c8e955cbafccb37a7"
+              ]
+            },
+            {
+              "id": "svaer_45",
+              "sværhed": "svær",
+              "nr": 45,
+              "virksomhed": "Garderoben",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_45.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "0d00ba3a6b0060cf0a8e370650fc96c03cbbc2e50b51dd4dcd38794e66e51f87",
+              "del_hashes": [
+                "d69a9e937c5d503de03b12b22a58fc6deec61f1f9edce470a2e47294fc320f77",
+                "e6f3d3f8b29ad1209ec9fb1b800feb14143098a1428c2d56583415761207ceed",
+                "85c08c81302c36597e96c6bfb42a11152f09c19c28fa3e0c57b9fabb6846219c",
+                "1454949d42be4ddbc6cf56d0c88df33308c2a0115b840597977611f92e34d755"
+              ]
+            },
+            {
+              "id": "svaer_46",
+              "sværhed": "svær",
+              "nr": 46,
+              "virksomhed": "InteriorDK",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_46.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "f841792027dbfb6c140c4ceb47b0077518f331cb2bb4bf9550be098161c1d7d0",
+              "del_hashes": [
+                "3a2f4eb1163a72143cf82eafc8b3647431a284e2c7aa1cd5e5032a698389ad6d",
+                "d3dbe1b7a26bc1b590fbeb1d3603b9e5ea7eb9a5b6aa5d2dee40734681b66063",
+                "164122177e303f3465d3548e8a427009ad5fd32dbda376bfc31d00f28c1dfd1e",
+                "e29a130685f6dd255a8c392e96c8dea3b9180463c8f02d8f46b4f18953e1475f"
+              ]
+            },
+            {
+              "id": "svaer_47",
+              "sværhed": "svær",
+              "nr": 47,
+              "virksomhed": "NordicSport.dk",
+              "branche": "sportsudstyr (online)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_47.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "24ea436f6aa2ee262c8094e184259f5073c7e2ce66751bfbe3e475746881dc04",
+              "del_hashes": [
+                "ff9dc7b20055ae74e169ce1a33f29251e4bfd253499e2c08a73fa41918b610dc",
+                "84ea7a92cac945a46f9f66f496819bea29e912ac69a09c4f7d225bba9ba3cd53",
+                "2e074025ccb1af842820954813c1dcd40dd5c454fcca2896936bb715fabcafdb",
+                "cee99c7ca93bdb8d34400839707b5001253144295c4ab25c522044f4b31b754f"
+              ]
+            },
+            {
+              "id": "svaer_48",
+              "sværhed": "svær",
+              "nr": 48,
+              "virksomhed": "TrendyTøj",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_48.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "4b39eb2494082c4c172438a59cabd522c1f296babb552166f7a9e1fb1a8e0520",
+              "del_hashes": [
+                "7f9554fe0f945a976baa91341a38475c5cd518da131c4fcb9b1022e4c680c0b7",
+                "41b167fffc7454ec6b90630f0c17f6e08e95f9fe20cfeac17dff2b59dabdc442",
+                "a785062e4009a026c04dc385bcb121967a5750fbb884a49bc3c09973b57bd640",
+                "dba56b93d937bee4c0a489bffa8ceb51759a56ab24c62787e59d370a7ff1fa30"
+              ]
+            },
+            {
+              "id": "svaer_49",
+              "sværhed": "svær",
+              "nr": 49,
+              "virksomhed": "IndretDK",
+              "branche": "boligindretning",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_49.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "36708273f7c582f71f3dd702c9068c64937b59416ccc2387532f615aaa9b0a11",
+              "del_hashes": [
+                "cd28ef9646de9c8fd8cee7914e802648066a74472e868481681037a5e3c54a54",
+                "89278e4b53e5a98832ecfef515d769d891af9ce29d29571c7896a962d98f06a1",
+                "b151b40022d747c1c6832ef63d52af69b86b5e905a808ed5d5c64cf3234999af",
+                "00e3f16139f2f0802a8e01beab4ac341f4f3ecb74702b9cf35a8b48f03f276ec"
+              ]
+            },
+            {
+              "id": "svaer_50",
+              "sværhed": "svær",
+              "nr": 50,
+              "virksomhed": "Urban Wear",
+              "branche": "tøjbutik",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_50.zip",
+              "bundle": "opgavesaet/likviditetsbudget/v2/opgavesaet_likviditetsbudget_v2.zip",
+              "kode_hash": "3b5bb05974a5d471ea4e6a74ae665af6aff23ea6571fa6c5069fc736516091ef",
+              "del_hashes": [
+                "6d689e631dc7ebd6560b515d8f275ac7873f607584ebf1bf5d5ef1010b23576d",
+                "cf5060512f7622504fba6f233999039c193c3189a335ef5555a546affaa649c1",
+                "842a60dedd2f7c26475daad6ca1a5dedeb6653f48c11f3de0a978b0af0252b84",
+                "fe5fd86548d5aadd489134b216fc356d06f06307befdb03bd6843025d6d8f06b"
+              ]
+            }
+          ],
+          "laererark": [
+            "laererark/likviditetsbudget/v2/laererark_likviditetsbudget_v2.docx",
+            "laererark/likviditetsbudget/v2/laererark_likviditetsbudget_v2.xlsx"
+          ]
+        }
+      ],
+      "kode_tekst": "Koden er 8 cifre: de første 2 cifre af kapitalbehovet, lånebehovet, årets resultat og likvide midler ultimo 4. kvartal (se opgavens sidste side)."
+    },
+    {
+      "id": "bidragskalkulation",
+      "navn": "Bidragskalkulation – handelsvirksomhed (import)",
+      "versioner": [
+        {
+          "version": 1,
+          "navn": "Version 1",
+          "dato": "2026-09-19",
+          "opgaver": [
+            {
+              "id": "let_01",
+              "sværhed": "let",
+              "nr": 1,
+              "virksomhed": "Brønderslev Salg ApS",
+              "branche": "cykeltilbehør fra Holland (EUR)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_01.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "8fad50063ca20a7e27e36b9b532b6f5157fc397bf9b56570b1d8ae51ab69ffca",
+              "del_hashes": [
+                "117527c0ca54b151a0c91f16bb80ba8708fcc4a43fe79bd53bd57d32a04ba293",
+                "60722bd5323b6545ee380fb9d35fd8e547b4ff403a506633d7204aecd4d171ee",
+                "01ecfbfaceea29ab0e1b06157f1c398261f9617e16e95a799be925677699aa7c",
+                "324da82f0532a6f1fb203f7a1d4d277f13a037f003af42870d119aa1340b5b34"
+              ]
+            },
+            {
+              "id": "let_02",
+              "sværhed": "let",
+              "nr": 2,
+              "virksomhed": "Skjern Logistik A/S",
+              "branche": "vandrestøvler fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_02.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "b73d2cc4ff4c51011dc3beafc089ae671d07d53d6e0fea09707674050c3a85f4",
+              "del_hashes": [
+                "5260bf00a0050ddc4510cd2d2936c42825d8d40309bdac598193e8da747fc74a",
+                "6a4f9e43f3b95e0f2013352528aba2eb892eb7a0ffd352915c6b5ed93501caf2",
+                "31f111b9d9abe4ba54842d33c986cccd96fb026e81eadf92d4e72bb0aae461ba",
+                "c994c7e82436c8d16d261e4b542509fe6b57ebd40a131c07aa3fe22e25254409"
+              ]
+            },
+            {
+              "id": "let_03",
+              "sværhed": "let",
+              "nr": 3,
+              "virksomhed": "Øresund Holding ApS",
+              "branche": "surfboards fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_03.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "2a56a4bb9fff969c131d01fef3f023a939d22fe8569d09f5f14c946f5fba6fef",
+              "del_hashes": [
+                "be50f841dae134b13b4660c9573af6663ce23e9d0661762193f6228a602cc14e",
+                "deaf0d090e0a037b5d3b8285f03ac668a11d4f3b08789b92662470f951b93aee",
+                "8a4d09a28b73eae56cfc7f1d225feda398db6478036eb1c956bcb7627291f909",
+                "04a7c9cb5e5b6a1db0656a1e2b5b9140e0d81747d77e9f6872ef517c066493f3"
+              ]
+            },
+            {
+              "id": "let_04",
+              "sværhed": "let",
+              "nr": 4,
+              "virksomhed": "Herning Holding ApS",
+              "branche": "vandrestøvler fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_04.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "dd6fa55507991b4be1bb569c99a0873c7248f1c04a06eb86b2ab6ac487f14d44",
+              "del_hashes": [
+                "658076d77104d3b0d5284ed7e70995e532870e4df1f75d3054cdd2a0034e2c83",
+                "de2579cbc4d01f8a3b6b3e4a9a3e62ab1c2fd1f7926ceb9998344e98776a340e",
+                "90bb171028c6492d3a0becc35805296be15b59656d7ed8e0d418b57cd1cac5c4",
+                "f4528f75f820fefb50c636fd0a697d44219b79674041a27b710319303cc1cc58"
+              ]
+            },
+            {
+              "id": "let_05",
+              "sværhed": "let",
+              "nr": 5,
+              "virksomhed": "Kerteminde Logistik A/S",
+              "branche": "sportsudstyr i høj kvalitet fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_05.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "4b2cd8d99611ddd4b4d48b5cfea54e1572cb56fc191011722cb8ea7f915ffb5a",
+              "del_hashes": [
+                "4b0bea236bf3031533b4024d6e5ef37848d1577c51c1177e7ef5971b00c87bf4",
+                "88f196ce4e4f8b3ed09feafd27700bd37084c310217c247807b638ee74d67359",
+                "e04994b45186d75ed4c7add192e8c21b9b0a133e9fe3ad9fd0efe165780fb06e",
+                "cba00c99895519ae19def8afd0b431ec90dd6462e84f31c79953de9449564aab"
+              ]
+            },
+            {
+              "id": "let_06",
+              "sværhed": "let",
+              "nr": 6,
+              "virksomhed": "Svendborg Handel A/S",
+              "branche": "præcisionsure fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_06.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "4a7713f81e811521c312dbeef5e4a55414d3ce6aa5690e0787f0ca013c453b56",
+              "del_hashes": [
+                "4f43ed0e6912f70f9755d97b3d20b4881d9e814c7f91b12f1843aeb64ca89f86",
+                "8ea9b5d298cbbddb01ea2cfdf1b50a147b50b2eada58ecad3ccb5f9ed69b4c61",
+                "16b5a0b9cd2ac1e0b7fab660bc07280be7b5f5efcbcc2f5ce9991214b7396869",
+                "366edc3f44ca231bd917d6f213d7450fd9d9ccfa5e615c517783bad85467511f"
+              ]
+            },
+            {
+              "id": "let_07",
+              "sværhed": "let",
+              "nr": 7,
+              "virksomhed": "Faxe International A/S",
+              "branche": "fiskegrej sæt fra Norge (NOK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_07.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "68d227631b0e6dbd859c93a214cae67e80040c2cbe9d72c2d301389cbb73ad29",
+              "del_hashes": [
+                "40ae70a35eb3a43cff0f064bd7d12cdff96497eb2595ce8ead9d5b75db21b0fd",
+                "f6553ba283e9c094d962ccee336bfad864738c9e182323d4710426ebdf26cc75",
+                "425d0b617f4463af11e94aacfefe3e261eea5c5ca0398b5ab2502f4da7ac7e44",
+                "fe714e2007bb24917b950daf61cd23ded10d70945197a29bb93e5eb1dd1b43e1"
+              ]
+            },
+            {
+              "id": "let_08",
+              "sværhed": "let",
+              "nr": 8,
+              "virksomhed": "Aalborg Import A/S",
+              "branche": "uld-trøjer fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_08.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "6614b349ced0de23be4ee358d35d88e198e26684c580d028602bcdfede2cca54",
+              "del_hashes": [
+                "f2fad30412f7172116fa0fcf0c72e263f4edd82a5d11e4aec5309b82c10b8c33",
+                "76feb3c82a5b8cd3e9a71ab4e3e5c0dde10f113751f91100b3c1e6d00d24cf71",
+                "93bdaceb56eaabc07ddf95ae29032d30a94f5cf85f62b592026d8acf868d8d5c",
+                "78e95b571bef3d3426d462e5ce9dd3fefa6899683f1b2d99fdb6ffb186ad8f74"
+              ]
+            },
+            {
+              "id": "let_09",
+              "sværhed": "let",
+              "nr": 9,
+              "virksomhed": "Viborg International ApS",
+              "branche": "hockeyudstyr fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_09.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "abd8f7946f78e5af90f18cff2b86d96d9a3e148ab8b110e6ff16a99fab3425a8",
+              "del_hashes": [
+                "b466ebd9f6be13acefe0aa18725bf0def86fb23c335cc65e667c0c9962ad4960",
+                "ab91b2177d296267ae922f789ec52f28d66e58675692615008f81d8166cf0969",
+                "e34f703374804177428328a7011033012b730ee40e9ab153983952916e03f9fe",
+                "32c2a669b859d569124f2f8bba01272956b1cad48f0f8f5fc13764377fd9fb73"
+              ]
+            },
+            {
+              "id": "let_10",
+              "sværhed": "let",
+              "nr": 10,
+              "virksomhed": "Randers Distribution ApS",
+              "branche": "uld-tæpper fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_10.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "53d793331283482d7c3716004927e97958dae8934abb940d8e44ab678c844627",
+              "del_hashes": [
+                "dc53d2fed22512dcc1d8a84774cb15f0e393fd88322b15e1d429e3fe4a99cc74",
+                "e956b163493539780554b2b1ccb7ec0600a8c1ef1a96301b04414ef1ff916da7",
+                "37cf9ee21dd7debe449299bdd2fe25c49d07918f12aea42c3e4baf66bc178a98",
+                "43caaf511fb9783af4012325d9deec86ccf65b43eb0a5e0eea51788abce83653"
+              ]
+            },
+            {
+              "id": "let_11",
+              "sværhed": "let",
+              "nr": 11,
+              "virksomhed": "Søndersø Distribution A/S",
+              "branche": "chokoladeformsæt fra Belgien (EUR)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_11.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "df9dd3e0ef04b6a7301d26ca8b0babbdcad4ac9e6dd4dd557cc264edeabbb227",
+              "del_hashes": [
+                "b27e59c2727c3a7784c8d6b1380a686b20d8f90e859435e0f080a49817f5d25d",
+                "98f1f408fd3e304a21324da1f41ee1c463004b39c7c8588493b9946cf5c27159",
+                "f391c90c724e4f3f05a4f43dfbdd7a2240ac8ed51efea6a58dc3f226fdb5dd6a",
+                "6e72eba7dc278b6d303815474df9a125b80fb559812ca1831da2ef0b890b8fa1"
+              ]
+            },
+            {
+              "id": "let_12",
+              "sværhed": "let",
+              "nr": 12,
+              "virksomhed": "Ebeltoft International ApS",
+              "branche": "rugbybolde fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_12.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "70b4425731871d70c0a1a87e502463c6ecf7d0c0674871cf4e29451768734f2a",
+              "del_hashes": [
+                "c2715e5066a9e2ea9ff6b055940d9fccb7d4a07b70f5b50ed556681ed7b6e3ba",
+                "14fb76db898c6e73a7b028d42d72f3d3ca128f30c3961cc84e0607257e39f65e",
+                "ebc840cc4ad608768052244c60ea0226b5d03f0086750353ff75d672063d0f30",
+                "5397fb9e9acc6726a96a2d1038999ab165584cc139e02ebe6e73f006c9b73351"
+              ]
+            },
+            {
+              "id": "let_13",
+              "sværhed": "let",
+              "nr": 13,
+              "virksomhed": "Assens Handel ApS",
+              "branche": "løbesko fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_13.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "b97d55341a2149192872cc5af8051f5e8d296b2b8f76a45a8cd4f7df5dd67814",
+              "del_hashes": [
+                "1409b45738419254109e6d2fd0696834fe8c30bda1eec54c18e2a9e0f6638173",
+                "c8cf9dcbab4bbd401c08be34b33e34f527b91b36b62d269c4e19c4aec39347f8",
+                "d51a825335ff783d2be253f52656a4589c0b6fb3dadf554b6fed4dab0b68d94d",
+                "0bd0a112e4805f0fa13a4d4335c6a8c0d9b7c5955c5b3f047855197c719922d8"
+              ]
+            },
+            {
+              "id": "let_14",
+              "sværhed": "let",
+              "nr": 14,
+              "virksomhed": "Billund Handel A/S",
+              "branche": "fiskegrej sæt fra Norge (NOK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_14.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "0eb91bf0bf92718f5d30c45b368c1f725f78cd571784e4266674023933639622",
+              "del_hashes": [
+                "399c1dc664c83d67d636612d751c028d2fd225f5552d318633143e7dbba43ced",
+                "346528b83e894ea17114ae66ff9f54d828150ea13b4bfb6e9dd30764fe16db6d",
+                "b1c4d7819bee7a3cdd1e1b734bec88747002ba6d146d825cf5af7f03c36e7cae",
+                "81c9913732b2cb7e77a09619dadd20038fa45b4963d8fca814add1b743d5249b"
+              ]
+            },
+            {
+              "id": "let_15",
+              "sværhed": "let",
+              "nr": 15,
+              "virksomhed": "Nordjysk Partners ApS",
+              "branche": "keramiske vaser fra Italien (EUR)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_15.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "58e5855be609eb370d70bda13a17652141ca486312fce3ed09bef4179953257a",
+              "del_hashes": [
+                "e638dd9ad6c69d932b928e32aa9d139f0814a01a565df0f27d127c1166e9147b",
+                "2558b5754d64436f0dd3d9fc215be3e28773b81b7965c563073a3dcfb33ebd70",
+                "e39e449ebef9e8b0e72bd6bc1ab358f2f5a5d03c1d4bbec93c42b537ddadd157",
+                "118cb450f1541fa12e657a821a5c58411cdfee30a7cf87a7ca02b29e6e784df8"
+              ]
+            },
+            {
+              "id": "let_16",
+              "sværhed": "let",
+              "nr": 16,
+              "virksomhed": "Gentofte Holding ApS",
+              "branche": "tweed-jakker fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_16.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "d485e20f13946e7047abaa581bd878a7537846149afe5e074149f406b24e4270",
+              "del_hashes": [
+                "9ffd829e86b3cf8725685ff020665d341bbd277f0207b2e03ac2d543d3460ff8",
+                "6145a5c308eeefe9dcfe0a144e2875bd1c8f7c40954226098d3515c74a7f07b8",
+                "9ceca2c862d41af2f260a7aa80740c549d2df5058e601b08eb981cf8190be89f",
+                "b80b5454f8289aa490b944687d0853a5102cc376caa5ca6891b2de3e80b31eb0"
+              ]
+            },
+            {
+              "id": "let_17",
+              "sværhed": "let",
+              "nr": 17,
+              "virksomhed": "Odense International ApS",
+              "branche": "uld-tæpper fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_17.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "8ef380b2144410bde7dae614f1697f825c6ec858949032641f90bdea4dbaeb83",
+              "del_hashes": [
+                "47c5a15966a0860cb7dc692a8558ca3040dae98c15bfa44fded450b07c32d088",
+                "a0647603023b3d9902844f2a9048ab381741e065d2cf705bbfb799401fd228d3",
+                "0e1dbf73730c34d1bd712eb11552535fb05637b427bb90be46dcbfb44e40d61d",
+                "641c5355671f189a1ce16b27103c6cb4f7512ea7dc3e8d450e9b70e6ada8c57d"
+              ]
+            },
+            {
+              "id": "let_18",
+              "sværhed": "let",
+              "nr": 18,
+              "virksomhed": "Scandi Logistik ApS",
+              "branche": "campingudstyr fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_18.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "9d01142a1ecb8b255a90b9a59893f25b54c51549fcb5966a03cd8418cafef213",
+              "del_hashes": [
+                "2049f470ace213cce54d17daf964905eb3cd00fcdd2b63320fa465c430e5c42f",
+                "2227f2fdb6662f55bf9db59412d892018f70f50e6a0d22d5bce9d5777602c793",
+                "d01078a841661d74d89b7f3f36a02660a7e7a5a71b0d5fe80b6ce7fc770f1712",
+                "c4db14d26f5c94b44528ac18231f84dbbf6d82ead711bb754c86ab23883a590a"
+              ]
+            },
+            {
+              "id": "let_19",
+              "sværhed": "let",
+              "nr": 19,
+              "virksomhed": "Euro Logistik ApS",
+              "branche": "bluetooth-højttalere fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_19.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "1810869097a212bd0ba1790687763cbd13b05a8673322039b31eb2b219b95190",
+              "del_hashes": [
+                "c1bd6d4872150f274887028cd83ce4be5c87d9c92e1017de649aff10eb9670ff",
+                "7ef37bbbc036057f06095f7ffedcaa18f7c7e505b6a479650bbd669a8d2fa3a1",
+                "4ec290ae2026aa7516cff85e04967076582c9030571a05fc5d6832c8e159a245",
+                "39cf1a6fd63e871b0d9d7e7997b2617a0afe0bbb017c9eafd36dd3e0aece1f3c"
+              ]
+            },
+            {
+              "id": "let_20",
+              "sværhed": "let",
+              "nr": 20,
+              "virksomhed": "Hjørring Holding A/S",
+              "branche": "schweiziske lommeknive fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_20.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "e464b6b419c6c61cb0b38b307284abe010307dacd1f44f8704ce7ad695a521c5",
+              "del_hashes": [
+                "530ecb1527170b096499b146477330254e63054bfef3fe3e33a2feb24b34570c",
+                "b67acda5e275066b329fb5799bd097d5157292c31822af101989941ae72dc3e1",
+                "3f5ec833db2041974494b49bd9c9485695c5726444e66f1cd257e0df725ff569",
+                "8049d2d4a5af8b6855ee9d1ca6c7b3d5c6081c67d03508081a846e8c12dd37ea"
+              ]
+            },
+            {
+              "id": "let_21",
+              "sværhed": "let",
+              "nr": 21,
+              "virksomhed": "Svendborg Engros A/S",
+              "branche": "whisky-karafler fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_21.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "83b10997334e3babbc2b00f19a2f786a08d1415a1ae8af6e99a2e97579c53b78",
+              "del_hashes": [
+                "63b68e46489dda286e45c9164e2894b722dc69f824003812c0b860a2e919aab9",
+                "a0242bb39f87bc9795723832a51b8f0dcd1fbdbdb2017fd6637587e789763551",
+                "16b703f7987d2c910865e3eba11fba5d88e36d2ee10192c553b9c378e5bfa2dd",
+                "d50a10fb26371ee2083a862ba0d3ef458d1dd0b40a8003d567461954d87ace94"
+              ]
+            },
+            {
+              "id": "let_22",
+              "sværhed": "let",
+              "nr": 22,
+              "virksomhed": "Hjørring Handel A/S",
+              "branche": "vandresko fra Norge (NOK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_22.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "c3fa5ad2c1946467e9374069c13a8775e4938a67b6b6d9017ab53c43d73b61d6",
+              "del_hashes": [
+                "0e022be8c81cb3821042c3f1d8ba9fdd5c5fbf8f0a187e52d3c90d7b61fee52c",
+                "773c050ce6b6ef7b19d1b2714ee1e24355c505a8d984ababf5aafadb19d75ee3",
+                "40ca750fd93119274d0453f398fee5e4db8de8cec95d58dd568fd997b11bb6aa",
+                "8bc6aef2ffb435b02a7b754f44fa829a03f94905992ca9b0368ea287b0b5e39c"
+              ]
+            },
+            {
+              "id": "let_23",
+              "sværhed": "let",
+              "nr": 23,
+              "virksomhed": "Silkeborg Handel A/S",
+              "branche": "solbriller til sport fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_23.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "2ba943b99122117e83077f796445c16e2f27f1a3f9fa4fe5defd7cb51b18e843",
+              "del_hashes": [
+                "f2712305db0f752df3d72a50e9daf4de965fc798fc368afebb46ce9c04b9ba8d",
+                "4ce0d704180ac942fb61b03bf5e7dc1594b86b39fba227313b207f4fc0a0dab6",
+                "176caf4ebbef2e16c573a5a799445387225a473ff7d3ea540e266c1fd0721b33",
+                "675aad6e85f593ae44d2bd1ea56219566b70b1925799c0cac872a014c9f38773"
+              ]
+            },
+            {
+              "id": "let_24",
+              "sværhed": "let",
+              "nr": 24,
+              "virksomhed": "Faxe Salg A/S",
+              "branche": "hockeyudstyr fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_24.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "ca2bcbe693fc9ec0f4f2878f6090e3e8692e34c8ca9c3515ce3718bbd684208a",
+              "del_hashes": [
+                "3348643e37ca74c706699fc975226ab4763adf39e3aa8d7cad2d949bd2e7cbf4",
+                "efea0f2717622a1a44c6ed6a6805d49d9c8a9f54bfcbd5668abc2b9754add378",
+                "05e93ff0000508cc5de9dd28eba665947ecfbb19fed8b5ef7e7304fa62cc16cf",
+                "65ad2199c6dcde98d0cbe6f59e0e97c28e40fdfe70da3a0cc23920d157670402"
+              ]
+            },
+            {
+              "id": "let_25",
+              "sværhed": "let",
+              "nr": 25,
+              "virksomhed": "Hillerød Import ApS",
+              "branche": "design-møbler fra Sverige (SEK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_25.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "ae1ff5c8b23f3ece2cb4a1ac3b40742f4cc182f6f009bf17d44c9a85908ee4ab",
+              "del_hashes": [
+                "fa6d5eaa175d9f2cd07c32df14f7ea5bc6a74bc606e44033356aad2d08d01c77",
+                "2490915b0a94514d6e6d85ecee462071b1626e0565060b60433d3cdc6ed14361",
+                "60e45cb5454561b4a83671411d4a794f7dc226b0b9a3d1312340f3b61057df0d",
+                "63ed3d2d9a73df354e1cad16e8665527d0b67d7d9b627d534976a4c77a771185"
+              ]
+            },
+            {
+              "id": "let_26",
+              "sværhed": "let",
+              "nr": 26,
+              "virksomhed": "Ebeltoft Holding ApS",
+              "branche": "solbriller til sport fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_26.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "a81fc71e7bdc6913a9a70531d34ebbefe3d4f5fc0f0eb1b00a530a3e0dc1314e",
+              "del_hashes": [
+                "ff76f95582524d4860a5aa3a9df62b2ed8910d9e27b15730d26295d13aac43d7",
+                "e9737351c3776035e6f3e3cecc2aefb337b89ab3504e1e7052a4f46fed8d1f8c",
+                "c55b66a3d4f2dbd32debc85d6352c9c81ba92941cee7b698a1609e082598e2ca",
+                "2cfb5c89e75126104e945fdbca6df8fc7b45735d1e26bb3d7a530c5d17ada8a0"
+              ]
+            },
+            {
+              "id": "let_27",
+              "sværhed": "let",
+              "nr": 27,
+              "virksomhed": "Frederikssund Distribution ApS",
+              "branche": "ure fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_27.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "6c0f8e62fc2a1dfb6c6f6df725b1e43c5e6d86b33951be3873ec2d814b37f108",
+              "del_hashes": [
+                "b546eacca12b1502af75356111b1580fcf4b39990fff51817f4fccd6e2a72c82",
+                "608b1a15202dd675c55a45b9abc76317912c237abec489ba1f33c7fe82928f69",
+                "ed62428cb720d49cbca087beff4c607fe372a1db79eb73ddf0ac8ed66297db23",
+                "5e11bcc5343adeb9a2a9212fa504b7c75b9b22776a6ba61b1706ddd3d1b8e71c"
+              ]
+            },
+            {
+              "id": "let_28",
+              "sværhed": "let",
+              "nr": 28,
+              "virksomhed": "Holstebro Distribution A/S",
+              "branche": "whisky-karafler fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_28.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "a2f5a1c81eb45c5986a01863de54ebe4a46cbf4fc5f0cb893559735b9f54a716",
+              "del_hashes": [
+                "41776e48e8dd54d9bdcf3a2cd9af5f63a3eb629f41a6d51c0b719f9545eea874",
+                "ed622bc1d8e71fdb116e5f756b943844b71558a6f87e5d2e812a3e51f52b31da",
+                "1cb3d4465da38049def053d7e8079e0347aed82c7337ead02f3a0355423fd86f",
+                "369a691c208a6e8ed8d2de2944e6d06697fae2bff174ad47d5909370a12cf2d0"
+              ]
+            },
+            {
+              "id": "let_29",
+              "sværhed": "let",
+              "nr": 29,
+              "virksomhed": "Skive International A/S",
+              "branche": "rugbybolde fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_29.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "9645621a9e811e1bc7a3bc324482334aab6d7cdbf66fed9bbce7a5509a3ff362",
+              "del_hashes": [
+                "010ac2416e739be5424dd4b6b9a6de3dfaf153d61f3f8b110144e139da5fe3bb",
+                "d1bfa48efea5c35057f18fb55d1f4e38aca277802abd86cbf260754e059189f0",
+                "d3bdd41a52162cb40ec6aa18396a3e8a9c8215efbde8647bc409c33f416fccea",
+                "cbca4083326e17962b01cadba24eaa5cc9b583c2a965c7b637d39fce7ea1512a"
+              ]
+            },
+            {
+              "id": "let_30",
+              "sværhed": "let",
+              "nr": 30,
+              "virksomhed": "Køge Salg A/S",
+              "branche": "surfboards fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_30.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "967066f759b0f84e4c04e55db053d67196bb47e87f1b55107c1f9c5ef3a14788",
+              "del_hashes": [
+                "2979f3a7e2bb5986442a4d960fb69665ada488e0b53b6bd527c1653831aeaa53",
+                "c4f061db586bc18b2121d2793e13748fd60d97f8072b486d7fd11ae00059f996",
+                "e2ba92072ddae53edd1459f6a8bb3bb7ad205d7d34eee7931efb4552364c6f2a",
+                "15a52f4f2b44c150da1ca8552f17d01347cb4b75a12df7ca417133ca561867b4"
+              ]
+            },
+            {
+              "id": "let_31",
+              "sværhed": "let",
+              "nr": 31,
+              "virksomhed": "Nordic Partners A/S",
+              "branche": "mountaincykler fra Sverige (SEK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_31.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "458605c58396bb5faa36ad497781ceffd6729935901f70081d5a15c71478ed15",
+              "del_hashes": [
+                "de1fd8f772598501e0553781d86a1a56407c3dac356b0f776d30f66fedbd762a",
+                "eee7aebac5c72598d9fd0edd9ffcd473a971fe121863cdb85e9216579704e456",
+                "5a7ccbdba8541a8626794c65734dee9d65b5ba515b20bd4db30e1d311b873d26",
+                "5f639d124df7594b919a2b0728c0328d3db285edf4f80a11458e1777d13b80ff"
+              ]
+            },
+            {
+              "id": "let_32",
+              "sværhed": "let",
+              "nr": 32,
+              "virksomhed": "Gentofte Import ApS",
+              "branche": "fiskegrej sæt fra Norge (NOK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_32.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "66609beb56ff546bf83fd9d4227c0935070bb1c959c62c635dff8e38dde08bf1",
+              "del_hashes": [
+                "2889899d5a8726f4c692989bb791bb9cf8bf934470eda0f551f32d7af8ef4db3",
+                "3a2bd0dab7c2168f1687ba0a21a4970810dfbe7c268a4072cc9daf238277904a",
+                "fbcb3ee5e08e469fe7f8329c1bbe9b6e525ababa53cbca55e1aed27dba19d093",
+                "6787eab5c8513b7523c68433dd963c643c96ba18d231a25e1496b275ded89eb5"
+              ]
+            },
+            {
+              "id": "mellem_33",
+              "sværhed": "mellem",
+              "nr": 33,
+              "virksomhed": "Hornbæk Salg ApS",
+              "branche": "mountaincykler fra Sverige (SEK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_33.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "4051620a11643084b53ff87984ab510f7e3cbc641ac4670af3c404710803d343",
+              "del_hashes": [
+                "27e1c0e16efe5760e401d5f394dd97ef0d29ad4c409fbf9ed05091b877856539",
+                "23e348f9c635eba439985fcf1e6e52ff8e9fe3d55bde9a24629b32ee3e4f2c8d",
+                "a42022b5729de25bdad38e1e59b5953d9da14a803de1a134e60bc5a0f166f6fc",
+                "520c58a47ebedf33a608ae6020f975bc59eb7662c2a963f97e95d3bc8f8a1db5"
+              ]
+            },
+            {
+              "id": "mellem_34",
+              "sværhed": "mellem",
+              "nr": 34,
+              "virksomhed": "Roskilde Engros A/S",
+              "branche": "uld-trøjer fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_34.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "02964a65837afc19a1e9e177995a9b5b17d161c8eae5a8733e54b1c61e0d2918",
+              "del_hashes": [
+                "795ae95e0743ee14f33f2ff8cf45c14470a3498115a60fc1e473077ff2a9fc3f",
+                "3f0cf9b2e234fa54d8a24f85062ce64af00886e9036485bcb0bb6fd8d2225037",
+                "c3d7a96499fa8ef50f5398544967dbe1a5ab5b117b0ceeb59085a90ec2298f5d",
+                "d0dcb752fbdd876e70b678e31ecb958a115f3700c9d779b5ddbbe4fb1ac2b23a"
+              ]
+            },
+            {
+              "id": "mellem_35",
+              "sværhed": "mellem",
+              "nr": 35,
+              "virksomhed": "Esbjerg Distribution A/S",
+              "branche": "vandresko fra Norge (NOK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_35.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "9070291a0cca51c9225c0a9412de2e9a05a859a37303d72487401e75cf644b98",
+              "del_hashes": [
+                "6fe2d68f60b2a198774cdf72f86890a76976e2a4097c729507eeacbc363fb4f6",
+                "f099dd7ffba077121e3adf6ecf24ab2b9b14073f16f7ff2d880f3edad460a90f",
+                "7287a169db546dc40494781b3d8986ff31d33732a39e8259beb03cdec0142e1f",
+                "9e6d2dc0c84a1eb861cab05db9d0cdf9709128cba65b022387b81279edeaec53"
+              ]
+            },
+            {
+              "id": "mellem_36",
+              "sværhed": "mellem",
+              "nr": 36,
+              "virksomhed": "Kolding Gruppen A/S",
+              "branche": "schweiziske lommeknive fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_36.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "91c7cd39c7a36c6e279ae3145db5c9602349b6c3478976504a07121e310a3dc4",
+              "del_hashes": [
+                "c8442126e5f1529f93b4d704bfc7b70aceca25db9d0982c758ec76c3787d518d",
+                "85d3ad54854271bda6f24aa4c801431df0098d6ae1a6e0b9774aa0c42b9af5ab",
+                "b0e18712e0aaa7435ce848dd016ac326078cb7ca7ddd901384158ba68b06b1c6",
+                "8b35914a4d47ed88dca18124724d994ab2195dddbf6c9149c7aea3d3106e0f5d"
+              ]
+            },
+            {
+              "id": "mellem_37",
+              "sværhed": "mellem",
+              "nr": 37,
+              "virksomhed": "Ikast Holding A/S",
+              "branche": "outdoorudstyr fra Sverige (SEK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_37.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "277ba40037fb9f71a124c8c91c83a791ca3883bbdf4f09a6f2daa39c1232d940",
+              "del_hashes": [
+                "69378d4f045e289bef8a7befef4d2d61154d5c0c812bf600798f803bb989ab71",
+                "fd4a4996ef997111a51b596c8479cb9e150da08b3686e151a01af718ff2ed6cb",
+                "42fd0c0e767a07de2807c45c06104f2abd3749554958336d7868fe6c8189c22c",
+                "d2937b64e129aafe61d2ecbda2df882771deae0bb6b0f553cc66066e462484e5"
+              ]
+            },
+            {
+              "id": "mellem_38",
+              "sværhed": "mellem",
+              "nr": 38,
+              "virksomhed": "Søndersø Salg ApS",
+              "branche": "løbesko fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_38.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "6dd745ebc7d92a02c05d6b0580022b597fdc0a63862d2a385eeb676ca3e0dbd3",
+              "del_hashes": [
+                "78cc1f91e2026d959946eed39591a6d11836e2a401c0e80d87d482a7d2c729ea",
+                "a5978897a4c609240e6bca4036c2244e6c7143c8524709b57db3bd37ee1507bb",
+                "83531eaf893ff539050a3bd574f64d0f9e61a7a69a3347b7832ad8877e3b2bb7",
+                "25905e34cb5c3c4682211d5c670d4f2dc6c07f11b3bbf8448deea6e0ff666f05"
+              ]
+            },
+            {
+              "id": "mellem_39",
+              "sværhed": "mellem",
+              "nr": 39,
+              "virksomhed": "Skive Salg ApS",
+              "branche": "rygsække fra Norge (NOK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_39.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "2af8be03e735a6f7b765537f1b38b6bbb6e0578a210e3e9ad560e891a6c31cc9",
+              "del_hashes": [
+                "f3778b8e5d64e7a9e967e379f4e40f41d81b76ea04aa5b3e8424c9a615963885",
+                "6f42c4871327be89a5f3f00ea5d000e0cbe51b748f21e611d77b5462d083a05a",
+                "a22aca9391e4d32299735e922f099c27e71352fbeb750948dcacab912606f7ec",
+                "65a94762b1f7b85caa9f9640d2ea03b5b49560ab4706f658d64fac7dc19d4dc9"
+              ]
+            },
+            {
+              "id": "mellem_40",
+              "sværhed": "mellem",
+              "nr": 40,
+              "virksomhed": "Søndersø Engros A/S",
+              "branche": "ure fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_40.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "7c793935aa641222dac44e5beab82f281982e72006998852eb0473fb6c3ec970",
+              "del_hashes": [
+                "f4d23bc6aedef661ef1c64434b3c03859c70fd573aeee6d8e30dbda229f1c172",
+                "5e8b10c6b9b9f47f777a821ef2b40c89b90e7f89ac780151877dd3c7cf1cc41d",
+                "aa199b96d0088abb4588616ffb9e6f8954d567586db8392eab0f3dd42d6170d1",
+                "2a8d1fac2342a0da86bb8b072bdf5acfd1f3382cb0185eb892088d83a6257d0a"
+              ]
+            },
+            {
+              "id": "mellem_41",
+              "sværhed": "mellem",
+              "nr": 41,
+              "virksomhed": "Euro Salg ApS",
+              "branche": "designlamper fra Sverige (SEK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_41.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "25aa79cf9ec63ad5cf4cc320b1d0c1db7b05e1abdd7c46617d69fa7d79833270",
+              "del_hashes": [
+                "87bb8d3139cc4536c1bbbc1738501541019a9bb270ba618dd769a1902851edbc",
+                "838c3a127a6b82d997cb19ea52ad21890f9e270ed1f1b2e7610c2a8fc540d9bd",
+                "0851e3c921e86f549db76251ab9fa7e3b5e01a02ff7d80e758b5575c6ae89792",
+                "7cf8c486507f0944fc2a6230d398ca5d3ae99271f8bacf3cbf9317869fc70375"
+              ]
+            },
+            {
+              "id": "mellem_42",
+              "sværhed": "mellem",
+              "nr": 42,
+              "virksomhed": "Sjællands Distribution ApS",
+              "branche": "vandfiltre fra Holland (EUR)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_42.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "8ada3eed558723e4ef4ad05a1392256cf7c84de8e95ccb7c10a946e3a234864e",
+              "del_hashes": [
+                "c5eb820e74f6f5a57ba8747ba4f1dd5c21ab1c5c732939d0561b0769a6c2e496",
+                "0f81648575d4ed4ab2a07cddc2c02fe5dc450d65da36cf136819ba18a37a61ea",
+                "0eedbeeb8d031f504c504eb875562f568043ccc1600e7d3b1069dcb95175f917",
+                "e9ea9bdbb124048b23ea4117ea0ad30e84d34cb5c3a64fa480a125286858f2c8"
+              ]
+            },
+            {
+              "id": "svaer_43",
+              "sværhed": "svær",
+              "nr": 43,
+              "virksomhed": "Ikast Handel A/S",
+              "branche": "løbesko fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_43.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "0fff419e123f0d4a1536d8080a66554faeff9bca08ee40c3d4b37a294f1714ef",
+              "del_hashes": [
+                "72854c4c9257af62cdda3d6f9fe63b4921877716efc470990d9bfce6afd97cda",
+                "785027691ca0dd332cf58f55aa42af55e66d8c048297a5b33c075a7c805da3be",
+                "c999e9fde3f0fbeb3a77183cb5657d8955ecbd995fce12b5580c43a7aba14a4c",
+                "a7d85c28e3c175d95bc8280de27a33422dbbe2308a586c713a666fed6f092ae6"
+              ]
+            },
+            {
+              "id": "svaer_44",
+              "sværhed": "svær",
+              "nr": 44,
+              "virksomhed": "Horsens Import A/S",
+              "branche": "porcelænsservice fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_44.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "6d01402856bb6de6fc9ccd512f0534d8ff3f18b0ef231426e8c64cfa274b6c31",
+              "del_hashes": [
+                "46cbc25de39b828b37a4c2ed32e0544f3203394de414c0debed8e2f0f6f11b49",
+                "446ec31b387d3662c5bb5c36414337b267f4d60c0cbbbd35a590c6344ac6d0aa",
+                "c85f7b4d33187e88b88dc076f0b0f9341112d6fc6e5cf338b82b91d3a32195d4",
+                "424f6f6a024db0583dc118183da85d40d6c7074ae6dfaa70bf7f6adb83ad7ba4"
+              ]
+            },
+            {
+              "id": "svaer_45",
+              "sværhed": "svær",
+              "nr": 45,
+              "virksomhed": "Nordic Engros ApS",
+              "branche": "bluetooth-højttalere fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_45.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "925bd6af7d536697fafad8dc8fac869903373da2c82b74de0c9467fec2d9f018",
+              "del_hashes": [
+                "a70138b8f5a6e56366097ee445a685f37f6f57ea6de09ecf2321a0b6b3e46213",
+                "ece81004cc20c169237d0577f049f0c96555d5f1de144394915bce57f6ecffa4",
+                "92ba8aec512db4f588fb2ec564fca6d8ee5f2a619f98b6d7e0f86dae6257bcf6",
+                "3a996bb659afc3ac7298367f70bd9d4aa270ca2ae7968389d8a7b7934369a52c"
+              ]
+            },
+            {
+              "id": "svaer_46",
+              "sværhed": "svær",
+              "nr": 46,
+              "virksomhed": "Dronninglund Salg ApS",
+              "branche": "bluetooth-højttalere fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_46.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "6c787920e4085658e1a27ec0ed724819fc3bb3ded11c88b00ca3c0bd4f029980",
+              "del_hashes": [
+                "84f7c076e9674cb486979d5ffe8655977cf0fc196d8bd77dc140f635f01f9ebc",
+                "187006589c0bd883d6eb77516c87462f3d640a21bdc05114ed70b4f52c5a1c43",
+                "780d4664188596444c55f9bc8153b6140deb2ae9172b5f31bb94577154dbbb8c",
+                "a09d00b1f64abb96721ddddfa5837a10536f96fed0945781e7fae9fe4680aa10"
+              ]
+            },
+            {
+              "id": "svaer_47",
+              "sværhed": "svær",
+              "nr": 47,
+              "virksomhed": "Fredericia Logistik ApS",
+              "branche": "mountaincykler fra Sverige (SEK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_47.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "472ae90ebab4225db486ab802c72e71ceeb9dc8a730946271ef7d1c452fba0b5",
+              "del_hashes": [
+                "85ff7669e329425090507f85b8cb75483853624b8b952d9dff5b4bcc063d9e8d",
+                "48fa1987fb072f6a437c665e6960f6567d68cbe05498d0268c953abc670c549a",
+                "1a46517531081647d9913b2ac778819ab5f6c38b8a6b147c96f944ac5619387a",
+                "7b8993b642d0826129be91f604df6bad72de3c4dc602da8e561cd42dcf85f86d"
+              ]
+            },
+            {
+              "id": "svaer_48",
+              "sværhed": "svær",
+              "nr": 48,
+              "virksomhed": "Bogense Salg ApS",
+              "branche": "rygsække fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_48.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "2a7424224afc30465f1909ddb0267d83d0f562fbed49d963a31e86770113289c",
+              "del_hashes": [
+                "4acee8400b1026784fb03a4a7618610b4716de279606828551e60022918a431e",
+                "759e40170323a063f80580d12aaa0a23128d23b7812d9fd96f4261b62c7e9d89",
+                "37782e6a56ae0df5130bee4b9936046ab4dd6c79249c35f881a501df1cabd961",
+                "3ba4533c1b89468dca92451164c038a98461bccc8005124b45d59505f7a9a49e"
+              ]
+            },
+            {
+              "id": "svaer_49",
+              "sværhed": "svær",
+              "nr": 49,
+              "virksomhed": "Euro Logistik A/S",
+              "branche": "præcisionsure fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_49.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "5810e06779a1e8b5d8a6f738b68da43376ee73f7f303fb71ce18eea982a96c33",
+              "del_hashes": [
+                "0e0707769ca9332a098bf34d813f4d5b4c7c94ee0110bfb9c3ed9d9929f33d9d",
+                "b8682c2ff9ee75e0dede41f25292866cd21da5a53e84b78f6aba43255bad3de0",
+                "0d8eda7867637a918174476a9cbcd9cf545982d7896c0ae394a952bc9e0b93e1",
+                "a16cd1402be5048c6fe8769c180dc3da9d73f2d8348cfd2e6910b434414823a6"
+              ]
+            },
+            {
+              "id": "svaer_50",
+              "sværhed": "svær",
+              "nr": 50,
+              "virksomhed": "Søndersø Holding ApS",
+              "branche": "læderstøvler fra Portugal (EUR)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_50.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v1/opgavesaet_bidragskalkulation_v1.zip",
+              "kode_hash": "e61b99020918f4333a0f0aae3ab201841d517a131b51d490317f8c677cc89e0e",
+              "del_hashes": [
+                "e5c372ae62ba1036552b358ba8da3feaaf601f8f5d6398ec5edd44cc8b22536f",
+                "383045fdaef82458e752096f46e45374ea6e795d047ad574531c1da996ed2918",
+                "cdf30ae8713219094fb3d224e7e8b3222e8afc56fb34d41e198a32d86a327308",
+                "c52a4346a006a8be8c8e8db91039365c6f0aca4a710acb207da6358d73d2b574"
+              ]
+            }
+          ],
+          "laererark": [
+            "laererark/bidragskalkulation/v1/laererark_bidragskalkulation_v1.docx",
+            "laererark/bidragskalkulation/v1/laererark_bidragskalkulation_v1.xlsx"
+          ]
+        },
+        {
+          "version": 2,
+          "navn": "Version 2",
+          "dato": "2026-09-19",
+          "opgaver": [
+            {
+              "id": "let_01",
+              "sværhed": "let",
+              "nr": 1,
+              "virksomhed": "Herning Partners ApS",
+              "branche": "outdoorudstyr fra Sverige (SEK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_01.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "b4e0b9551b58134dd67439e762a472df7a2c15752b9cb6882c9b72c7c2d02bd7",
+              "del_hashes": [
+                "6d654425dac811c60e562686efe13bfc7607703eb5de87bfdd5a926e828d548a",
+                "d7d0f1d049d3a61a99f0407f102c5f89bddff89b05297c69928a7ea72be1c976",
+                "d4d98ef8469df41640b45908c77c71fcbfd586b4c532bcfc9a13f99021b5ce4d",
+                "a93918878321646da369bffddea0dd9e0666db8c65a4b70dd4c20ed538aabe78"
+              ]
+            },
+            {
+              "id": "let_02",
+              "sværhed": "let",
+              "nr": 2,
+              "virksomhed": "Fynsk International A/S",
+              "branche": "præcisionsure fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_02.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "3cf088e88bb29ccbd9e472dcf442e782b1fb64038fac02bac5fbdb8ff9706aae",
+              "del_hashes": [
+                "8894aa55930f1d82269d2cb48e9f9790e066dac69ac5df84ee051ef2c904534a",
+                "a580ede0787624f74a543e0c87b586d4334e85aadd649b6f8a4f3fdeacfb8d81",
+                "d846b64567934443ee177469a5db3fab7ec29ecf6a3ccfe358d804a4d6c3706a",
+                "42c25dfe1491086ea844cf573f30ee5316d5318aa5e679938a31897d7a43e178"
+              ]
+            },
+            {
+              "id": "let_03",
+              "sværhed": "let",
+              "nr": 3,
+              "virksomhed": "Aalborg International ApS",
+              "branche": "whisky-karafler fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_03.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "487d24de445fdfb582795385121ece583dbbc9932c37f866b9c1a2486d01a14c",
+              "del_hashes": [
+                "8e97ce7254072302aabbeb90cf2d4b0ad8e1624f3844f3d391c3be722fbaadab",
+                "f9c7b08874d065303609c21769651faa1e53edb340470bf4a475e4f3e440750c",
+                "f8c7ccffd776780530ce92646eec4e61fb4e97c433006045452759d4df33f046",
+                "3051ad459eed37745517152a44fb918bc653eb12d0def54cedbcad81469be0b2"
+              ]
+            },
+            {
+              "id": "let_04",
+              "sværhed": "let",
+              "nr": 4,
+              "virksomhed": "Scandi Gruppen ApS",
+              "branche": "fiskegrej sæt fra Norge (NOK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_04.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "da6fb51d68d57f7cb11e43753522f739403750f5301c48631dd86030043b348a",
+              "del_hashes": [
+                "6da58af355429e85aaaa0ffc7de0c72da236bae08ef12403c091c8bad3d6896b",
+                "19763d53cd025604c595205795072c11dc7108fbb5bdc4761df1a1e88d04482b",
+                "bb85817c1f7ae5f0c2c74e836b21d5c28fba62b591661efaf344c8066f40289c",
+                "4df8a78b663e2d3bb8bd5e20d89335ffe1414d4980ea04586282107d6bc87ba9"
+              ]
+            },
+            {
+              "id": "let_05",
+              "sværhed": "let",
+              "nr": 5,
+              "virksomhed": "Søndersø Holding A/S",
+              "branche": "whisky-karafler fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_05.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "406d6896b95771527682093777689f230476b6f73d4a479a8492c56a1b303cf8",
+              "del_hashes": [
+                "b3c3997e75d7dd778a66847013587f4ee1ce3ca9dc779fbb2fe986e1718b4582",
+                "ab9ef5435115c26968c0e5d455b6f89179905eded73d0a06af829bdeb6547625",
+                "e7deeea1ff8699f144482267a1ea08d9056be13ad2e0c12aab39a6ea9e0799cf",
+                "7e3e7de8cb372f47d6f19b4f69f49f783aab3d97f199fd060600ab6063e88ea6"
+              ]
+            },
+            {
+              "id": "let_06",
+              "sværhed": "let",
+              "nr": 6,
+              "virksomhed": "Holbæk Handel A/S",
+              "branche": "rugbybolde fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_06.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "a25e4047909a7ba6c3591fd6bb1d28fafe0ed83f9af69396f414e1e191e9ead6",
+              "del_hashes": [
+                "7d56e27b8eee51bcd6aa2929d6497e8c7d802f675c589f730aea85a50ca42cd5",
+                "cd20a1939fc2ff7edaee69de0a77cef95c88568692a2afa5088f869b0cf9f1f6",
+                "92edf09ce7087760f77d9a5b1bfcd43ce371148c1849deadba1d4f019eef10bb",
+                "5c53a3ae77983b952d9ce245d6d4e91ae925eff03b4c08e4802d92c6b11fc9a1"
+              ]
+            },
+            {
+              "id": "let_07",
+              "sværhed": "let",
+              "nr": 7,
+              "virksomhed": "Holstebro Handel ApS",
+              "branche": "uld-trøjer fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_07.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "c12468eeeac452380afa1e512ff08fa58c16aae98c7d8a5a15bf129c1aa960bf",
+              "del_hashes": [
+                "9369fd3a833d21093ace2ec79b944da59459d336f6f6d7b069e5ced63ea0c88b",
+                "62449bbb74ab7b3b099b7bb72759e48d74ece9d5c10cf21c05e88f4967a13104",
+                "6db7e36b7084ec9eeee93287e927e4dfd1cc1caee196e55ddbaabceffa0b58e9",
+                "1929a76b096f1d41a054fbc59b5818bc5a7130c48fa6a0d8d138606998041804"
+              ]
+            },
+            {
+              "id": "let_08",
+              "sværhed": "let",
+              "nr": 8,
+              "virksomhed": "Holstebro Handel A/S",
+              "branche": "vinterjackets fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_08.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "8b00b5c143cf388e004a0814fb8bd3fb7beb352d20404e5acee89c43e398f6d4",
+              "del_hashes": [
+                "5018a18abd635a510564dbd469f23b66eb0fb394cd7f10382bab05e0e79cb4d9",
+                "ee2dba4f9a6fd91fb215cbc3525abc139e7c75a94d3f2b547f270c479f6eeff6",
+                "f5eaa7b0aea83f04b244126c95cd7e4c316f9001a8e108b9509a276955c9ad1a",
+                "1aa244188b62b2a9cdd5230ef77eac9f30699356dd6fc16aba5be386aef59108"
+              ]
+            },
+            {
+              "id": "let_09",
+              "sværhed": "let",
+              "nr": 9,
+              "virksomhed": "Scandi International A/S",
+              "branche": "rugbybolde fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_09.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "dc9ba820c95d5db93103a4a5dae1b7b28bdd7a488027311e84abdd1a5b6fb262",
+              "del_hashes": [
+                "c9cd2deae02c4db6b892b90d363c6b596eb1fb6191196aba4db906ea6edd738e",
+                "5294ca3acec8ed8c7058db79b61fea25ccabf35da4c5617d4dcd0c56fc597180",
+                "44eff859e2e17d5176acc7850e2cea43ef61a8f508a02656cb15c42583b37d92",
+                "77d9e9f18f66b7388d1ce205fde547886332e70bb854f310062f6b5ac6fd4e69"
+              ]
+            },
+            {
+              "id": "let_10",
+              "sværhed": "let",
+              "nr": 10,
+              "virksomhed": "Randers Distribution ApS",
+              "branche": "oliventræsfade fra Spanien (EUR)",
+              "vtype": "handel",
+              "fil": "opgavesaet_let_10.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "eb2f10f18d2805eb01b567df2030ceaf1b8e834c3b59e154ef63524f7e6aed44",
+              "del_hashes": [
+                "b31fc25dd9b28f5feffe568d6e24efed229cdec638243cb581477d7cde6a4699",
+                "2175bc4ff8524d1f3d5875ae56719e78edf47111dc19de46efbe193f8d52be25",
+                "34a537df3da67594e7adbe6267609f40f3dc1aeba0f837de5343ac1c29e6b7be",
+                "7dc34fc8f4238230410291cd30d83d8cc3613ce397e888735e984fa8b65ee287"
+              ]
+            },
+            {
+              "id": "mellem_11",
+              "sværhed": "mellem",
+              "nr": 11,
+              "virksomhed": "Sjællands Gruppen A/S",
+              "branche": "basketballsko fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_11.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "a9bc4fce938e7d2a7b857a0b372ad7dafc0e7b4ee7fc47c54da0acc4b5438018",
+              "del_hashes": [
+                "1765a1b7c8526d9b0b46315e5a25a53824ae4dbb717b65bbf357e628a67d6bb3",
+                "70ac977f663f4d6dbbff9484b83d5cdf743a54f68441a2014c301934c925baa1",
+                "9a0656006dfea5ac3d7f78204a8b8239168e836e2edb379db1bd914283ef2e9f",
+                "5d0bbd05eaa6aaa275bf20e9c6db602a15f54e314a019f273ca7927ada12f0ce"
+              ]
+            },
+            {
+              "id": "mellem_12",
+              "sværhed": "mellem",
+              "nr": 12,
+              "virksomhed": "Hobro Handel A/S",
+              "branche": "parfumeflakoner fra Frankrig (EUR)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_12.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "3abf7bdb6c5232170cbd1a1614fb76cfe4e021f118c0777c4c52506438c4f543",
+              "del_hashes": [
+                "7b7d4120e8d0a8d35b557e82dfc9bda529974e5a9980b2ab5d001fcd8761022c",
+                "8f493f84bdefb16325e2242821a54e14eadb34a2eeb64d94815d00cd53b57af2",
+                "68a3cd2425733987be73e9374032c4b65fd4525067123c5f09031ddf8262da3b",
+                "521b251f34c709367c7161a6a73aaaabaa35d30f025e488d6838af498007bdf1"
+              ]
+            },
+            {
+              "id": "mellem_13",
+              "sværhed": "mellem",
+              "nr": 13,
+              "virksomhed": "Danish Distribution A/S",
+              "branche": "basketballsko fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_13.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "d79c3a2301855833d251358f89d6ec0d4c509d719b0f9df117915d13836346e3",
+              "del_hashes": [
+                "8a33e515ce515609d4218cbf01cfd378df8bdbb578e9a3f842399331b26e74c5",
+                "71181f4e11f09f2d9a7dc81013dfcd282f25bd0a2878035ecea991dc9e29f54f",
+                "09652812614f95152c8f0c31fd52fd66c3bb6ef6f719119a730e4341b8ed6fb8",
+                "ed832a33e0f1b67b8ab208cb707715e2542b7dc6ba16c6bc6b71ea749a5319ff"
+              ]
+            },
+            {
+              "id": "mellem_14",
+              "sværhed": "mellem",
+              "nr": 14,
+              "virksomhed": "Lystrup Handel A/S",
+              "branche": "ure fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_14.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "28c5c5b1e6e6c62a8fd3c3ff3a0a984ce4ed23523198d19545c4d71364375781",
+              "del_hashes": [
+                "401c5e46a700decaaa4287ad8ef586f06becffd02d84ec177b653aa5235eacba",
+                "11db736f0e0d07b5783fbe5875ecaadba17295c76e49c841ba783e8fde20c294",
+                "dae87fb3a4a604ee9ce07c55d78ca97d859728b005c16220065fa352bd108f6e",
+                "3f1edec5a98a186298b7b43b802c3055df861a8c8fa016443e1d5c00faaf240f"
+              ]
+            },
+            {
+              "id": "mellem_15",
+              "sværhed": "mellem",
+              "nr": 15,
+              "virksomhed": "Sjællands Handel A/S",
+              "branche": "hockeyudstyr fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_15.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "26b4b3eae7fdcd909229329748f76ce3ad821f3e101290e4df5864feac7ccf9d",
+              "del_hashes": [
+                "7ca5617067401cb70f14639f9638984b672f363fc21151ed538ed50121c8b338",
+                "bc9d62ab4c9f291743026e1a806d1ee5b103075dcba0226ac1c882adf60ded53",
+                "07b432d160b566dba547f615a25cfc301446f732c868f2b477eefd33f9b6ad57",
+                "9daecf1106689adce684751c7f2784bd617cf3ec988d0b19994a627e5a255dac"
+              ]
+            },
+            {
+              "id": "mellem_16",
+              "sværhed": "mellem",
+              "nr": 16,
+              "virksomhed": "Aarhus Logistik ApS",
+              "branche": "uld-tæpper fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_16.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "f497ff86a0514696c4f233539e1be9619370ddb2a4391a5b080f679dee1c36eb",
+              "del_hashes": [
+                "a12bfcaf4fc2220dc236fe612c4fef1eab6bd039b9b7fa053b01338dd561c1b6",
+                "dfef88977e4aae7a7deccea469adce7c8473a9c84304f8f0035ab2944ea38be8",
+                "0f1acf00e040aeb3771d777aac6e7bd538b8d776d03870bf4d1718838af3a897",
+                "71babe89c9e13155be14afb6c357cb30126743f3f8e6bddad86d598e170cd0b3"
+              ]
+            },
+            {
+              "id": "mellem_17",
+              "sværhed": "mellem",
+              "nr": 17,
+              "virksomhed": "Gentofte Handel A/S",
+              "branche": "basketballsko fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_17.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "6f0165c088b321527eb6a869229fc34fff41e731a6671bc018a88b60ec47e6bd",
+              "del_hashes": [
+                "74b276711ceef54f3b5b84249830aebada2f3798de3bd0398eaa0beecc79abde",
+                "ecf9e1378060a98b0ddd3cb8bad0fd54e8d77f97ba4f784170bfb7ddb140da84",
+                "1415581b0f7a3fe5c1b3c6687995c3d4b1bfc9a79e426d10d5e6baa411cc50c1",
+                "ab225994a360f3ba566f3b90975882cbf3ba5f83e54e14d1981416a914aa7c03"
+              ]
+            },
+            {
+              "id": "mellem_18",
+              "sværhed": "mellem",
+              "nr": 18,
+              "virksomhed": "Hillerød Partners ApS",
+              "branche": "præcisionsure fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_18.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "83a52be184526fca14e0adb8020b5951881466b65cb6b9d4e83dc503a09d580d",
+              "del_hashes": [
+                "1f7879ca8de277c4f8aa27ae02cede3d07a235e6828e80100b9e23ae3788bd63",
+                "7f55c3e787c1992adc49968c402209b7ac82af14c807445924c0a57791a6276c",
+                "f14065e1d954aa622a70f518215a93d51e85ae2b326ebebaac1ead1928fd3404",
+                "e7a834ce0328d4d7ee321369290cb7eb64d3529ab0baac165fb3092884e842e2"
+              ]
+            },
+            {
+              "id": "mellem_19",
+              "sværhed": "mellem",
+              "nr": 19,
+              "virksomhed": "Frederikssund International A/S",
+              "branche": "mountaincykler fra Sverige (SEK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_19.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "1f536b4ba948c595b597248dc484f0ab7241c1c1e78c0cd086eccf4016d7c46b",
+              "del_hashes": [
+                "347f9a4433175ae5c3b10e6aa51c9284ad8f08eeb678f56347d95cab42aae543",
+                "015989070d29e6332e311298c3387cf451ba6bffa26a6a4b314461ec1f7f7ea0",
+                "52b02c071e9dfe34d586da8ba6daca53dfb33945144fdcca3d202a4be486f5f3",
+                "4ebad7adb44a2139855dfa6103929c4756c66077259d14ac5aa7948ccdf4d5c1"
+              ]
+            },
+            {
+              "id": "mellem_20",
+              "sværhed": "mellem",
+              "nr": 20,
+              "virksomhed": "Sønderjysk Import ApS",
+              "branche": "schweiziske lommeknive fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_20.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "78ae2907026a3dac89d3430b8bf2cb979147215b0c24d56f18e13e044a901adf",
+              "del_hashes": [
+                "80341888db717d352fdf2f0cf6f6a3dd93abf2479ade34daa3d3201de1211826",
+                "b743545210f6aa4e3aa73bbc8e1c23ddf7725802d006cd78c2ece7304ce90ded",
+                "5ba59dfeaf697ead33080932faac76e45e0553daa4336bbb219d18f414ef4306",
+                "f7d1e8147e956a8a3e7e34538a386ccb1d5ef9de877a5a8d79dd55ca6136586d"
+              ]
+            },
+            {
+              "id": "mellem_21",
+              "sværhed": "mellem",
+              "nr": 21,
+              "virksomhed": "Frederikssund Handel ApS",
+              "branche": "ure fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_21.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "fa229e379786d89833f9e1bcbc62d5849c8042105725e116630013d21de121e9",
+              "del_hashes": [
+                "adb401d9a6c0d2144cfd3630984b650158206280baf77ec65802a9f1773ef700",
+                "5c8a29fae80de036884c20d3a247aff355c92d784d581e92580a322907c0b278",
+                "eeb91544959b12d7c513cd0e46600197013a5817c142e881198a5a85d712661c",
+                "e586df225df6c1c31191c3488448254bdc1e02634f587820fd03c265ff2e3776"
+              ]
+            },
+            {
+              "id": "mellem_22",
+              "sværhed": "mellem",
+              "nr": 22,
+              "virksomhed": "Silkeborg Gruppen ApS",
+              "branche": "elektriske løbehjul fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_22.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "4f4516d396e27eae47cf769212d847276a1b07d4dabb2ba64dd7a92f6ffb1909",
+              "del_hashes": [
+                "110e19b1d0b2b6ac1a5a6cf24d75fed3debe737511eae376c734cfe560993871",
+                "a93ee61981eecccaf6402fe8bd7896504a28cdb3aaa2e66f4a9c16068f1f2a24",
+                "705f126b3fd95658650e277d503f1db15be7dfce16424069dfa70bb0ef0e8bd1",
+                "8d5cb3e7d5afce80541cb8517e85637e8afa3e4ef9841512ce76ed7e1f0a93e1"
+              ]
+            },
+            {
+              "id": "mellem_23",
+              "sværhed": "mellem",
+              "nr": 23,
+              "virksomhed": "Randers Salg A/S",
+              "branche": "vandresko fra Norge (NOK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_23.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "4a60667f4f2c6a104f804bb05a1f638d8129da8fd949a106fef7a307d102d924",
+              "del_hashes": [
+                "ba30672171634239935b0ec3287e07493fb6546cda1959628317b4294b686f1e",
+                "1284d40bcb4a734ca1c5352ab3703f9d3120aa78dc2234e903da1dc40bf27492",
+                "d0897faa8315de0658c1d1c38685ae9c949b6f8b7e596add5abc7e9410a1bbec",
+                "cd0ee694bf5706eb87498ac1f896e516f754b466639079dcc574ad8afe5c85cf"
+              ]
+            },
+            {
+              "id": "mellem_24",
+              "sværhed": "mellem",
+              "nr": 24,
+              "virksomhed": "Dronninglund Engros ApS",
+              "branche": "outdoorjakker fra Norge (NOK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_24.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "51cfa41b93968919ef4aec5d9276f7bd06c35fa540e014240d1cc25b8b2dcd16",
+              "del_hashes": [
+                "489e5d578bd2302f6915e98ab028c6cee9792b6f5dba08133cd037da7fe0713e",
+                "0cadfacd5c7591c26525fc358402497dfccd3e6648177bdd390dbf6616fe479f",
+                "ca75442519eb1cfb0122e18ef4d1ef707e45a657d807c33f4d0fc87fd7bfe5bb",
+                "46f5ba894916455462405175ef9420008c7e41b63c4a4e0b597d147df585cda3"
+              ]
+            },
+            {
+              "id": "mellem_25",
+              "sværhed": "mellem",
+              "nr": 25,
+              "virksomhed": "Skive Distribution A/S",
+              "branche": "surfboards fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_25.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "60c498a59b2bc49f399b1f3e5fe8c216450364f30e1257e1c44bc2698151761b",
+              "del_hashes": [
+                "28bac1873abba56e15155551d41b26a6db5da729d8a6c8a2d04b378c869da1f5",
+                "34d64c5f96998395cde24809efffa1b31abbacd28c0f31d00d8ca5447503d35f",
+                "c1c7f9eff84e192d01c40dc55b2e29a0d5be88668c8f6caf46a7a465a1c3da4f",
+                "790d8b876297c84d859a2c32dc2eb10e2f0f459237b2342f8d23c772ab1bd696"
+              ]
+            },
+            {
+              "id": "mellem_26",
+              "sværhed": "mellem",
+              "nr": 26,
+              "virksomhed": "Øresund Import A/S",
+              "branche": "bluetooth-højttalere fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_26.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "2f1c31908abe6f55a78f398a6641bec446fe7fe1175024539e677ac193119bfd",
+              "del_hashes": [
+                "d6c8199aaaaf8306f7f9b1d69d22ca1f453b38e3e5a94050ecbed55419f7d230",
+                "127067e2265eca9b61df53102fb8b41968ad69905a8c89332f3499bda2a94ef5",
+                "c48ceb2514f8d7ab28c6cf0851377e68a18ffd6524d09a689d69c10e2d6bebc5",
+                "3623d77cb2738e7802137b894f75790e9bff254642af56ebf8bef55b63bdbf2e"
+              ]
+            },
+            {
+              "id": "mellem_27",
+              "sværhed": "mellem",
+              "nr": 27,
+              "virksomhed": "Lystrup Logistik ApS",
+              "branche": "sportsudstyr i høj kvalitet fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_27.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "f21916ffd973d5c4761e9aa8c69e798201f889047eaca10913ee9916c956c125",
+              "del_hashes": [
+                "f1c032d39c79011aeb936d94afe9656a8f4ecf82350cd4ca386ea966a51776ba",
+                "9f5ace2516e8ed607b5785370c313666e7796f271201f804d155c8afa5820a57",
+                "b3212823e8c17a5e04978267a9d4947567d5d732a3957bd637e40404f9a325db",
+                "696d369b63c610a7915aad24cfc14c55d9f417433427db301603bf8262eef433"
+              ]
+            },
+            {
+              "id": "mellem_28",
+              "sværhed": "mellem",
+              "nr": 28,
+              "virksomhed": "Hornbæk Partners ApS",
+              "branche": "hockeyudstyr fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_28.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "d486f558f9160e372ccbce47ee05650bb5ad73acd492a42bd2ec17609bb7142b",
+              "del_hashes": [
+                "70976b64963dc36fc7a53b4f7a69a9b993a2b6fb848a999ff1679be90e435b4d",
+                "5df83a08dfb140651a74e3f962225e8127220d443c086fe2f2ba8a28417dddbd",
+                "b85300e254d627c7a0b6295b6c4fc23043bd68b2d072aeedbd2d50e597be7a78",
+                "86a09e3c8ebf0d0315b4851f687db4886bea94b08f584b0ec507bacc2c7ab147"
+              ]
+            },
+            {
+              "id": "mellem_29",
+              "sværhed": "mellem",
+              "nr": 29,
+              "virksomhed": "Øresund Partners A/S",
+              "branche": "whisky-karafler fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_29.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "6d6309ca72cfdf5b81b505a5e8a435bda0d3e9390fd242e8fd2acb4aa0572251",
+              "del_hashes": [
+                "b45a961fe55ac47eb10d2478fce6b2e1944ec96f068bfa360d7a6526212eb998",
+                "074663768c37957c443f4c3a18e90ad71614873b558037823f88061cf1e6f61b",
+                "4d540fea4bcd862a898a7fed0cfaab6fe8501d4c9f9372bd6a774998b4457621",
+                "be009cdfcedef6ef855dc916a5de7dd09839ad4df322885340cc9c54fd2e6b61"
+              ]
+            },
+            {
+              "id": "mellem_30",
+              "sværhed": "mellem",
+              "nr": 30,
+              "virksomhed": "Svendborg Logistik A/S",
+              "branche": "sportsudstyr i høj kvalitet fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_30.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "e8ce2f1db20802861cec28572f24524c1e419eb677d1ced6d2550efe18c3205c",
+              "del_hashes": [
+                "c155db9b411f1fa7c08930824e986cc0e3877571dd09af549091c6f6f0baafc8",
+                "3409b4ef8cee3ba12e23220981b25bfc7b9cdf1f3e87ec48e25d3d18875be370",
+                "24ae25717d970bb7404bb83a2dfb1cdb7ea68f690f701a85ad23e41da14e0270",
+                "683f3d7230ed367e0dc3764bbb1d25300660d473906e5dbd80ce6d7b8ed10b02"
+              ]
+            },
+            {
+              "id": "mellem_31",
+              "sværhed": "mellem",
+              "nr": 31,
+              "virksomhed": "Aalborg Salg ApS",
+              "branche": "outdoorudstyr fra Sverige (SEK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_31.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "7022357605dc1f1dccabe4f6761e88553139315e17413f4ff5fbd69707c9d8a8",
+              "del_hashes": [
+                "bf83999971e5079856ef03bbf98309ed4b056bc6618a4a005d0514895bc30186",
+                "75626ac612592fe0833469b5dd7b44a820ec38fe2612da8a774bb823d99cbf43",
+                "4925121af3e7c3735e239cfd664e77411e98cb9a0af3a752efa6ef4d07ea5ae5",
+                "24bcdd9b6a7b6e67a77cc0c5d08e5df92da45a7886eeea64c7b03b9456aee4fd"
+              ]
+            },
+            {
+              "id": "mellem_32",
+              "sværhed": "mellem",
+              "nr": 32,
+              "virksomhed": "Sønderjysk Engros A/S",
+              "branche": "uld-tæpper fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_32.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "6b70cfbd7064e76e7a272012e6cdbacb03af7bdfc20e66f51e97f16089348536",
+              "del_hashes": [
+                "2efa37fedd5d7332e41611bec1837a4001d577ca0b4d273a44cd0ab6ba33923a",
+                "f25e7e41e23bad846163fa6f65aa9ed90955e7d670f2b2803a31db1c614a2dc1",
+                "a8a98e957d298ad7a4ee6fd96a6634a193bd6d09ab010a221c133ef14ed1269d",
+                "d3bb4a5c8fd957e720900abfcc25b8b143600cee215c7d553fc453b3d2f54303"
+              ]
+            },
+            {
+              "id": "mellem_33",
+              "sværhed": "mellem",
+              "nr": 33,
+              "virksomhed": "Horsens Handel ApS",
+              "branche": "ure fra Storbritannien (GBP)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_33.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "71a8200dcfcd6c13e9e79efd8c8e1743a1d8d9884bbc7a920b18938f795d831e",
+              "del_hashes": [
+                "7b27add6b22ee61b596ab574f262178eb8381f101076c428699cbc7c9aea816d",
+                "75972bd9f717bb5c429bbc59e81a35ad69dee7fd6287586d15c9b35d4242846f",
+                "cdce48e25a9842ee760434472c9ab1ccca6008c8066957d93328d7edd955901b",
+                "91385b2e0c11267d9de0c2d9f96a7fd72ee1ab937dad532d6f9d100c5bfd75ad"
+              ]
+            },
+            {
+              "id": "mellem_34",
+              "sværhed": "mellem",
+              "nr": 34,
+              "virksomhed": "Slagelse Partners ApS",
+              "branche": "uld-trøjer fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_34.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "5543129e141b7158d698d3344a6eb3a49809fa42557dc8fc1284839b17c6204e",
+              "del_hashes": [
+                "2d602b14ec29c15f2c7cae97e64a0a0cb38a5221012518a4b5480d251c706e4b",
+                "59c2577bbcb9de94808a2e34909570b360d643a5b82ae9e2198eaede0034a825",
+                "b6e1ecd8875c95c406055b1cee7392e4ee92250f8e8528b5f98dc12dc43516aa",
+                "c80316abbee5e60abc3db445cf13f1ad94f5e9cea22e5fdc373c4dd5d80ecefb"
+              ]
+            },
+            {
+              "id": "mellem_35",
+              "sværhed": "mellem",
+              "nr": 35,
+              "virksomhed": "Danish Gruppen A/S",
+              "branche": "rygsække fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_35.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "64fcc990fb716bbeed094651b3aee2324973485778c87ae2580849ce6b91e052",
+              "del_hashes": [
+                "251b4f3e9a3e8a59988bac82ce87f456170425176aec3827e76506dff0639389",
+                "b56c1cc9da4744b91692c2019309130be063a7021e154dd1c933f1f37230c2bc",
+                "2a87d0fcb4a295f494a424239d495c1279b09766d3c9493c6dd554c8916e1d76",
+                "a7311c22aadd32f57b65871d6ba9bae277ccb85de24a711b368b6c0cb6dbbbc3"
+              ]
+            },
+            {
+              "id": "mellem_36",
+              "sværhed": "mellem",
+              "nr": 36,
+              "virksomhed": "Gentofte Logistik A/S",
+              "branche": "surfboards fra Australien (AUD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_36.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "1be77e9a692a49d714d323a6743031d113b7b470339bb8d755ea935151b43a38",
+              "del_hashes": [
+                "f363c3a2e4410454ab292259b17364046bb9155d2f53738e5cf722c3627367f4",
+                "6237a56b349cfaa14e22624a74b6a4c5c91483f5b62d88c88629626729773b96",
+                "042fbc407f130727465db10e52fa2941595434bc270d56d0688d875ffa1f3bce",
+                "275b0c7626702ac02f51a01446d2bcd8de9a048b2971575d1c518151292968c9"
+              ]
+            },
+            {
+              "id": "mellem_37",
+              "sværhed": "mellem",
+              "nr": 37,
+              "virksomhed": "Fjord Salg ApS",
+              "branche": "blomsterfrø sæt fra Holland (EUR)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_37.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "b8bce7f7dea295567e34e7af4fe10957d7522a50ebf21e9f68169a9857004b10",
+              "del_hashes": [
+                "252fbc97cfafe7259e5e9f1b0e4e78e9ada29c7180df14f4eeee4fd2c471890c",
+                "3c07858b747c3ac9ac50491a475c770c9135425dc38ee9d1ad33a191bd4c86a5",
+                "742adba4ac1acb1e77b9e91bf31e070eda47ea2cb7a9c9126131434505c85db0",
+                "729cc8deee6f05c7c67757c1c2d072a0e17929f474db62270751651766ea0460"
+              ]
+            },
+            {
+              "id": "mellem_38",
+              "sværhed": "mellem",
+              "nr": 38,
+              "virksomhed": "Scandi Holding ApS",
+              "branche": "rugbybolde fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_38.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "4f476494980be671a34171e82b304b576c9657688aa091aaedc64199583b9300",
+              "del_hashes": [
+                "72f88b1283b3e34fe4d726046e814ea3605db92a54606f8a0bf9a2d1caf96645",
+                "23f535a1f5dee33a35c2620a5b76f9fdd2bbdf6983f503ee933c334751f2f49b",
+                "c36fba0371a8f683e72a8b35fdaa580446c2f234e0ed060b7205a9d08a578466",
+                "58d9926a0dca3bed890da2f21999bc6eb274dda86c3efd60e49ced36590a8266"
+              ]
+            },
+            {
+              "id": "mellem_39",
+              "sværhed": "mellem",
+              "nr": 39,
+              "virksomhed": "Gilleleje Partners ApS",
+              "branche": "hockeyudstyr fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_39.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "0879411cc7ccf22900bd9a1b37f93b1199d35836580675fc118fc56524bd69e8",
+              "del_hashes": [
+                "f4653e1591059954e1d94bb2c4f46614efe054fb0897a6613e636fa0fc74d8a6",
+                "4b6b07252e5754759d3e4c2f340c6b69635d0340abec32cca6dc387963bc90cf",
+                "ab777d3e5f60061636bab71f4a9baab69efbcb0e1bc3584a617dbf2caacc1a3c",
+                "ecbf361c4ade72c90c0af94420580444b83d24b6c59f9c34cab27ec97706e414"
+              ]
+            },
+            {
+              "id": "mellem_40",
+              "sværhed": "mellem",
+              "nr": 40,
+              "virksomhed": "Hjørring Partners ApS",
+              "branche": "vandresko fra Norge (NOK)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_40.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "988eca979f1cc6fb6079cfa00abc2043ec03548cf68409524627e5c993ccb3da",
+              "del_hashes": [
+                "5c314b8da3f39efdb6703ed66e15d65180183c98d4f2189f1485eb14a2578d31",
+                "f683e7a4fe29037c164599c70535deb79c036e29e4d7f59c351e8eadefec50a0",
+                "e8dc11998a6bf88064b0760f08e70eee5e9b4afde071e2292d5133560a507502",
+                "38b376a6575724ed0f647398d0d33d8f9ec0266ae25d1d518d42e357fd4fd44d"
+              ]
+            },
+            {
+              "id": "mellem_41",
+              "sværhed": "mellem",
+              "nr": 41,
+              "virksomhed": "Herning Logistik A/S",
+              "branche": "vinterjackets fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_41.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "df76ae489a50d2cbc4dba88ad3bfaf042bb8b122f70d9e0129f732b0a962b261",
+              "del_hashes": [
+                "69c09861a7c03aabc976b76f66707c3b3715b44a8ab31a9a6ccdf9ff7d2da39d",
+                "3bb6e75df7c99c6485d80799836000aed7f1f51d34ef8cf993195c11127dff9b",
+                "dddce6b712d1a4b5f274a9c638657752183411f64f9480d34c4c7f3c84bc9441",
+                "c8ae11e45b5bfe991a480bb8c14cf8729dbc32967b86cc258f8b0de2984038a8"
+              ]
+            },
+            {
+              "id": "mellem_42",
+              "sværhed": "mellem",
+              "nr": 42,
+              "virksomhed": "Nordjysk Holding A/S",
+              "branche": "rygsække fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_mellem_42.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "07a26c288f11b7f8286b09d95146779a11d50fbfc8e5709044202bfd7bb09458",
+              "del_hashes": [
+                "659e16a92709a477a5090cc7c19ba4a28a06e6c4c7f035bb9c78ac92cfd47e1a",
+                "cc9670d6816347b4e9983d1bd2c604b4622bf0d3c2145396817dc4cc9c6bcc48",
+                "0e731723b3aee1705f3760573851b5a4e38829dc96b98b04268a724e2030ee04",
+                "51a0862c4667f8b5925c334903bcb7097c5e3f15b638e0ab883836cb0b487d29"
+              ]
+            },
+            {
+              "id": "svaer_43",
+              "sværhed": "svær",
+              "nr": 43,
+              "virksomhed": "Holbæk Logistik ApS",
+              "branche": "campingudstyr fra Canada (CAD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_43.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "2f18f88cbb2a292280662b0bacc6ad5e811e1b07766f53386f30347fa3df9e85",
+              "del_hashes": [
+                "43a6fe63b4a617db933bbf123e811cf5aecfd824aae6065d3858ca7cdbc0db91",
+                "8130060f1db6354e9cbd6e8c9c5ce604189c73d05d997b53b67a6933d05982e2",
+                "99c371fcb2589bd575945afb1922e917e35df789ec98e43a57dbfa8bf2fe8143",
+                "ecfffa64f95bc8c5c90bf8457a23a6ade87a261e108ebf0d102103a3af654596"
+              ]
+            },
+            {
+              "id": "svaer_44",
+              "sværhed": "svær",
+              "nr": 44,
+              "virksomhed": "Slagelse Distribution ApS",
+              "branche": "præcisionsure fra Schweiz (CHF)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_44.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "4788ced6a477a10655e0e612994028db681f76e9ce0202b1fe56676dc5191d79",
+              "del_hashes": [
+                "39271410d997824cb8d733722a8d34a8a00e058ac97e0a177535ee640e18a409",
+                "1e05a1dc467aaffaa0c787a98e69f3a71c52f8f20caa404eff7571f756489d68",
+                "91273706c198564dd3241b7d743e275338189c3e5d37f88af5ae867ab0ae0c85",
+                "84802912e3c50359cae60632ee631c0a248624e35253708645e8fcc2ff4be60f"
+              ]
+            },
+            {
+              "id": "svaer_45",
+              "sværhed": "svær",
+              "nr": 45,
+              "virksomhed": "Scandi Handel ApS",
+              "branche": "uld-trøjer fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_45.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "e450fe204f6bbca4bfecb4506f7be399c9c91f8e8df28aff8a94ccb392ccc6a6",
+              "del_hashes": [
+                "35729db4f42c32f6964fb7a285795cf56952b7023fa2aea753a30ecb6c547d77",
+                "8c6dc26aad64ba808e331d9805f5f4044b1873da5be491fac836d26cf5049d0a",
+                "daf42f26022056b37786b47bc7a778d2fbdbf8fa17fa32ca40b3639953e705a5",
+                "b1374592fd44be3b36984da1447e11c60e62dc1220a04c69cee52efd06f62eda"
+              ]
+            },
+            {
+              "id": "svaer_46",
+              "sværhed": "svær",
+              "nr": 46,
+              "virksomhed": "Viking Logistik A/S",
+              "branche": "bluetooth-højttalere fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_46.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "9984bf0f866a589241d5acad7f0513d0c879b7111cdbd5a864f3a205bd28e447",
+              "del_hashes": [
+                "906b354a82eb578e1c5ecdf6b7aa674a29098b5d90dcf91b1e4eb03f171cdc29",
+                "6afaa294cf29766f1984c9735ec91a08b4948382729a2645a1dab3345eef44bb",
+                "60b3b8a4256aece44f59c33a08271d06917a938c46cbf92794f42bda55704409",
+                "3010adebcd1020761943bc8dca63423e3b2ae88b531aa68c7f95900eea9618e2"
+              ]
+            },
+            {
+              "id": "svaer_47",
+              "sværhed": "svær",
+              "nr": 47,
+              "virksomhed": "Aalborg Holding ApS",
+              "branche": "uld-trøjer fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_47.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "9cb62d043481c9232a9b22bffaad9f35a111522268f189bc72a75875baf1d709",
+              "del_hashes": [
+                "0a708a8d13310952494da732181c42186ff1e8d4ac9072e2f52d9c16319e0ad3",
+                "b54497224fd76b08f9284f467fa7534450987e3cf90bb5a8b83619d15d6959e0",
+                "fc04dee7c6b0c71a341067dc78e0d6085947f87e55ab71152c40a28fb60c02c2",
+                "7c356eab1af73450b2b0da0fbf2ffa2c15271489d768f2970dd0aa1affe93479"
+              ]
+            },
+            {
+              "id": "svaer_48",
+              "sværhed": "svær",
+              "nr": 48,
+              "virksomhed": "Skive Handel A/S",
+              "branche": "håndmalede fliser fra Portugal (EUR)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_48.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "ea87754e7534b304c61d9347e0ae983014d10a4da7e06983d96f47d9d101a682",
+              "del_hashes": [
+                "a72de39242904242e5636c91d282cdf123b42a7cb01db50ace329dcc81322f79",
+                "f8306083b09b36de6585213bbdee994538f949cb6cae95e55a36210879aeba6d",
+                "ba1e3581c0461a3e07ba22181ce6cdd2574ab4932522c3b36ad6aa65c58c5f4b",
+                "df481e9861264ae43d3d54e1fa1a81d1e755727dd02d6f8a90fcf806742fed77"
+              ]
+            },
+            {
+              "id": "svaer_49",
+              "sværhed": "svær",
+              "nr": 49,
+              "virksomhed": "Aalborg Import A/S",
+              "branche": "basketballsko fra USA (USD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_49.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "d8a61eaaba1738138eeaba19ae8db6771b62a683ff2b25455a2106ddaa5217e2",
+              "del_hashes": [
+                "222ae79b299226c8a466117fde827d6e2e8a44f651650f80609bcc902ed794a7",
+                "10a1b38f44cc129c382bbcf5c5b7eac5ba8e73484c982f58946ef875d9ef5bd8",
+                "f49452e8e954d4412ea6dbdfde8cd514535349db0d159c6a03c32987857c3111",
+                "dac65fa1d83e700df37ea9728e6c7a10c89bdf05c291bbb1bc4afd4a04d7cb03"
+              ]
+            },
+            {
+              "id": "svaer_50",
+              "sværhed": "svær",
+              "nr": 50,
+              "virksomhed": "Sønderborg Handel ApS",
+              "branche": "uld-trøjer fra New Zealand (NZD)",
+              "vtype": "handel",
+              "fil": "opgavesaet_svaer_50.zip",
+              "bundle": "opgavesaet/bidragskalkulation/v2/opgavesaet_bidragskalkulation_v2.zip",
+              "kode_hash": "6cb60c50659a6ddf1532d1c5c68e9f17a5329a280809e5494719b3f5ff4e2704",
+              "del_hashes": [
+                "438509450692d7c8b3b8f1bd5a1a644b8f29fd9baaa4c734a7e9c0e6cf3a9eed",
+                "812cc212ea2c6bc83f4ca1e4224d936a98b6423b7c25aba964dacf28732a47ce",
+                "f1b80bae565c700c263ce75bd8087d54202b08a267867ef07f3a46a18d93c2f6",
+                "b7f1e5ade71c50578baae66948fce8a534869eca8191cb6c01d0649207278a20"
+              ]
+            }
+          ],
+          "laererark": [
+            "laererark/bidragskalkulation/v2/laererark_bidragskalkulation_v2.docx",
+            "laererark/bidragskalkulation/v2/laererark_bidragskalkulation_v2.xlsx"
+          ]
+        }
+      ],
+      "kode_tekst": "Koden er 8 cifre: de første 2 cifre af de variable enhedsomkostninger, dækningsbidraget pr. stk., dækningsgraden og reklamens nulpunkt (se kodevejledningen nederst i opgaven)."
+    }
+  ]
+}
